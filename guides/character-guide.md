@@ -1,0 +1,322 @@
+# 📔 Character Guide
+
+### 🪶 Character Guide <a href="#wiki_.1fab6_character_guide" id="wiki_.1fab6_character_guide"></a>
+
+#### 💭 **Character Creation** <a href="#wiki_.1f4ad_character_creation" id="wiki_.1f4ad_character_creation"></a>
+
+**📕 Guidelines**
+
+1. Your character is original.
+2. Your character is mortal and from a world other than the one in which Chertia takes place.
+3. Your character does not share a name with you (in any form) and is distinct from your real personality.
+4. Your character is not 'evil' or antagonistic.
+5. Your character is not perfect -- give them flaws.
+6. Your character cannot have split or multiple personalities.&#x20;
+
+#### 📚 Additional Guidelines
+
+{% tabs %}
+{% tab title="Grounding" %}
+#### **🏛 Grounding Your Character**
+
+* Your character cannot be overpowered (god-modding). This is a broad statement, and it applies in a number of different ways. These are including, _**but not limited to:**_
+  * Your character cannot arrive in the story-world with more 'knowledge' of it than other characters. Everyone starts fresh.
+  * Your character cannot have items/objects/abilities from outside the story world, especially those of a magical nature.
+  * Your character cannot have magic that puts them at an advantage over other characters.
+  * Your character cannot be inherently stronger than other characters. Gear and attributes will decide that.
+  * All aspects of your character should be representable in-game.
+  * Your character cannot be a 'perfect' character - give them flaws. That's what makes roleplay interesting.
+  * We recommend giving your character only a limited memory of their backstory to ensure that you, as the person playing that character, are not tempted to focus on it too much during roleplay.
+* In roleplay, you cannot force your character's actions upon others. Instead of saying "\[A] picked up \[B]", you would say "\[A] attempts to pick up \[B]", which then gives the person playing \[B] a chance to accept, ask for a roll, or deny.
+{% endtab %}
+
+{% tab title="Antagonism & Protagonism" %}
+#### **🦸 Antagonism & Protagonism**
+
+* Your character cannot act as an antagonist. To clarify, they cannot actively work against the goal of the overall story. Your character _can_, however, be rude, arrogant, or even mean-spirited, so long as they are still working towards the common goal.&#x20;
+* In addition, your character must be respectful of the story characters. Getting in their faces, tapping them, antagonizing them, throwing items at them without asking, or attempting to hurt them (in an inappropriate moment) is not allowed.&#x20;
+* That being said, your character cannot act as the main protagonist of the story either. Making your character the centre of attention during story events is not fair to others. As long as we are doing our jobs & you abide by these guidelines, every character will have a chance to shine.
+* Do not focus on your character's backstory or world of origin beyond prominently relevant points.&#x20;
+* Your character should develop over time. Characters who regress too much and/or act as a roadblock to the plot may be removed from the story. We will work with you on this before we remove your character from the story (unless they are killed).
+* You are responsible for your character. You cannot shift blame for your own actions on to an alternate identity. While the line distinguishing players and characters is important, it's also important to understand that people _will_ associate you with the actions of your character to an extent.&#x20;
+
+****
+{% endtab %}
+
+{% tab title="Relevance & Inclusivity" %}
+#### **🤔 Relevance**
+
+* Keep things on topic as much as possible. Unless a roleplay is wide open, you should not sidetrack the session or event.
+* You cannot use your character's ignorance as a distraction/excuse during roleplay. Your character might not know something (especially if they are new), but the middle of a story event or important interaction is not the place for them to ask.&#x20;
+
+#### **🤗 Inclusivity**
+
+* To ensure that everyone understands the rules around inclusivity, we ask you to distinguish between 'open' and 'closed' roleplay sessions.
+  * 'Open' sessions are free to join without permission required. Good for larger sessions (3+ people).
+  * 'Closed' sessions are set up in advance and others cannot join or spectate them without permission. Generally for smaller sessions (2-5 people).
+  * Try to keep a balance between these two styles. Remember that it can be incredibly hard to gather the courage to ask to join a closed roleplay session, and you can make that much easier for new players by simply inviting them. If you are struggling to join roleplay, contact a staff member.
+* Characters must speak primarily in English. Portions of speech not in English must be translated, and roleplay done in different languages must be agreed upon by all involved parties.
+
+****
+{% endtab %}
+
+{% tab title="Projection & Canon" %}
+#### **📽 Projection**
+
+* Do not project on to your character. If you are taking something from roleplay personally, it likely means that you are projecting to an extent. It's therefore recommended that you create a character that has a different personality/mindset from yourself, to ensure that this doesn't happen. If you have questions about this, you can contact a staff member.&#x20;
+* Ensure that conflict between characters is kept between characters, and not shared conflict with the people playing them.
+* In-character relationships should be kept separate from out-of-character relationships as much as possible.
+
+#### **🪶 Canon**
+
+* Only roleplay conducted on the server or in a session thread can be considered canon.
+* Community members are free to contribute to the canon through various means, but these **must** be approved by moderators ahead of time. These means include, but are not limited to:
+  * Lore posts on the subreddit.
+  * Information in articles or books.
+  * 'Assumed' conversations or interactions between characters that do not actually take place on the server.
+  * _Note: to clarify, this means that community members must send the text they wish to add to the canon to a moderator (who will then approve or ask for changes) before posting it._
+* If an action or post violates this guide or is determined to be damaging to the canon, that action or post might be removed from canon.
+* Blatant plagiarism from sources outside of Chertia is forbidden and will be removed from canon.
+
+****
+{% endtab %}
+
+{% tab title="Safety" %}
+#### **🛑 Safety**
+
+* Any form of violence between characters must be agreed upon by the involved players out-of-character.
+* All players with characters pursuing romantic relationships must be at least 18 years old (in real life).
+* All characters participating in romantic relationships must be adults canonically. Humans may be 16, but Romeo & Juliet laws between 16 and 18 are in play.
+* Before involving others in relationship roleplay, please ensure that you have their outright consent. Some players may not want to participate in this aspect of roleplay.
+* Characters cannot engage in inappropriate activities, including those of a sexual nature. Erotic roleplay is strictly forbidden.
+* Graphic roleplay (torture, maiming) is strictly forbidden.
+* Stay away from alcohol abuse & drug use/abuse.&#x20;
+* Discussing self-harm and suicide is forbidden.
+* Any mention or intention of pedophilia will result in an instant permanent ban from the server without appeal.
+
+#### **📑 Odds & Ends**
+
+* The following topics do not need to be discussed in the story.
+  * The exact mechanics behind death / the afterlife. Character deaths are only permanent when noted.
+  * Non-Minecraft materials (ex. silver) and their uses.
+  * Multiple timelines, backwards time travel, etc.
+  * Technology. Keep it vague.
+  * Physical attributes beyond the ones defined when you submit your character.
+* If a character is absent from an event, you do not _need_ to invent a reason why. It can simply be assumed that they were not there. They cannot canonically have been doing anything else, as per the guideline that roleplay must take place on the server.
+{% endtab %}
+{% endtabs %}
+
+#### 💣 **Character Reset** <a href="#wiki_.1f4a3_character_reset" id="wiki_.1f4a3_character_reset"></a>
+
+Through the permission of staff, you are able to kill off your character and reset your progress through a number of different ways:
+
+* You can have your character killed in the main story if there is an appropriate opportunity to do so.
+* You can have your character kill themselves, either accidentally or intentionally - however, this cannot be graphic in any way.
+* Your character can be killed by another player character - you must still have permission from staff.
+
+If you choose to reset your character, death is the only option. Your character cannot return from this. Character deaths are final. Note that characters are not considered 'safe' in the main story. We may kill off your character in an appropriate setting in the main story, giving you the opportunity to create a new character. We will help you with this. Staff may ask players to submit a new character or retract character approval if they agree that the player is struggling to roleplay with their character.
+
+#### 🧽 Character Changes
+
+Certain elements of characters may be changed after the character has been submitted and approved. Characters can age up a year once every 12 months (obviously), and personality and traits can be adjusted as the character develops. Names and pronouns can also change, but require staff approval as they have to be changed manually on the server. Other elements of characters (like race, age \[beyond what is already described], and major flaw) cannot be changed.
+
+#### ⚜️ Races
+
+<details>
+
+<summary>Human</summary>
+
+* **Server Effects:** None.
+* **Lifespan:** 70-110 years (child up until 18)
+* **Height:** 135cm - 200cm
+* **RP Difficulty:** 1/5
+
+Humans can vary dramatically in personality, but they are generally self-interested and extremely social.
+
+</details>
+
+<details>
+
+<summary>Avian</summary>
+
+* **Server Effects:** 9 hearts. Sneaking in the air allows them to do a 'double jump'.
+* **Lifespan:** 100-130 years (child up until 18)
+* **Height:** 140cm - 190cm
+* **RP Difficulty:** 2/5
+
+Avians are birdlike humanoids who typically wield great strength, but lack dexterity and endurance. Their personalities can vary greatly.
+
+</details>
+
+<details>
+
+<summary>Capling</summary>
+
+* **Server Effects:** Have higher knockback resistance.
+* **Lifespan:** 200-300 years (child up until 20)
+* **Height:** 170cm - 200cm
+* **RP Difficulty:** 3/5
+
+Caplings are typically male. They are satyr-like creatures who often live in colder places, such as mountains or snowy taigas. They have hooves instead of feet. They are social creatures, however, and are very good at trading and bartering. They have higher deception, willpower, and dexterity, but also have lower strength.
+
+</details>
+
+<details>
+
+<summary>Dryad</summary>
+
+* **Server Effects:** Have limited photosynthesis, but have negative effects when they're in the dark.
+* **Lifespan:** 150-180 years (child up until 30)
+* **Height:** 130cm - 160cm
+* **RP Difficulty:** 1/5
+
+Dryads are plant-based organisms. Unlike in popular mythology, Dryads on Chertia are not tied to a tree or other plant, but instead autonomous. Personalities can vary greatly.
+
+</details>
+
+<details>
+
+<summary>Dwarf</summary>
+
+* **Server Effects:** 9 hearts. Can scavenge raw materials while mining.
+* **Lifespan:** 200-350 years (child up until 50)
+* **Height:** 90cm - 130cm
+* **RP Difficulty:** 2/5
+
+Dwarves are usually low on intelligence and deception, but make up for it in willpower and their physical attributes. Headstrong and self-interested.
+
+</details>
+
+<details>
+
+<summary>Elf</summary>
+
+* **Server Effects:** Heal when they inflict damage, but those who attack elves are also slightly healed.
+* **Lifespan:** 500-700 years (child up until 150)
+* **Height:** 130cm - 190cm
+* **RP Difficulty:** 3/5
+
+Elves are typically very intelligent and deceptive. They are extremely self-interested and usually introverted.
+
+</details>
+
+<details>
+
+<summary>Golem</summary>
+
+* **Server Effects:** Consume redstone when they take damage as a means of 'repairing'. If they have no redstone, they will wither. Can consume normal food too.
+* **Lifespan:** 200-300 years (always start at 0 at character creation)
+* **Height:** 150cm - 180cm
+* **RP Difficulty:** 4/5
+
+Golems are an automaton-like race who have been imbued with souls. As a result, they carry a full range of emotion. They have higher strength and endurance, but much lower deception (max 3 deception, cannot lie unless it is to protect themselves or others from harm).
+
+Note that Golems are always newly-created. They do not originate from other worlds, and are 'born' when the character is approved.&#x20;
+
+</details>
+
+<details>
+
+<summary>Nymph</summary>
+
+* **Server Effects:** Can breathe underwater. Extremely susceptible to fire.
+* **Lifespan:** 170-210 years (child up until 20)
+* **Height:** 150cm - 190cm
+* **RP Difficulty:** 1/5
+
+Nymphs are typically extremely intelligent and agile, but lack physical strength. They are varied in personality.
+
+</details>
+
+<details>
+
+<summary>Sylph</summary>
+
+* **Server Effects:** Have a 'special' jump (sneak and then jump). Much faster when it's raining.
+* **Lifespan:** 90-120 years (child up until 17)
+* **Height:** 140cm - 190cm
+* **RP Difficulty:** 2/5
+
+Sylphs are typically very protective and intelligent. They may lack brute strength, but are deceptive and usually have more luck.
+
+
+
+</details>
+
+<details>
+
+<summary>Tiefling</summary>
+
+* **Server Effects:** Don't take any fire damage. Can't go in water (unless they have Water Breathing).&#x20;
+* **Lifespan:** 100-150 years (child up until 16)
+* **Height:** 150cm - 230cm
+* **RP Difficulty:** 2/5
+
+Tieflings' personalities can be extremely hard to describe, because they are often erratic. Usually (but not always) intelligent and deceptive, and have a great deal of physical strength.
+
+</details>
+
+<details>
+
+<summary>Unseelie</summary>
+
+* **Server Effects:** Can acquire 'souls' of monsters they kill, which they then consume. Cannot consume normal food.
+* **Lifespan:** 100-150 years (child up until 20)
+* **Height:** 120cm - 150cm
+* **RP Difficulty:** 5/5
+
+The Unseelie are a race of fairy-like creatures that seek to cause mayhem. They are notorious tricksters and are very deceptive. They have low strength, but high deception and intelligence.
+
+</details>
+
+<details>
+
+<summary>Vampire</summary>
+
+* **Server Effects:** Burn without protection in the daylight & can only eat rotten flesh & ‘lifeforce’.
+* **Lifespan:** 300-400 years (cannot be children)
+* **Height:** 135cm - 200cm
+* **RP Difficulty:** 4/5
+
+Vampires are former humans who have been cursed. They typically wield similar strength to humans but have higher intelligence and lower deception.
+
+</details>
+
+<details>
+
+<summary>Villager</summary>
+
+* **Server Effects:** Can sneak to get Hero of the Village.
+* **Lifespan:** 50-70 years (child up until 10)
+* **Height:** 150cm - 190cm
+* **RP Difficulty:** 1/5
+
+Villagers are cunning and deceptive, but typically are not very strong and lack dexterity. They can otherwise vary in personality.
+
+</details>
+
+<details>
+
+<summary>Wight</summary>
+
+* **Server Effects:** Can sneak to go invisible.
+* **Lifespan:** 400-500 years (cannot be children)
+* **Height:** 135cm - 200cm
+* **RP Difficulty:** 4/5
+
+Wights are undead humans who still inhabit their deceased bodies. They typically share similar attributes to their deceased counterparts, but with lower strength. They thrive off of hatred. Note that Wights cannot be former player characters.
+
+</details>
+
+<details>
+
+<summary>Wolffolk</summary>
+
+* **Server Effects:** Receive strength, regeneration, and hunger when they take damage. Deal more damage in the dark, deal less damage in the light.
+* **Lifespan:** 260-320 years (child up until 20)
+* **Height:** 180cm - 230cm
+* **RP Difficulty:** 3/5
+
+Wolffolk are typically very closed-off and slow to trust others. They are strong, but lack dexterity and usually have rotten luck.
+
+</details>
