@@ -7,11 +7,11 @@
 **📕 Guidelines**
 
 1. Your character is original.
-2. Your character is mortal and from a world other than the one in which Chertia takes place.
+2. Your character is mortal and from an existing clan in Divian.
 3. Your character does not share a name with you (in any form) and is distinct from your real personality.
-4. Your character is not 'evil' or antagonistic.
+4. Your character is not evil.
 5. Your character is not perfect -- give them flaws.
-6. Your character cannot have split or multiple personalities.&#x20;
+6. Your character does not have split or multiple personalities.&#x20;
 
 #### 📚 Additional Guidelines
 
@@ -20,23 +20,20 @@
 #### **🏛 Grounding Your Character**
 
 * Your character cannot be overpowered (god-modding). This is a broad statement, and it applies in a number of different ways. These are including, _**but not limited to:**_
-  * Your character cannot arrive in the story-world with more 'knowledge' of it than other characters. Everyone starts fresh.
-  * Your character cannot have items/objects/abilities from outside the story world, especially those of a magical nature.
+  * Your character cannot have magical/technological items/objects/abilities from outside the current story.
   * Your character cannot have magic that puts them at an advantage over other characters.
   * Your character cannot be inherently stronger than other characters. Gear and attributes will decide that.
   * All aspects of your character should be representable in-game.
   * Your character cannot be a 'perfect' character - give them flaws. That's what makes roleplay interesting.
-  * We recommend giving your character only a limited memory of their backstory to ensure that you, as the person playing that character, are not tempted to focus on it too much during roleplay.
 * In roleplay, you cannot force your character's actions upon others. Instead of saying "\[A] picked up \[B]", you would say "\[A] attempts to pick up \[B]", which then gives the person playing \[B] a chance to accept, ask for a roll, or deny.
 {% endtab %}
 
 {% tab title="Antagonism & Protagonism" %}
 #### **🦸 Antagonism & Protagonism**
 
-* Your character cannot act as an antagonist. To clarify, they cannot actively work against the goal of the overall story. Your character _can_, however, be rude, arrogant, or even mean-spirited, so long as they are still working towards the common goal.&#x20;
+* Your character can, be rude, arrogant, or even mean-spirited, so long as they are not 'evil'.
 * In addition, your character must be respectful of the story characters. Getting in their faces, tapping them, antagonizing them, throwing items at them without asking, or attempting to hurt them (in an inappropriate moment) is not allowed.&#x20;
-* That being said, your character cannot act as the main protagonist of the story either. Making your character the centre of attention during story events is not fair to others. As long as we are doing our jobs & you abide by these guidelines, every character will have a chance to shine.
-* Do not focus on your character's backstory or world of origin beyond prominently relevant points.&#x20;
+* Your character cannot try to act as the main protagonist of the story. Making your character the centre of attention during story events is not fair to others. As long as we are doing our jobs & you abide by these guidelines, every character will have a chance to shine.
 * Your character should develop over time. Characters who regress too much and/or act as a roadblock to the plot may be removed from the story. We will work with you on this before we remove your character from the story (unless they are killed).
 * You are responsible for your character. You cannot shift blame for your own actions on to an alternate identity. While the line distinguishing players and characters is important, it's also important to understand that people _will_ associate you with the actions of your character to an extent.&#x20;
 
@@ -56,8 +53,6 @@
   * 'Closed' sessions are set up in advance and others cannot join or spectate them without permission. Generally for smaller sessions (2-5 people).
   * Try to keep a balance between these two styles. Remember that it can be incredibly hard to gather the courage to ask to join a closed roleplay session, and you can make that much easier for new players by simply inviting them. If you are struggling to join roleplay, contact a staff member.
 * Characters must speak primarily in English. Portions of speech not in English must be translated, and roleplay done in different languages must be agreed upon by all involved parties.
-
-****
 {% endtab %}
 
 {% tab title="Projection & Canon" %}
@@ -69,16 +64,10 @@
 
 #### **🪶 Canon**
 
-* Only roleplay conducted on the server or in a session thread can be considered canon.
-* Community members are free to contribute to the canon through various means, but these **must** be approved by moderators ahead of time. These means include, but are not limited to:
-  * Lore posts on the subreddit.
-  * Information in articles or books.
-  * 'Assumed' conversations or interactions between characters that do not actually take place on the server.
-  * _Note: to clarify, this means that community members must send the text they wish to add to the canon to a moderator (who will then approve or ask for changes) before posting it._
-* If an action or post violates this guide or is determined to be damaging to the canon, that action or post might be removed from canon.
+* Only roleplay conducted on the server or in a session thread can be considered canon. Roleplay conducted on Discord or another platform is not canon.
+* Work with the Storytellers to ensure that canon is consistent.
+* If an action violates this guide or is determined to be damaging to the canon, that action might be removed from canon.
 * Blatant plagiarism from sources outside of Chertia is forbidden and will be removed from canon.
-
-****
 {% endtab %}
 
 {% tab title="Safety" %}
@@ -86,7 +75,7 @@
 
 * Any form of violence between characters must be agreed upon by the involved players out-of-character.
 * All players with characters pursuing romantic relationships must be at least 18 years old (in real life).
-* All characters participating in romantic relationships must be adults canonically. Humans may be 16, but Romeo & Juliet laws between 16 and 18 are in play.
+* All characters participating in romantic relationships must be adults canonically.
 * Before involving others in relationship roleplay, please ensure that you have their outright consent. Some players may not want to participate in this aspect of roleplay.
 * Characters cannot engage in inappropriate activities, including those of a sexual nature. Erotic roleplay is strictly forbidden.
 * Graphic roleplay (torture, maiming) is strictly forbidden.
@@ -100,8 +89,6 @@
   * The exact mechanics behind death / the afterlife. Character deaths are only permanent when noted.
   * Non-Minecraft materials (ex. silver) and their uses.
   * Multiple timelines, backwards time travel, etc.
-  * Technology. Keep it vague.
-  * Physical attributes beyond the ones defined when you submit your character.
 * If a character is absent from an event, you do not _need_ to invent a reason why. It can simply be assumed that they were not there. They cannot canonically have been doing anything else, as per the guideline that roleplay must take place on the server.
 {% endtab %}
 {% endtabs %}
@@ -266,32 +253,6 @@ Tieflings' personalities can be extremely hard to describe, because they are oft
 * **RP Difficulty:** 5/5
 
 The Unseelie are a race of fairy-like creatures that seek to cause mayhem. They are notorious tricksters and are very deceptive. They have low strength, but high deception and intelligence.
-
-</details>
-
-<details>
-
-<summary>Vampire</summary>
-
-* **Server Effects:** Burn without protection in the daylight & can only eat rotten flesh & ‘lifeforce’.
-* **Lifespan:** 300-400 years (cannot be children)
-* **Height:** 135cm - 200cm
-* **RP Difficulty:** 4/5
-
-Vampires are former humans who have been cursed. They typically wield similar strength to humans but have higher intelligence and lower deception.
-
-</details>
-
-<details>
-
-<summary>Villager</summary>
-
-* **Server Effects:** Can sneak to get Hero of the Village.
-* **Lifespan:** 50-70 years (child up until 10)
-* **Height:** 150cm - 190cm
-* **RP Difficulty:** 1/5
-
-Villagers are cunning and deceptive, but typically are not very strong and lack dexterity. They can otherwise vary in personality.
 
 </details>
 
