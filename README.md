@@ -44,8 +44,8 @@ Welcome to Chertia! If you're new, read the "Getting Started" guide below.
 
 #### Story
 
-{% content-ref url="story/timeline.md" %}
-[timeline.md](story/timeline.md)
+{% content-ref url="lore/timeline.md" %}
+[timeline.md](lore/timeline.md)
 {% endcontent-ref %}
 
 #### Other
