@@ -14,18 +14,18 @@ _The Kingdom is led by Queen Lucinda Perpetua, sister of_ [_Mercy Perpetua of Tr
 
 #### Constellian Shields (Clan)
 
-This clan is primarily comprised of **sylphs, nymphs, dryads, and wolffolk** who have been cast out from other clans and other nations. They offer protection to anyone, especially other outcasts.&#x20;
+This clan is primarily comprised of <mark style="background-color:green;">**sylphs, nymphs, dryads, and wolffolk**</mark> who have been cast out from other clans and other nations. They offer <mark style="background-color:yellow;">protection</mark> to anyone, especially other <mark style="background-color:yellow;">outcasts</mark>.&#x20;
 
 _Characters from this clan will be noble protectors who identify with outcasts._
 
 #### Virtuous Sun (Clan)
 
-This **elf-dominated but inclusive** clan prides itself on its healing prowess and ability to hunt monsters, undead, and necromancers. Some of its members are former Collective mages. Similar to Constellian Shields, they focus on protection and healing of their allies.
+This <mark style="background-color:green;">**elf-dominated but inclusive**</mark> clan prides itself on its <mark style="background-color:yellow;">healing prowess</mark> and ability to <mark style="background-color:yellow;">hunt</mark> monsters, undead, and necromancers. Some of its members are former Collective mages. Similar to Constellian Shields, they focus on protection and healing of their allies.
 
 _Characters from this clan will be focused on healing and hunting monsters._
 
 #### Blossom (Location)
 
-Blossom serves as the capital city of Theta. It is an **inclusive** city. Its residents typically pride themselves on upholding tradition and respecting magic. It is the home of Queen Lucinda Perpetua.
+Blossom serves as the capital city of Theta. It is an <mark style="background-color:green;">**inclusive**</mark> city. Its residents typically pride themselves on <mark style="background-color:yellow;">upholding tradition and respecting magic</mark>. It is the home of Queen Lucinda Perpetua.
 
 _Characters from this location will be varied, but will have an affinity for magic and tradition._
