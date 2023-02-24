@@ -20,7 +20,7 @@ _Characters from this region will seek possessions and territory._
 
 #### The Bronze Shield (Location)
 
-This is a city in the eastern region of the unmarked territory, currently owned by Theta. The city is divided into warriors and traders. Warriors train to protect the clan, while traders run the economy and perform research. The structure is not concrete, and the clan is very open. They are known, however, for occasionally being reckless.
+This is a **diverse** city in the eastern region of the unmarked territory, currently owned by Theta. The city is divided into warriors and traders. Warriors train to protect the clan, while traders run the economy and perform research. The structure is not concrete, and the clan is very open. They are known, however, for occasionally being reckless.
 
 _Characters from this region will be opinionated and focused on combat or trade._
 

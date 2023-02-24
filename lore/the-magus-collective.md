@@ -38,6 +38,6 @@ _Characters from this house will be interested in enchanting._
 
 #### House Mevos
 
-Comprised of various races, this House largely does not associate with the rest of the Magus Collective. They focus on healing magic, but wish to serve a larger group than just the Collective, despite House Suvos's insistence of otherwise.
+Comprised of **various races**, this House largely does not associate with the rest of the Magus Collective. They focus on healing magic, but wish to serve a larger group than just the Collective, despite House Suvos's insistence of otherwise.
 
 _Characters from this house will be interested in healing magic._

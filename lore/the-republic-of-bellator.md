@@ -14,7 +14,7 @@ _Each major clan/location has one vote at the table when it comes to decisions i
 
 #### The Flame Crest (Clan)
 
-A tiefling-dominated clan that lives in southeastern Bellator. Their leader, who maintains a mystery identity, makes all of the important decisions. Despite the authoritarian setup, Flame Crest is a successful clan, spanning several towns and locations in Bellator. They are comprised of many viewpoints and ideologies, but share a suspicion for groups from Matrona.&#x20;
+A **tiefling-dominated** clan that lives in southeastern Bellator. Their leader, who maintains a mystery identity, makes all of the important decisions. Despite the authoritarian setup, Flame Crest is a successful clan, spanning several towns and locations in Bellator. They are comprised of many viewpoints and ideologies, but share a suspicion for groups from Matrona.&#x20;
 
 _Characters from this clan are used to being told what to do, but can have a variety of viewpoints and ideologies._
 

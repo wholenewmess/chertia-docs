@@ -32,6 +32,6 @@ _Characters from this location can be varied, but will typically have a technolo
 
 #### Daikoten (Location)
 
-This settlement is inhabited by an alliance of caplings and dwarves who primarily focus on jewelry-crafting and bartering. They mine precious minerals when they can, and work closely with the residents of Circuit Mountain. Its inhabits are largely focused on self-image as a result of their production of jewelry and other luxury goods.
+This settlement is inhabited by an alliance of **caplings and dwarves** who primarily focus on jewelry-crafting and bartering. They mine precious minerals when they can, and work closely with the residents of Circuit Mountain. Its inhabits are largely focused on self-image as a result of their production of jewelry and other luxury goods.
 
 _Characters from this location are typically obsessed with self-image._
