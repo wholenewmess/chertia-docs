@@ -32,8 +32,12 @@ _Characters from this location will typically be intelligent and self-sustaining
 
 #### The Clockwise Market (Location)
 
-Typically inhabited by **Unseelie, Wights, Humans, Elves, and Avians**. The Clockwise Market is the economic capital of Tranquillia. It is a collective of merchants, settled together to better protect each other. The location has since grown into a sprawling city in central Tranquillia.They form a large open market that never truly closes thanks to its main residents' opposing schedules.
+Typically inhabited by **Unseelie, Wights, Humans, Elves, and Avians**. The Clockwise Market is the economic capital of Tranquillia. It is a collective of merchants, settled together to better protect each other. The location has since grown into a sprawling city in central Tranquillia. They form a large open market that never truly closes thanks to its main residents' opposing schedules.
+
+_Characters from this location will typically be well-versed in trade._
 
 #### Perpetua (Location)
 
 Perpetua is the largest city in Tranquillia. Located in the west, this is the nation's capital and home to Queen Mercy Perpetua. It's a **diverse** city with many different races and ideologies.
+
+_Characters from this location can be extremely varied._
