@@ -20,24 +20,24 @@ _Characters from this location will be peaceful and used to self-sustainability.
 
 #### The Knights of Praesidium (Clan)
 
-These knights are located all across the Kingdom, and serve as the <mark style="background-color:yellow;">military</mark> and law enforcement of Tranquillia. Comprised of <mark style="background-color:green;">**all different races**</mark>.
+These knights are located all across the Kingdom, and serve as the <mark style="background-color:yellow;">military</mark> and law enforcement of Tranquillia. Comprised of <mark style="background-color:green;">all different races</mark>.
 
 _Characters from this clan will be well-versed in combat._
 
 #### Clover (Location)
 
-Named after a former settlement in Hyacinth, the <mark style="background-color:green;">**diverse**</mark> people of Clover lead a very <mark style="background-color:yellow;">environmental</mark> and druidice lifestyle. Known for their <mark style="background-color:yellow;">agriculture, alchemy, and nature-based rituals</mark>. They are a relatively recent addition to Tranquillia, and a lot of their nomadic tendencies are maintained. The city is located near Hyparia Lake, to the north of Tranquillia. They are typically peaceful, but aren't afraid to get involved in conflict when necessary.
+Named after a former settlement in Hyacinth, the <mark style="background-color:green;">diverse</mark> people of Clover lead a very <mark style="background-color:yellow;">environmental</mark> and druidice lifestyle. Known for their <mark style="background-color:yellow;">agriculture, alchemy, and nature-based rituals</mark>. They are a relatively recent addition to Tranquillia, and a lot of their nomadic tendencies are maintained. The city is located near Hyparia Lake, to the north of Tranquillia. They are typically peaceful, but aren't afraid to get involved in conflict when necessary.
 
 _Characters from this location will typically be intelligent and self-sustaining. They will get involved in conflict when necessary._
 
 #### The Clockwise Market (Location)
 
-Typically inhabited by <mark style="background-color:green;">**Unseelie, Wights, Humans, Elves, and Avians**</mark>. The Clockwise Market is the <mark style="background-color:yellow;">economic capital</mark> of Tranquillia. It is a collective of <mark style="background-color:yellow;">merchants</mark>, settled together to better protect each other. The location has since grown into a sprawling city in central Tranquillia. They form a large open market that never truly closes thanks to its main residents' opposing schedules.
+Typically inhabited by <mark style="background-color:green;">Unseelie, Wights, Humans, Elves, and Avians</mark>. The Clockwise Market is the <mark style="background-color:yellow;">economic capital</mark> of Tranquillia. It is a collective of <mark style="background-color:yellow;">merchants</mark>, settled together to better protect each other. The location has since grown into a sprawling city in central Tranquillia. They form a large open market that never truly closes thanks to its main residents' opposing schedules.
 
 _Characters from this location will typically be well-versed in trade._
 
 #### Perpetua (Location)
 
-Perpetua is the largest city in Tranquillia. Located in the west, this is the nation's capital and home to Queen Mercy Perpetua. It's a <mark style="background-color:green;">**diverse**</mark> city with <mark style="background-color:yellow;">many different races and ideologies</mark>.
+Perpetua is the largest city in Tranquillia. Located in the west, this is the nation's capital and home to Queen Mercy Perpetua. It's a <mark style="background-color:green;">diverse</mark> city with <mark style="background-color:yellow;">many different races and ideologies</mark>.
 
 _Characters from this location can be extremely varied._
