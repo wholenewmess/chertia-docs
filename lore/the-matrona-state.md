@@ -14,13 +14,13 @@ _Snowmage are the primary leaders of Matrona, and typically make the decisions._
 
 #### Alchemilla (Clan)
 
-Located in southern Matrona, this **nymph and dryad-dominated** **environmentalist** clan is highly influential. Their leader is Euridice Cliforia. They are one of the founding clans of The Matrona State, and lead a druidic lifestyle. They are suspicious of the other clans' inclusion of races other than Nymphs and Dryads. They believe in shared success, but only among those they consider acceptable.
+Located in southern Matrona, this **nymph and dryad-dominated** environmentalist clan is highly influential. Their leader is Euridice Cliforia. They are one of the founding clans of The Matrona State, and lead a druidic lifestyle. They are suspicious of the other clans' inclusion of races other than Nymphs and Dryads. They believe in shared success, but only among those they consider acceptable.
 
 _Characters from this clan will have a focus on shared success, but may be suspicious of others._
 
 #### Snowmage (Location)
 
-A city in the far north of Matrona, comprised of **various races** and cultures. Snowmage is headed by Madam Meriline, who was democratically elected. Many citizens of Snowmage are **skeptical of magic**, as they believe it is very dangerous. Snowmage has a large focus on **education** and the sharing of knowledge. They believe that only well-read and intelligent people can truly contribute to society, but they do their best to ensure everyone is included in that description.
+A city in the far north of Matrona, comprised of **various races** and cultures. Snowmage is headed by Madam Meriline, who was democratically elected. Many citizens of Snowmage are skeptical of magic, as they believe it is very dangerous. Snowmage has a large focus on education and the sharing of knowledge. They believe that only well-read and intelligent people can truly contribute to society, but they do their best to ensure everyone is included in that description.
 
 Snowmage are currently facing the threat of magic's resurgence in the region, as many of the higher-ups (hypocritcally) do not want children being taught about magic.
 
