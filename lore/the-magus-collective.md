@@ -26,7 +26,7 @@ _Characters from this house will be interested in necromancy and soul magic._
 
 #### House Salint
 
-Comprised of <mark style="background-color:green;">**sylphs and avians**</mark>, this House mainly researches <mark style="background-color:yellow;">mind and dream magics</mark>. While small, House Salint is considered a very <mark style="background-color:yellow;">stable</mark> group. Commoners work in a physical capacity, but are knowledgeable on the House's expertise in mind magic for <mark style="background-color:yellow;">interrogation</mark>.
+Comprised of <mark style="background-color:green;">sylphs and avians</mark>, this House mainly researches <mark style="background-color:yellow;">mind and dream magics</mark>. While small, House Salint is considered a very <mark style="background-color:yellow;">stable</mark> group. Commoners work in a physical capacity, but are knowledgeable on the House's expertise in mind magic for <mark style="background-color:yellow;">interrogation</mark>.
 
 _Characters from this house will be interested in dream and mind magic._
 
