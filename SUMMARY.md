@@ -32,6 +32,7 @@
 
 * [🔋 Modpack](other/modpack.md)
 
-## 🕯 2023
+## 🔥 Rising
 
-* [🗺 Season 6](2023/season-6.md)
+* [🗺 Proposal (Nov 2022)](rising/proposal-nov-2022.md)
+* [🛣 Progress](rising/progress.md)
