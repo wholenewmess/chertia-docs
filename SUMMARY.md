@@ -15,7 +15,6 @@
 * [📔 Character Guide](guides/character-guide.md)
 * [📙 Safety Practices](guides/safety-practices.md)
 * [💻 Commands](guides/commands.md)
-* [⚖ Player Government](guides/player-government.md)
 
 ## 📖 Lore
 
@@ -35,4 +34,3 @@
 ## 🔥 Rising
 
 * [🗺 Proposal (Nov 2022)](2023/season-6.md)
-* [🛣 Progress](rising/progress.md)

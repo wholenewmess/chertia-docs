@@ -38,8 +38,8 @@ Welcome to Chertia! If you're new, read the "Getting Started" guide below.
 [commands.md](guides/commands.md)
 {% endcontent-ref %}
 
-{% content-ref url="guides/player-government.md" %}
-[player-government.md](guides/player-government.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
 #### Story
