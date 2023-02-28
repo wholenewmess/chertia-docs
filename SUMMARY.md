@@ -34,5 +34,5 @@
 
 ## 🔥 Rising
 
-* [🗺 Proposal (Nov 2022)](rising/proposal-nov-2022.md)
+* [🗺 Proposal (Nov 2022)](2023/season-6.md)
 * [🛣 Progress](rising/progress.md)

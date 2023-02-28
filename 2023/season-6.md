@@ -1,4 +1,4 @@
-# 🗺 Season 6
+# 🗺 Proposal (Nov 2022)
 
 Season 6 is an upcoming iteration of Chertia that is currently in the early planning stages. Our intention is to launch Season 6 in Q2 2023, and it will last **indefinitely**. We hope that, if this is indeed the 'ultimate' iteration of Chertia that we want it to be, **a reset will not be necessary**. The following ideas (and more) are being considered for Season 6.
 

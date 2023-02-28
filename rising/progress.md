@@ -32,6 +32,8 @@
 
 {% @linear/embed url="https://linear.app/chertia/issue/CHE-38/story-event-planning" issueId="CHE-38" %}
 
+{% @linear/embed url="https://linear.app/chertia/issue/CHE-19/story-character-skins" issueId="CHE-19" %}
+
 {% @linear/embed url="https://linear.app/chertia/issue/CHE-20/character-sheet-template" issueId="CHE-20" %}
 
 ### Meta
