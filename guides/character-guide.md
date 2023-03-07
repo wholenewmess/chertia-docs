@@ -9,7 +9,7 @@
 1. Your character is original.
 2. Your character is mortal and from an existing clan in Divian.
 3. Your character does not share a name with you (in any form) and is distinct from your real personality.
-4. Your character is not evil.
+4. Your character is not irredemably amoral.
 5. Your character is not perfect -- give them flaws.
 6. Your character does not have split or multiple personalities.&#x20;
 
@@ -31,7 +31,7 @@
 {% tab title="Antagonism & Protagonism" %}
 #### **🦸 Antagonism & Protagonism**
 
-* Your character can, be rude, arrogant, or even mean-spirited, so long as they are not 'evil'.
+* Your character can, be rude, arrogant, or even mean-spirited, so long as they are not abhorrently 'evil'.
 * In addition, your character must be respectful of the story characters. Getting in their faces, tapping them, antagonizing them, throwing items at them without asking, or attempting to hurt them (in an inappropriate moment) is not allowed.&#x20;
 * Your character cannot try to act as the main protagonist of the story. Making your character the centre of attention during story events is not fair to others. As long as we are doing our jobs & you abide by these guidelines, every character will have a chance to shine.
 * Your character should develop over time. Characters who regress too much and/or act as a roadblock to the plot may be removed from the story. We will work with you on this before we remove your character from the story (unless they are killed).
@@ -114,7 +114,7 @@ Certain elements of characters may be changed after the character has been submi
 <summary>Human</summary>
 
 * **Server Effects:** None.
-* **Lifespan:** 70-110 years (child up until 18)
+* **Lifespan:** 70-100 years (child up until 18)
 * **Height:** 135cm - 200cm
 * **RP Difficulty:** 1/5
 
@@ -140,7 +140,7 @@ Avians are birdlike humanoids who typically wield great strength, but lack dexte
 <summary>Capling</summary>
 
 * **Server Effects:** Have higher knockback resistance.
-* **Lifespan:** 200-300 years (child up until 20)
+* **Lifespan:** 100-120 years (child up until 20)
 * **Height:** 170cm - 200cm
 * **RP Difficulty:** 3/5
 
@@ -153,7 +153,7 @@ Caplings are typically male. They are satyr-like creatures who often live in col
 <summary>Dryad</summary>
 
 * **Server Effects:** Have limited photosynthesis, but have negative effects when they're in the dark.
-* **Lifespan:** 150-180 years (child up until 30)
+* **Lifespan:** 150-170 years (child up until 20)
 * **Height:** 130cm - 160cm
 * **RP Difficulty:** 1/5
 
@@ -166,7 +166,7 @@ Dryads are plant-based organisms. Unlike in popular mythology, Dryads on Chertia
 <summary>Dwarf</summary>
 
 * **Server Effects:** 9 hearts. Can scavenge raw materials while mining.
-* **Lifespan:** 200-350 years (child up until 50)
+* **Lifespan:** 150-170 years (child up until 20)
 * **Height:** 90cm - 130cm
 * **RP Difficulty:** 2/5
 
@@ -179,7 +179,7 @@ Dwarves are usually low on intelligence and deception, but make up for it in wil
 <summary>Elf</summary>
 
 * **Server Effects:** Heal when they inflict damage, but those who attack elves are also slightly healed.
-* **Lifespan:** 500-700 years (child up until 150)
+* **Lifespan:** 100-130 years (child up until 40)
 * **Height:** 130cm - 190cm
 * **RP Difficulty:** 3/5
 
@@ -192,7 +192,7 @@ Elves are typically very intelligent and deceptive. They are extremely self-inte
 <summary>Golem</summary>
 
 * **Server Effects:** Consume redstone when they take damage as a means of 'repairing'. If they have no redstone, they will wither. Can consume normal food too.
-* **Lifespan:** 200-300 years (always start at 0 at character creation)
+* **Lifespan:** 200-300 years
 * **Height:** 150cm - 180cm
 * **RP Difficulty:** 4/5
 
