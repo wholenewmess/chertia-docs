@@ -42,7 +42,11 @@ _A nation of **magic-wielders**, founded in 1547. They mostly see technology as 
 
 _Founded in 1580, shortly after the Second Great Magic War. Have a significant focus on **trade and economy**. Azura is an opportunistic nation that primarily sees no limit to expansion and prosperity._
 
+#### Countries & Factions - Cheat Sheet
+
 {% file src="../.gitbook/assets/Chertia Rising - Countries & Factions Fact Sheet (March 8 2023).pdf" %}
+
+#### Map of Divian
 
 <figure><img src="../.gitbook/assets/Divian_1624.jpg" alt=""><figcaption></figcaption></figure>
 
