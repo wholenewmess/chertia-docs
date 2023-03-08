@@ -4,7 +4,7 @@ description: The complete collection of the server's lore.
 
 # 📘 Lore Guide
 
-### **Divian**
+**Divian**
 
 Divian is the world in which our story takes place. It is comprised of several different nations, all of which are relatively new.
 
@@ -42,4 +42,7 @@ _A nation of **magic-wielders**, founded in 1547. They mostly see technology as 
 
 _Founded in 1580, shortly after the Second Great Magic War. Have a significant focus on **trade and economy**. Azura is an opportunistic nation that primarily sees no limit to expansion and prosperity._
 
+{% file src="../.gitbook/assets/Chertia Rising - Countries & Factions Fact Sheet (March 8 2023).pdf" %}
+
 <figure><img src="../.gitbook/assets/Divian_1624.jpg" alt=""><figcaption></figcaption></figure>
+
