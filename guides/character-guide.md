@@ -198,8 +198,6 @@ Elves are typically very intelligent and deceptive. They are extremely self-inte
 
 Golems are an automaton-like race who have been imbued with souls. As a result, they carry a full range of emotion. They have higher strength and endurance, but much lower deception (max 3 deception, cannot lie unless it is to protect themselves or others from harm).
 
-Note that Golems are always newly-created. They do not originate from other worlds, and are 'born' when the character is approved.&#x20;
-
 </details>
 
 <details>
