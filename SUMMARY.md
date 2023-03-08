@@ -18,7 +18,7 @@
 
 ## 📖 Lore
 
-* [⏱ Timeline](lore/timeline.md)
+* [⏱ Historical Timeline](lore/historical-timeline.md)
 * [🗺 The Republic of Epsilon](lore/the-republic-of-epsilon.md)
 * [🗺 The Kingdom of Theta](lore/the-kingdom-of-theta.md)
 * [🗺 The Matrona State](lore/the-matrona-state.md)
