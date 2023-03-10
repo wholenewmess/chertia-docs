@@ -109,6 +109,8 @@ Certain elements of characters may be changed after the character has been submi
 
 #### ⚜️ Races
 
+_Note: most active abilities require your hand to be empty to use them._
+
 <details>
 
 <summary>Human</summary>
@@ -126,7 +128,7 @@ Humans can vary dramatically in personality, but they are generally self-interes
 
 <summary>Avian</summary>
 
-* **Server Effects:** 9 hearts. Sneaking in the air allows them to do a 'double jump'.
+* **Server Effects:** Sneaking in the air allows them to do a 'double jump'.
 * **Lifespan:** 100-130 years (child up until 18)
 * **Height:** 140cm - 190cm
 * **RP Difficulty:** 2/5
@@ -139,7 +141,7 @@ Avians are birdlike humanoids who typically wield great strength, but lack dexte
 
 <summary>Capling</summary>
 
-* **Server Effects:** Have higher knockback resistance.
+* **Server Effects:** Can sneak while in the air to dive bomb to the ground.
 * **Lifespan:** 100-120 years (child up until 20)
 * **Height:** 170cm - 200cm
 * **RP Difficulty:** 3/5
@@ -152,7 +154,7 @@ Caplings are typically male. They are satyr-like creatures who often live in col
 
 <summary>Dryad</summary>
 
-* **Server Effects:** Have limited photosynthesis, but have negative effects when they're in the dark.
+* **Server Effects:** Can use photosynthesis to replenish hunger in the sunlight.
 * **Lifespan:** 150-170 years (child up until 20)
 * **Height:** 130cm - 160cm
 * **RP Difficulty:** 1/5
@@ -165,7 +167,7 @@ Dryads are plant-based organisms. Unlike in popular mythology, Dryads on Chertia
 
 <summary>Dwarf</summary>
 
-* **Server Effects:** 9 hearts. Can scavenge raw materials while mining.
+* **Server Effects:** Have greatly reduced experience costs when using anvils. Can also scavenge raw materials while mining.
 * **Lifespan:** 150-170 years (child up until 20)
 * **Height:** 90cm - 130cm
 * **RP Difficulty:** 2/5
@@ -178,7 +180,7 @@ Dwarves are usually low on intelligence and deception, but make up for it in wil
 
 <summary>Elf</summary>
 
-* **Server Effects:** Heal when they inflict damage, but those who attack elves are also slightly healed.
+* **Server Effects:** Can focus (sneak) to remove all poison and wither effects, turning them into regeneration. Will do the same for anyone around them.
 * **Lifespan:** 100-130 years (child up until 40)
 * **Height:** 130cm - 190cm
 * **RP Difficulty:** 3/5
@@ -204,7 +206,7 @@ Golems are an automaton-like race who have been imbued with souls. As a result, 
 
 <summary>Nymph</summary>
 
-* **Server Effects:** Can breathe underwater. Extremely susceptible to fire.
+* **Server Effects:** Can breathe underwater and can 'dash' while swimming (using sneak).
 * **Lifespan:** 170-210 years (child up until 20)
 * **Height:** 150cm - 190cm
 * **RP Difficulty:** 1/5
@@ -217,7 +219,7 @@ Nymphs are typically extremely intelligent and agile, but lack physical strength
 
 <summary>Sylph</summary>
 
-* **Server Effects:** Have a 'special' jump (sneak and then jump). Much faster when it's raining.
+* **Server Effects:** Can propel themselves forward (by sneaking) while gliding with an elytra. Must land to recharge ability.
 * **Lifespan:** 90-120 years (child up until 17)
 * **Height:** 140cm - 190cm
 * **RP Difficulty:** 2/5
@@ -232,7 +234,7 @@ Sylphs are typically very protective and intelligent. They may lack brute streng
 
 <summary>Tiefling</summary>
 
-* **Server Effects:** Don't take any fire damage. Can't go in water (unless they have Water Breathing).&#x20;
+* **Server Effects:** Don't take any fire damage, instead gaining strength and speed. Can't go in water (unless they have Water Breathing).&#x20;
 * **Lifespan:** 100-150 years (child up until 16)
 * **Height:** 150cm - 230cm
 * **RP Difficulty:** 2/5
@@ -271,7 +273,7 @@ Wights are undead humans who still inhabit their deceased bodies. They typically
 
 <summary>Wolffolk</summary>
 
-* **Server Effects:** Receive strength, regeneration, and hunger when they take damage. Deal more damage in the dark, deal less damage in the light.
+* **Server Effects:** Receive strength and resistance when they take damage. Can sneak to acquire night vision.
 * **Lifespan:** 260-320 years (child up until 20)
 * **Height:** 180cm - 230cm
 * **RP Difficulty:** 3/5
