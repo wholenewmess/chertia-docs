@@ -12,3 +12,10 @@ Here is the download & information for the Quilt modpack that you're welcome to 
 If you have any issues let me know.
 
 Use this pack to ensure you are following the server rules.
+
+#### 🖼️ Resource Packs
+
+These resource packs are optional but recommended.
+
+* [Clearer Water (VanillaTweaks)](https://cdn.discordapp.com/attachments/804827590388613160/1084991696762310747/chertia\_resourcepack\_clearer\_water.zip)
+* [Optimal VanillaTweaks Setup (VanillaTweaks)](https://cdn.discordapp.com/attachments/804827590388613160/1084991697081094254/chertia\_resourcepack\_vanilla\_tweaks.zip)
