@@ -1,6 +1,6 @@
 # Table of contents
 
-* [🌈 chertia](README.md)
+* [🔥 chertia](README.md)
 * [👋 Getting Started](getting-started.md)
 
 ## 🤝 Structure
