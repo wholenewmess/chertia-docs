@@ -29,6 +29,7 @@
 
 ## 🪶 Other
 
+* [⚙ Changes](other/changes.md)
 * [🔋 Modpack](other/modpack.md)
 
 ## 🔥 Rising
