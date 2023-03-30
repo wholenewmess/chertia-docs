@@ -14,14 +14,7 @@ This page will provide you with an overview of various commands on the server.
 **Roleplay Commands**
 
 * `/me [text]` - Sends a message in chat with the format of your character performing an action. For example, "`/me jumps around`",
-* `/action [text]` - Similar to /me, but allows you to use your name anywhere in the message. For example, "`/action Surprised by this, Alice's jaw dropped`".
 * `/lc [radius]` - Enter & exit local chat with a set radius. You can just do /lc to use the default. Run the command again to leave local chat. While in local chat, you can type "@a" at the start of your message to send a message visible to everyone on the server.
-* `/roll [attribute]` - Rolls a particular attribute and compares it to your character's stats.
-
-**Mode Commands**
-
-* `/chat mode [text]` - Sets your chat mode. Can be set to "ic" (in-character), "ooc" (out-of-character), and "strict" (you will only receive local messages).
-* `/chat monochrome` - Toggles monochrome mode, which reduces the colours in chat for accessibility purposes.
 
 **Other Commands**
 
@@ -36,10 +29,11 @@ This page will provide you with an overview of various commands on the server.
 <summary><strong>🧙</strong> Characters</summary>
 
 * `/character create [name]` - Start the character creation process.
-* `/character edit` - Edit your sheet.
-* `/character submit` - Submit your sheet (sign the book and hold it, and then run this command).
+* `/character edit [element] [value]` - Edit an element of your character.
 * `/character view [player]` - View someone's character sheet (not available within first two weeks of a character being submitted).
 * `/character reset` - Reset your character. Staff member approval is required.
+
+To edit your character's attributes, you type them in one sequence. For example, "5/3/1/2/4". Do this in the order in which the attributes appear on your sheet.
 
 </details>
 
@@ -73,7 +67,7 @@ This page will provide you with an overview of various commands on the server.
 
 These commands only work during events.
 
-* `/sw` - Teleport to spawn.
+* `/warp [location]` - Teleport to a pre-defined location.
 * `/home` - Teleport home.
 * `/tpa [player]` - Send a teleport request to another player.
 
@@ -87,7 +81,6 @@ These commands only work during events.
 * `/note view [name]` - View a specific notes.
 * `/note delete [name]` - Delete a specific note.
 * `/notes` - View an overview of all your notes.
-* `/nav [bed/death]` - Sets your compass to point at your bed or your last death.
 * `/report [text]` - Sends a message to the staff team with your username, location, and provided description. Report bugs or rule violations using this command.
 
 </details>
