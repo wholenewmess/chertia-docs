@@ -18,7 +18,7 @@ description: A list of changes made to the server.
 <!---->
 
 * Added technology (not ready for use).
-* Added magic (not ready for use).
-  * The way to craft wands can be discovered through the quest system.
+* Added magic.
+  * Sneak + right click on an enchanting table with a stick to craft a wand.
 
 </details>
