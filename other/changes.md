@@ -14,8 +14,12 @@ description: A list of changes made to the server.
   * Communicate to the server from Discord in the designated channel.
   * Messages sent in Discord will automatically have parentheses added to them.
 * Re-added journalling with `/journal`.
-* Added the `/clan members` command to see all the members of a clan.
-* Fixed issue with stray NBT tags on traded items.
+* Added the `/clan members` command to see all the members of a clan. (thanks, AceDroo)
+* Added the `/map` command to get the url for the squaremap.
+* Fixed issue with stray NBT tags on traded items. (thanks, RegularPandaLoL and MiystiFi)
+* Fixed issue where capling racial ability would trigger when dismounting or on a ladder. (thanks, Endlan)
+* Fixed issue where depth strider would negatively interact with the nymph racial ability. (thanks, Txckie_)
+
 
 </details>
 
