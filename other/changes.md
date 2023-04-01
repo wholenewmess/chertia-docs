@@ -6,6 +6,19 @@ description: A list of changes made to the server.
 
 <details>
 
+<summary>⌨️ April 1, 2023</summary>
+
+* Added ic and ooc chat modes. Do `/chat mode [mode]` to switch between them.
+  * Parentheses will automatically be added to messages in ooc mode.
+* Added Discord server chat.
+  * Communicate to the server from Discord in the designated channel.
+  * Messages sent in Discord will automatically have parentheses added to them.
+* Re-added journalling with `/journal`.
+
+</details>
+
+<details>
+
 <summary>🪶 March 31, 2023</summary>
 
 * Added rewritten chat system.
