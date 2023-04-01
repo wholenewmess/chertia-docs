@@ -14,6 +14,8 @@ description: A list of changes made to the server.
   * Communicate to the server from Discord in the designated channel.
   * Messages sent in Discord will automatically have parentheses added to them.
 * Re-added journalling with `/journal`.
+* Added the `/clan members` command to see all the members of a clan.
+* Fixed issue with stray NBT tags on traded items.
 
 </details>
 
