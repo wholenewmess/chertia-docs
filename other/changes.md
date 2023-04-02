@@ -19,6 +19,7 @@ description: A list of changes made to the server.
 * Fixed issue with stray NBT tags on traded items. (thanks, RegularPandaLoL and MiystiFi)
 * Fixed issue where capling racial ability would trigger when dismounting or on a ladder. (thanks, Endlan)
 * Fixed issue where depth strider would negatively interact with the nymph racial ability. (thanks, Txckie_)
+* Fixed issue with stray NBT tags on given items (/gi). (thanks, Amhil and 77Gameboy)
 
 
 </details>
