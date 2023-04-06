@@ -1,0 +1,95 @@
+# 🪄 Magic
+
+Chertia features a fully-custom magic system. It is regularly updated and expanded upon with new spells, wands, rituals, and tomes. This system is currently in <mark style="background-color:red;">BETA</mark>.
+
+### Wands
+
+<details>
+
+<summary>🪄 Basic Wand</summary>
+
+A common wand which can hold one spell. It is crafted by sneak+right clicking on an enchantment table with a stick.
+
+</details>
+
+<details>
+
+<summary>🔮 Crystal Blessed Wand</summary>
+
+A unique wand which can hold two spells. It is crafted by smashing an End Crystal while holding a Basic Wand.
+
+</details>
+
+### Spells
+
+<details>
+
+<summary>👁️ Blink</summary>
+
+A movement spell that shoots a bullet which teleports the caster to its location when it lands.
+
+</details>
+
+<details>
+
+<summary>🎯 Bullet</summary>
+
+An offensive spell that makes the caster shoot a bullet along their line of sight.
+
+</details>
+
+<details>
+
+<summary>💨 Burst</summary>
+
+A movement spell that gives the caster a short burst of speed.
+
+</details>
+
+<details>
+
+<summary>💧 ???</summary>
+
+
+
+</details>
+
+<details>
+
+<summary>💘 Cupid</summary>
+
+A defensive spell that shoots a bullet which heals its target.
+
+</details>
+
+<details>
+
+<summary>❄️ Freeze</summary>
+
+An offensive spell that shoots a bullet which temporarily freezes its target.
+
+</details>
+
+<details>
+
+<summary>🦅 ???</summary>
+
+
+
+</details>
+
+<details>
+
+<summary>❤️ Heal</summary>
+
+A defensive spell that heals the caster.
+
+</details>
+
+<details>
+
+<summary>⚡️ ???</summary>
+
+
+
+</details>

@@ -5,7 +5,7 @@ description: A list of changes made to the server.
 # ⚙ Changes
 
 <details>
- <summary>⌨️ April 4, 2023</summary>
+ <summary>⌨️ April 1, 2023</summary>
 * Fixed issue with repeated sendings of multi-line discord messages. (thanks, 77Gameboy)
 </details>
 

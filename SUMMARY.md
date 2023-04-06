@@ -15,6 +15,7 @@
 * [📔 Character Guide](guides/character-guide.md)
 * [📙 Safety Practices](guides/safety-practices.md)
 * [💻 Commands](guides/commands.md)
+* [🪄 Magic](guides/magic.md)
 
 ## 📖 Lore
 
