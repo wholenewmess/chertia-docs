@@ -37,7 +37,7 @@
 * Your character should develop over time. Characters who regress too much and/or act as a roadblock to the plot may be removed from the story. We will work with you on this before we remove your character from the story (unless they are killed).
 * You are responsible for your character. You cannot shift blame for your own actions on to an alternate identity. While the line distinguishing players and characters is important, it's also important to understand that people _will_ associate you with the actions of your character to an extent.&#x20;
 
-****
+
 {% endtab %}
 
 {% tab title="Relevance & Inclusivity" %}

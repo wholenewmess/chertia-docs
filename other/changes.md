@@ -5,11 +5,17 @@ description: A list of changes made to the server.
 # ⚙ Changes
 
 <details>
- <summary>⌨️ April 1, 2023</summary>
-* Fixed issue with repeated sendings of multi-line discord messages. (thanks, 77Gameboy)
+
+<summary>🔮 April 5, 2023</summary>
+
+* Added the Crystal Blessed Wand.
+* Moved server over to new provider.
+* Fixed several issues relating to magic.
+
 </details>
 
 <details>
+
 <summary>⌨️ April 1, 2023</summary>
 
 * Added ic and ooc chat modes. Do `/chat mode [mode]` to switch between them.
@@ -22,9 +28,9 @@ description: A list of changes made to the server.
 * Added the `/map` command to get the url for the squaremap.
 * Fixed issue with stray NBT tags on traded items. (thanks, RegularPandaLoL and MiystiFi)
 * Fixed issue where capling racial ability would trigger when dismounting or on a ladder. (thanks, Endlan)
-* Fixed issue where depth strider would negatively interact with the nymph racial ability. (thanks, Txckie_)
+* Fixed issue where depth strider would negatively interact with the nymph racial ability. (thanks, Txckie\_)
 * Fixed issue with stray NBT tags on given items (/gi). (thanks, Amhil and 77Gameboy)
-
+* Fixed issue with repeated sendings of multi-line discord messages. (thanks, 77Gameboy)
 
 </details>
 

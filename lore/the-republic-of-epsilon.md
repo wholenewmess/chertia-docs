@@ -14,7 +14,7 @@ _The Kingdom is led by Leader Tendaji Madaki._
 
 #### Cevilla (Clan)
 
-This <mark style="background-color:green;">diverse</mark> **** clan is a coalition of <mark style="background-color:yellow;">adventuring</mark> groups. Considered to be loosely named after the old Goddess of Adventure, the Cevilla clan are <mark style="background-color:yellow;">expansionists</mark>. They believe in discovering new places and making it theirs -- to the point where they can sometimes be viewed as thieves.
+This <mark style="background-color:green;">diverse</mark> clan is a coalition of <mark style="background-color:yellow;">adventuring</mark> groups. Considered to be loosely named after the old Goddess of Adventure, the Cevilla clan are <mark style="background-color:yellow;">expansionists</mark>. They believe in discovering new places and making it theirs -- to the point where they can sometimes be viewed as thieves.
 
 _Characters from this region will seek possessions and territory._
 
