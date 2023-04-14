@@ -30,10 +30,9 @@ This page will provide you with an overview of various commands on the server.
 
 * `/character create [name]` - Start the character creation process.
 * `/character edit [element] [value]` - Edit an element of your character.
-* `/character view [player]` - View someone's character sheet (not available within first two weeks of a character being submitted).
+  * `/character edit attributes X/X/X/X/X` - Set your character's attributes in the order which they appear on your sheet. If my character's health attribute is 3, the first number will be 3, and so on.
+* `/character view [player]` - View someone's character sheet.
 * `/character reset` - Reset your character. Staff member approval is required.
-
-To edit your character's attributes, you type them in one sequence. For example, "5/3/1/2/4". Do this in the order in which the attributes appear on your sheet.
 
 </details>
 

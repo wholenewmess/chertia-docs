@@ -22,8 +22,8 @@ Download our character concept document [here](https://docs.google.com/document/
 
 ### 5. Listen to feedback and adjust your concept.
 
-Various people, like Helpers and staff members, may provide you with feedback about your character. Listen to the feedback and adjust your character. People who are steadfast in their unwillingness to adhere to the guidelines and culture will not succeed in this community. People who are willing to listen to others and improve their concepts will thrive. The best characters are the ones that are unique and multi-faceted - while still being yours.&#x20;
+Various people, like Storytellers and staff members, may provide you with feedback about your character. Listen to the feedback and adjust your character. People who are steadfast in their unwillingness to adhere to the guidelines and culture will not succeed in this community. People who are willing to listen to others and improve their concepts will thrive. The best characters are the ones that are unique and multi-faceted - while still being yours.&#x20;
 
 ### 6. Get started on the server.
 
-Once your character is approved, you can log on to the server. Do `/character create [name]` for the character you've had approved and go from there, putting in the information from your concept document. Once you've filled out the book, sign it and type `/character submit`. With this, your character will be registered and you can begin playing. Please do NOT submit your character on the server if the concept document has not been approved by a staff member. We will un-approve your character on the server if you do this.
+Once your character is approved, you can log on to the server. Do `/character create [name]` for the character you've had approved and go from there, putting in the information from your concept document. Once you've set up your information with `/character edit`, you're good to start roleplaying. Please do NOT create your character on the server if the concept document has not been approved by a staff member. We will reset your character on the server if you do this.
