@@ -24,6 +24,7 @@ This page will provide you with an overview of various commands on the server.
 * `/whois [text]` - Helps you figure out who is who. You can use usernames, common names, and character names. However, the tablist will generally tell you what you need to know.
 
 **Modifiers and More**
+ 
 For more details on the chat system, see [this page](https://chertia.gitbook.io/wiki/guides/chat).
  
 </details>
