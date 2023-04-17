@@ -29,15 +29,18 @@
 {% endtab %}
 
 {% tab title="Antagonism & Protagonism" %}
-#### **🦸 Antagonism & Protagonism**
+#### **🧙 Antagonism**
 
 * Your character can, be rude, arrogant, or even mean-spirited, so long as they are not abhorrently 'evil'.
-* In addition, your character must be respectful of the story characters. Getting in their faces, tapping them, antagonizing them, throwing items at them without asking, or attempting to hurt them (in an inappropriate moment) is not allowed.&#x20;
-* Your character cannot try to act as the main protagonist of the story. Making your character the centre of attention during story events is not fair to others. As long as we are doing our jobs & you abide by these guidelines, every character will have a chance to shine.
-* Your character should develop over time. Characters who regress too much and/or act as a roadblock to the plot may be removed from the story. We will work with you on this before we remove your character from the story (unless they are killed).
+* Characters can act in opposition to the actions of the main story, but should not act as a roadblock during events.
+  * **For example,** if your character comes in possession of an important story item, it would be acceptable to have them try and bargain with other characters before giving it up. It would NOT be acceptable for them to hold on to the item unconditionally, or to destroy it altogether. Use your better judgement and remember everyone is here to experience and enjoy the story, and your character should not be preventing them from doing that.
+* Your character should develop over time. The easiest way to do this is to have them choose to or be forced to accept the consequences of their actions. A character who continually refuses development opportunities or even regresses will face consequences.
 * You are responsible for your character. You cannot shift blame for your own actions on to an alternate identity. While the line distinguishing players and characters is important, it's also important to understand that people _will_ associate you with the actions of your character to an extent.&#x20;
 
+#### 🦸 Protagonism
 
+* Your character cannot try to act as the main protagonist of the story. Making your character the centre of attention during story events is not fair to others. As long as we are doing our jobs & you abide by these guidelines, every character will have a chance to shine.
+* In addition, your character must be respectful of the story characters. Getting in their faces, tapping them, antagonizing them, throwing items at them without asking, or attempting to hurt them (in an inappropriate moment) is not allowed.&#x20;
 {% endtab %}
 
 {% tab title="Relevance & Inclusivity" %}
