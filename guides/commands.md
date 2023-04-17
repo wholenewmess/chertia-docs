@@ -14,7 +14,8 @@ This page will provide you with an overview of various commands on the server.
 **Roleplay Commands**
 
 * `/me [text]` - Sends a message in chat with the format of your character performing an action. For example, "`/me jumps around`",
-* `/lc [radius]` - Enter & exit local chat with a set radius. You can just do /lc to use the default. Run the command again to leave local chat. While in local chat, you can type "@a" at the start of your message to send a message visible to everyone on the server.
+* `/chat radius <number>` - Sets the default chat radius for your messages when In Character.
+* `/chat mode ic/ooc` - Sets your chat mode to either In Character or Out Of Character.
 
 **Other Commands**
 
@@ -22,6 +23,9 @@ This page will provide you with an overview of various commands on the server.
 * `/afk` - Puts you in AFK mode. Moving will disable AFK mode.&#x20;
 * `/whois [text]` - Helps you figure out who is who. You can use usernames, common names, and character names. However, the tablist will generally tell you what you need to know.
 
+**Modifiers and More**
+For more details on the chat system, see [this page](https://chertia.gitbook.io/wiki/guides/chat).
+ 
 </details>
 
 <details>
