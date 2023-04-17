@@ -4,6 +4,17 @@ description: A list of changes made to the server.
 
 # ⚙ Changes
 
+
+<details>
+
+<summary>💬 April 16, 2023</summary>
+
+* Reworked chat system. See [this page](https://chertia.gitbook.io/wiki/guides/chat) for details.
+* Maybe fixed armor stands not disappearing after swapping spells.
+* Added `/clear-invis-armor-stands`, a command to fix any stray armor stands you find from swapping spells.
+
+</details>
+
 <details>
 
 <summary>🔮 April 5, 2023</summary>
