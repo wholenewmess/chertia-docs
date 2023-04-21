@@ -11,13 +11,13 @@
 3. Your character does not share a name with you (in any form) and is distinct from your real personality.
 4. Your character is not irredemably amoral.
 5. Your character is not perfect -- give them flaws.
-6. Your character does not have split or multiple personalities.&#x20;
+6. Your character does not have split or multiple personalities.
 
 #### 📚 Additional Guidelines
 
 {% tabs %}
 {% tab title="Grounding" %}
-#### **🏛 Grounding Your Character**
+**🏛 Grounding Your Character**
 
 * Your character cannot be overpowered (god-modding). This is a broad statement, and it applies in a number of different ways. These are including, _**but not limited to:**_
   * Your character cannot have magical/technological items/objects/abilities from outside the current story.
@@ -29,27 +29,27 @@
 {% endtab %}
 
 {% tab title="Antagonism & Protagonism" %}
-#### **🧙 Antagonism**
+**🧙 Antagonism**
 
 * Your character can, be rude, arrogant, or even mean-spirited, so long as they are not abhorrently 'evil'.
 * Characters can act in opposition to the actions of the main story, but should not act as a roadblock during events.
   * **For example,** if your character comes in possession of an important story item, it would be acceptable to have them try and bargain with other characters before giving it up. It would NOT be acceptable for them to hold on to the item unconditionally, or to destroy it altogether. Use your better judgement and remember everyone is here to experience and enjoy the story, and your character should not be preventing them from doing that.
 * Your character should develop over time. The easiest way to do this is to have them choose to or be forced to accept the consequences of their actions. A character who continually refuses development opportunities or even regresses will face consequences nonetheless, so it's best to try and develop your character. Characters who don't develop will likely be killed off.
-* You are responsible for your character. You cannot shift blame for your own actions on to an alternate identity. While the line distinguishing players and characters is important, it's also important to understand that people _will_ associate you with the actions of your character to an extent.&#x20;
+* You are responsible for your character. You cannot shift blame for your own actions on to an alternate identity. While the line distinguishing players and characters is important, it's also important to understand that people _will_ associate you with the actions of your character to an extent.
 
-#### 🦸 Protagonism
+**🦸 Protagonism**
 
 * Your character cannot try to act as the main protagonist of the story. Making your character the centre of attention during story events is not fair to others. As long as we are doing our jobs & you abide by these guidelines, every character will have a chance to shine.
-* In addition, your character must be respectful of the story characters. Getting in their faces, tapping them, antagonizing them, throwing items at them without asking, or attempting to hurt them (in an inappropriate moment) is not allowed.&#x20;
+* In addition, your character must be respectful of the story characters. Getting in their faces, tapping them, antagonizing them, throwing items at them without asking, or attempting to hurt them (in an inappropriate moment) is not allowed.
 {% endtab %}
 
 {% tab title="Relevance & Inclusivity" %}
-#### **🤔 Relevance**
+**🤔 Relevance**
 
 * Keep things on topic as much as possible. Unless a roleplay is wide open, you should not sidetrack the session or event.
-* You cannot use your character's ignorance as a distraction/excuse during roleplay. Your character might not know something (especially if they are new), but the middle of a story event or important interaction is not the place for them to ask.&#x20;
+* You cannot use your character's ignorance as a distraction/excuse during roleplay. Your character might not know something (especially if they are new), but the middle of a story event or important interaction is not the place for them to ask.
 
-#### **🤗 Inclusivity**
+**🤗 Inclusivity**
 
 * To ensure that everyone understands the rules around inclusivity, we ask you to distinguish between 'open' and 'closed' roleplay sessions.
   * 'Open' sessions are free to join without permission required. Good for larger sessions (3+ people).
@@ -59,13 +59,13 @@
 {% endtab %}
 
 {% tab title="Projection & Canon" %}
-#### **📽 Projection**
+**📽 Projection**
 
-* Do not project on to your character. If you are taking something from roleplay personally, it likely means that you are projecting to an extent. It's therefore recommended that you create a character that has a different personality/mindset from yourself, to ensure that this doesn't happen. If you have questions about this, you can contact a staff member.&#x20;
+* Do not project on to your character. If you are taking something from roleplay personally, it likely means that you are projecting to an extent. It's therefore recommended that you create a character that has a different personality/mindset from yourself, to ensure that this doesn't happen. If you have questions about this, you can contact a staff member.
 * Ensure that conflict between characters is kept between characters, and not shared conflict with the people playing them.
 * In-character relationships should be kept separate from out-of-character relationships as much as possible.
 
-#### **🪶 Canon**
+**🪶 Canon**
 
 * Only roleplay conducted on the server or in a session thread can be considered canon. Roleplay conducted on Discord or another platform is not canon.
 * Work with the Storytellers to ensure that canon is consistent.
@@ -74,7 +74,7 @@
 {% endtab %}
 
 {% tab title="Safety" %}
-#### **🛑 Safety**
+**🛑 Safety**
 
 * Any form of violence between characters must be agreed upon by the involved players out-of-character.
 * All players with characters pursuing romantic relationships must be at least 18 years old (in real life).
@@ -82,11 +82,11 @@
 * Before involving others in relationship roleplay, please ensure that you have their outright consent. Some players may not want to participate in this aspect of roleplay.
 * Characters cannot engage in inappropriate activities, including those of a sexual nature. Erotic roleplay is strictly forbidden.
 * Graphic roleplay (torture, maiming) is strictly forbidden.
-* Stay away from alcohol abuse & drug use/abuse.&#x20;
+* Stay away from alcohol abuse & drug use/abuse.
 * Discussing self-harm and suicide is forbidden.
 * Any mention or intention of pedophilia will result in an instant permanent ban from the server without appeal.
 
-#### **📑 Odds & Ends**
+**📑 Odds & Ends**
 
 * The following topics do not need to be discussed in the story.
   * The exact mechanics behind death / the afterlife. Character deaths are only permanent when noted.
@@ -144,7 +144,7 @@ Avians are birdlike humanoids who typically wield great strength, but lack dexte
 
 <summary>Capling</summary>
 
-* **Server Effects:** Can sneak while in the air to dive bomb to the ground.
+* **Server Effects:** Can sneak while in the air to dive bomb to the ground. Can also do a strong "punch" while sneaking to send their victims flying.
 * **Lifespan:** 100-120 years (child up until 20)
 * **Height:** 170cm - 200cm
 * **RP Difficulty:** 3/5
@@ -229,15 +229,13 @@ Nymphs are typically extremely intelligent and agile, but lack physical strength
 
 Sylphs are typically very protective and intelligent. They may lack brute strength, but are deceptive and usually have more luck.
 
-
-
 </details>
 
 <details>
 
 <summary>Tiefling</summary>
 
-* **Server Effects:** Don't take any fire damage, instead gaining strength and speed. Can't go in water (unless they have Water Breathing).&#x20;
+* **Server Effects:** Don't take any fire damage, instead gaining strength and speed. Can't go in water (unless they have Water Breathing).
 * **Lifespan:** 100-150 years (child up until 16)
 * **Height:** 150cm - 230cm
 * **RP Difficulty:** 2/5
