@@ -5,7 +5,8 @@ Chertia features a custom chat system. This page will help you understand how th
 ### 🪶 Chat Modes
 
 * **In-character (ic)** chat is the default. You can switch to it with the command `/chat mode ic`. In in-character chat, your messages will have a reach radius. By default, this radius is 30 and can be changed with `/chat radius [number of blocks]`. This means that only others within that radius will be able to receive your messages.
-* **Out-of-character (ooc)** chat can be selected with `/chat mode ooc`. All messages will automatically be sent with parantheses. Additionally, these OOC messages will default to being global. 
+* **Out-of-character (ooc)** chat can be selected with `/chat mode ooc`. All messages will automatically be sent with parantheses. Additionally, these OOC messages will default to being global.
+* **Local-only** mode can be set regardless of ic or ooc chat mode. Use `/chat local-only true/false` to change it. In this mode, you will only receive local chat. Be aware that you can still send global chat messages in this mode.
 
 At any time, you can switch between these modes per-message. By starting your message with a quotation, it will be an in-character message. By starting it with an opening parenthesis, it will be an out-of-character message.
 
@@ -20,7 +21,9 @@ You can modify your chat using @X where X is a letter or number. A modifier can 
 * `@global` or `@g` will modify your message to become a global out-of-character message.
 
 ### Examples
+
 Here are a few examples of how these modifiers work:
+
 ```
 Person A and B are RP-ing, in IC mode.
 What they write:                   What appears in Chat:
