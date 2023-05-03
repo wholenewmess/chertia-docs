@@ -38,3 +38,4 @@
 ## 🔥 Rising
 
 * [🗺 Proposal (Nov 2022)](2023/season-6.md)
+* [👽 Proposed Races (May 2023)](rising/proposed-races-may-2023.md)
