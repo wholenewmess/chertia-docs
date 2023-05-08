@@ -2,36 +2,20 @@
 
 This page will provide you with an overview of various commands on the server.
 
-<details>
+#### 🗣️ Chat
 
-<summary>🗣️ Chat</summary>
-
-**Basic Chat Commands**
+For detailed information on the chat system, go [here](chat.md).
 
 * `/msg [player] [text]` - Send someone a private message.
 * `/r [text]` - Reply to your last received message.
-
-**Roleplay Commands**
-
 * `/me [text]` - Sends a message in chat with the format of your character performing an action. For example, "`/me jumps around`",
 * `/chat radius <number>` - Sets the default chat radius for your messages when In Character.
 * `/chat mode ic/ooc` - Sets your chat mode to either In Character or Out Of Character.
-
-**Other Commands**
-
 * `/name common [text]` - Sets your common name. This can only be done once. Set it to what you'd prefer to be called when you're out-of-character. This will show up on the Discord.
-* `/afk` - Puts you in AFK mode. Moving will disable AFK mode.&#x20;
+* `/afk` - Puts you in AFK mode. Moving will disable AFK mode.
 * `/whois [text]` - Helps you figure out who is who. You can use usernames, common names, and character names. However, the tablist will generally tell you what you need to know.
 
-**Modifiers and More**
- 
-For more details on the chat system, see [this page](https://chertia.gitbook.io/wiki/guides/chat).
- 
-</details>
-
-<details>
-
-<summary><strong>🧙</strong> Characters</summary>
+#### **🧙** Characters
 
 * `/character create [name]` - Start the character creation process.
 * `/character edit [element] [value]` - Edit an element of your character.
@@ -39,22 +23,14 @@ For more details on the chat system, see [this page](https://chertia.gitbook.io/
 * `/character view [player]` - View someone's character sheet.
 * `/character reset` - Reset your character. Staff member approval is required.
 
-</details>
-
-<details>
-
-<summary><strong>🪶</strong> Journal</summary>
+#### **🪶** Journal
 
 * `/journal add [text]` - Adds text to your journal entry.
 * `/journal view` - Views your current journal entry.
 * `/journal clear` - Clears your current journal entry.
 * `/journal send` - Sends your current journal entry to Discord.
 
-</details>
-
-<details>
-
-<summary>💵 Economy &#x26; Trading</summary>
+#### 💵 Economy & Trading
 
 * `/bal` - View your balance.
 * `/pay [player] [amount]` - Sends crowns to another player.
@@ -63,29 +39,18 @@ For more details on the chat system, see [this page](https://chertia.gitbook.io/
 * `/lockdrop` - Toggles your ability to drop items.
 * `/giveitem` - After running this, the next player you click on will receive your held item (the whole stack).
 
-</details>
+#### 👥 Event-Only
 
-<details>
-
-<summary>👥 Events</summary>
-
-These commands only work during events.
-
-* `/warp [location]` - Teleport to a pre-defined location.
+* `/sw` - Teleport to the event location.
 * `/home` - Teleport home.
 * `/tpa [player]` - Send a teleport request to another player.
 
-</details>
+#### 📝 Miscellaneous
 
-<details>
-
-<summary>📝 Miscellaneous</summary>
-
+* `/toggleseasoncolors` - Toggle the seasonal biome colours for yourself.
+* `/toggletemperature` - Toggle the temperature system for yourself.
 * `/note add [name] [text]` - Creates a note with the provided name and text.
 * `/note view [name]` - View a specific notes.
 * `/note delete [name]` - Delete a specific note.
 * `/notes` - View an overview of all your notes.
 * `/report [text]` - Sends a message to the staff team with your username, location, and provided description. Report bugs or rule violations using this command.
-
-</details>
-
