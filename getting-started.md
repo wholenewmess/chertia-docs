@@ -18,7 +18,7 @@ Applying to join the community is quick and easy. We need to make sure you're el
 
 ### 4. Create a character concept.
 
-Download our character concept document [here](https://docs.google.com/document/d/1KvMC4PLXva9wb2DFL2LVdIpuKvfoCTwb8fV9qJtHtJI/edit?usp=sharing). When you're finished, you can send it to our #character-draft channel in Discord, which will become visible once you are approved to become a Community Member.
+Make a copy of our character concept document [here](https://docs.google.com/document/d/1h_JFvBX57oaxKLt_CkxNXCv6o2SLY72CHfeNloC88zQ/edit?usp=sharing). When you're finished, you can send it to our #character-draft channel in Discord, which will become visible once you are approved to become a Community Member.
 
 ### 5. Listen to feedback and adjust your concept.
 
