@@ -18,6 +18,7 @@
 * [💻 Commands](guides/commands.md)
 * [💬 Chat](guides/chat.md)
 * [🪄 Magic](guides/magic.md)
+* [🔋 Technology](guides/technology.md)
 
 ## 📖 Lore
 
