@@ -6,9 +6,9 @@ Each player has an Energy Well by default. Usage of devices will draw from the E
 
 ### Devices
 
-#### 🪽 ???
+#### 🪽 Icarus Wing
 
-???
+While gliding, gives the user a burst of speed that propels them forward.
 
 #### ☁️ ???
 
