@@ -54,3 +54,4 @@ For detailed information on the chat system, go [here](chat.md).
 * `/note delete [name]` - Delete a specific note.
 * `/notes` - View an overview of all your notes.
 * `/report [text]` - Sends a message to the staff team with your username, location, and provided description. Report bugs or rule violations using this command.
+* `/submit-farm [text]` - Forwards your current location and the text to staff so they can review and approve the concept / prototype of your farm.
