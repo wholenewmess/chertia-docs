@@ -19,3 +19,4 @@ These resource packs are optional but recommended.
 
 * [Clearer Water (VanillaTweaks)](https://cdn.discordapp.com/attachments/804827590388613160/1084991696762310747/chertia\_resourcepack\_clearer\_water.zip)
 * [Optimal VanillaTweaks Setup (VanillaTweaks)](https://cdn.discordapp.com/attachments/804827590388613160/1084991697081094254/chertia\_resourcepack\_vanilla\_tweaks.zip)
+* [Lively Plants](https://cdn.modrinth.com/data/JIt3C14V/versions/UZv86z5s/%C2%A72LivelyPlants.zip) (WorldSalad)
