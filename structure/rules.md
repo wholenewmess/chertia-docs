@@ -7,7 +7,8 @@
 3. Be respectful of others; be kind & remain appropriate.
 4. Follow the survival & roleplay guidelines.
 5. All mob farm designs must be approved by staff. Most automatic farms are not allowed.
-6. The answer to the last question on the whitelist application is "cargo pants".
+6. You must be at least the minimum required age to join Chertia.
+7. The answer to the last question on the whitelist application is "cargo pants".
 
 #### **Extended Rules**
 
@@ -35,7 +36,8 @@
    2. Automatic farms, outside of those approved by staff, are not allowed.
    3. Your farms, mob pens, and builds must be respectful of server resources and mechanics. Maximum 2 chunks per crop type.
 5. **Follow the survival and roleplay guidelines.**
-6. _The answer to the last question on the whitelist application is “cargo pants”._
+6. You must be at least the minimum required age to join Chertia.
+7. _The answer to the last question on the whitelist application is “cargo pants”._
 
 You are expected to understand and adhere to the server rules -- ignorance is not an excuse.
 
