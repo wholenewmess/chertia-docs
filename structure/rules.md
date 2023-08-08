@@ -7,7 +7,7 @@
 3. Be respectful of others; be kind & remain appropriate.
 4. Follow the survival & roleplay guidelines.
 5. All mob farm designs must be approved by staff. Most automatic farms are not allowed.
-6. You must be at least the minimum required age to join Chertia.
+6. You must be at least 18 years old to join Chertia.
 7. The answer to the last question on the whitelist application is "cargo pants".
 
 #### **Extended Rules**
