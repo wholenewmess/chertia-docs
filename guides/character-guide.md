@@ -4,7 +4,7 @@
 
 #### 💭 **Character Creation** <a href="#wiki_.1f4ad_character_creation" id="wiki_.1f4ad_character_creation"></a>
 
-**📕 Guidelines**
+### **📕 Main Guidelines**
 
 1. Your character is original.
 2. Your character is mortal and from an existing clan in Divian.
@@ -13,98 +13,67 @@
 5. Your character is not perfect -- give them flaws.
 6. Your character does not have split or multiple personalities.
 
-#### 📚 Additional Guidelines
+### 📘 Additional Guidelines
 
-{% tabs %}
-{% tab title="Grounding" %}
-**🏛 Grounding Your Character**
+<mark style="background-color:yellow;">In general: be appropriate. Remember you are part of a community. And keep your character separate from yourself.</mark>
 
-* Your character cannot be overpowered (god-modding). This is a broad statement, and it applies in a number of different ways. These are including, _**but not limited to:**_
-  * Your character cannot have magical/technological items/objects/abilities from outside the current story.
-  * Your character cannot have magic that puts them at an advantage over other characters.
-  * Your character cannot be inherently stronger than other characters. Gear and attributes will decide that.
-  * All aspects of your character should be representable in-game.
-  * Your character cannot be a 'perfect' character - give them flaws. That's what makes roleplay interesting.
-* In roleplay, you cannot force your character's actions upon others. Instead of saying "\[A] picked up \[B]", you would say "\[A] attempts to pick up \[B]", which then gives the person playing \[B] a chance to accept, ask for a roll, or deny.
-{% endtab %}
+#### **🛑 Safety**
 
-{% tab title="Antagonism & Protagonism" %}
-**🧙 Antagonism**
-
-* Your character can, be rude, arrogant, or even mean-spirited, so long as they are not abhorrently 'evil'.
-* Characters can act in opposition to the actions of the main story, but should not act as a roadblock during events.
-  * **For example,** if your character comes in possession of an important story item, it would be acceptable to have them try and bargain with other characters before giving it up. It would NOT be acceptable for them to hold on to the item unconditionally, or to destroy it altogether. Use your better judgement and remember everyone is here to experience and enjoy the story, and your character should not be preventing them from doing that.
-* You are responsible for your character. You cannot shift blame for your own actions on to an alternate identity. While the line distinguishing players and characters is important, it's also important to understand that people _will_ associate you with the actions of your character to an extent.
-
-**🦸 Protagonism**
-
-* Your character cannot try to act as the main protagonist of the story. Making your character the centre of attention during story events is not fair to others. As long as we are doing our jobs & you abide by these guidelines, every character will have a chance to shine.
-* In addition, your character must be respectful of the story characters. Getting in their faces, tapping them, antagonizing them, throwing items at them without asking, or attempting to hurt them (in an inappropriate moment) is not allowed.
-{% endtab %}
-
-{% tab title="Relevance & Inclusivity" %}
-**🤔 Relevance**
-
-* Keep things on topic as much as possible. Unless a roleplay is wide open, you should not sidetrack the session or event.
-* You cannot use your character's ignorance as a distraction/excuse during roleplay. Your character might not know something (especially if they are new), but the middle of a story event or important interaction is not the place for them to ask.
-
-**🤗 Inclusivity**
-
-* Characters must speak primarily in English. Portions of speech not in English must be translated, and roleplay done in different languages must be agreed upon by all involved parties.
-* While we have 'races' on the server and in the lore, discrimination or prejudice against different races is a touchy subject, and one we really want to avoid.
-{% endtab %}
-
-{% tab title="Projection & Canon" %}
-**📽 Projection**
-
-* Do not project on to your character. If you are taking something from roleplay personally, it likely means that you are projecting to an extent. It's therefore recommended that you create a character that has a different personality/mindset from yourself, to ensure that this doesn't happen. If you have questions about this, you can contact a staff member.
-* Ensure that conflict between characters is kept between characters, and not shared conflict with the people playing them.
-* In-character relationships should be kept separate from out-of-character relationships as much as possible.
-
-**🪶 Canon**
-
-* Only roleplay conducted on the server or in a session thread can be considered canon. Roleplay conducted on Discord or another platform is not canon.
-* Work with the Storytellers to ensure that canon is consistent.
-* If an action violates this guide or is determined to be damaging to the canon, that action might be removed from canon.
-* Blatant plagiarism from sources outside of Chertia is forbidden and will be removed from canon.
-{% endtab %}
-
-{% tab title="Safety" %}
-**🛑 Safety**
+The following guidelines exist to ensure safety. These are non-negotiables.
 
 * Any form of violence between characters must be agreed upon by the involved players out-of-character.
-* All players with characters pursuing romantic relationships must be at least 18 years old (in real life).
-* All characters participating in romantic relationships must be adults canonically.
-* Before involving others in relationship roleplay, please ensure that you have their outright consent. Some players may not want to participate in this aspect of roleplay.
+* Before involving others in relationship roleplay, please ensure that you have their outright consent. Some players may not want to participate in this aspect of roleplay. All characters participating in romantic relationships must be adults.
 * Characters cannot engage in inappropriate activities, including those of a sexual nature. Erotic roleplay is strictly forbidden.
 * Graphic roleplay (torture, maiming) is strictly forbidden.
 * Stay away from alcohol abuse & drug use/abuse.
-* Discussing self-harm and suicide is forbidden.
-* Any mention or intention of pedophilia will result in an instant permanent ban from the server without appeal.
+* Discussing or displaying self-harm and/or suicide is forbidden.
 
-**📑 Odds & Ends**
+#### **🧙 Antagonism**
 
-* The following topics do not need to be discussed in the story.
-  * The exact mechanics behind death / the afterlife. Character deaths are only permanent when noted.
-  * Non-Minecraft materials (ex. silver) and their uses.
-  * Multiple timelines, backwards time travel, etc.
-* If a character is absent from an event, you do not _need_ to invent a reason why. It can simply be assumed that they were not there. They cannot canonically have been doing anything else, as per the guideline that roleplay must take place on the server.
-{% endtab %}
-{% endtabs %}
+Your character can be rude, arrogant, and semi-antagonistic <mark style="background-color:yellow;">so long as they are not 'amoral'.</mark> They can demonstrate disdain for other characters based on clan origins and affiliations, but not based on character race.&#x20;
 
-#### 💣 **Character Reset** <a href="#wiki_.1f4a3_character_reset" id="wiki_.1f4a3_character_reset"></a>
+Additionally, characters can act in opposition to the actions of the main story, but <mark style="background-color:yellow;">should not act as a roadblock during events</mark>. Use your better judgement and remember everyone is here to experience and enjoy the story, and your character should not be preventing them from doing that.
 
-Through the permission of staff, you are able to kill off your character and reset your progress through a number of different ways:
+Remember that <mark style="background-color:yellow;">you are responsible for your character</mark>. You cannot shift blame for your own actions on to an alternate identity.
 
-* You can have your character killed in the main story if there is an appropriate opportunity to do so.
-* You can have your character kill themselves, either accidentally or intentionally - however, this cannot be graphic in any way.
-* Your character can be killed by another player character - you must still have permission from staff.
+#### **🦸 Protagonism**
 
-If you choose to reset your character, you cannot return from this. Character departures are final.
+Your character <mark style="background-color:yellow;">cannot try to act as the main protagonist of the story</mark>. Making your character the centre of attention during story events is not fair to others. In addition, your character must be respectful of the story characters. Getting in their faces, tapping them, antagonizing them, throwing items at them without asking, or attempting to hurt them (in an inappropriate moment) is not allowed.
+
+#### **📽 Projection**
+
+<mark style="background-color:yellow;">Do not project on to your character</mark>. If you are taking something from roleplay personally, it likely means that you are projecting to an extent. It's therefore recommended that you create a character that has a different personality/mindset from yourself, to ensure that this doesn't happen. If you have questions about this, you can contact a staff member. In-character relationships should be kept separate from out-of-character relationships as much as possible.
+
+#### **🏛 Grounding Your Character**
+
+<mark style="background-color:yellow;">Your character cannot be overpowered</mark> (god-modding). This is a broad statement, and it applies in a number of different ways. These are including, _**but not limited to:**_
+
+* Your character cannot have magical/technological items/objects/abilities from outside the current story.
+* Your character cannot have magic that puts them at an advantage over other characters.
+* Your character cannot be inherently stronger than other characters. Gear and attributes will decide that.
+* All aspects of your character should be representable in-game.
+* Your character cannot be a 'perfect' character - give them flaws. That's what makes roleplay interesting.
+* In roleplay, you cannot force your character's actions upon others. Instead of saying "\[A] picked up \[B]", you would say "\[A] attempts to pick up \[B]", which then gives the person playing \[B] a chance to accept, ask for a roll, or deny.
+
+#### **🤔 Relevance**
+
+Keep things on topic as much as possible. Unless a roleplay is wide open, you should not sidetrack the session or event.
+
+You cannot use your character's ignorance as a distraction/excuse during roleplay. Your character might not know something (especially if they are new), but the middle of a story event or important interaction is not the place for them to ask.
+
+Characters must speak primarily in English. Portions of speech not in English must be translated, and roleplay done in different languages must be agreed upon by all involved parties.
+
+#### **🪶 Canon**
+
+<mark style="background-color:yellow;">Only roleplay conducted on the server or in a session thread can be considered canon</mark>. Roleplay conducted on Discord or another platform is not canon. Blatant plagiarism from sources outside of Chertia is forbidden and will be removed from canon.
 
 #### 🧽 Character Changes
 
-Certain elements of characters may be changed after the character has been submitted and approved. Characters can age up a year once every 12 months (obviously), and personality and traits can be adjusted as the character develops. Names and pronouns can also change, but require staff approval as they have to be changed manually on the server. Other elements of characters (like race, age \[beyond what is already described], and major flaw) cannot be changed.
+Certain elements of characters may be changed after the character has been submitted and approved. Discuss with a Storyteller before making changes to your character.
+
+#### 💣 **Character Reset** <a href="#wiki_.1f4a3_character_reset" id="wiki_.1f4a3_character_reset"></a>
+
+Through the permission of staff, you are able to eliminate your character and reset your progress through a number of different ways. Contact a Moderator or Administrator for more information.
 
 #### ⚜️ Races
 
