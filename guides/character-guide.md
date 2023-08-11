@@ -9,7 +9,7 @@
 1. Your character is original.
 2. Your character is mortal and from an existing clan in Divian.
 3. Your character does not share a name with you (in any form) and is distinct from your real personality.
-4. Your character is not irredemably amoral.
+4. Your character is not irredeemably amoral.
 5. Your character is not perfect -- give them flaws.
 6. Your character does not have split or multiple personalities.
 
@@ -34,7 +34,6 @@
 * Your character can, be rude, arrogant, or even mean-spirited, so long as they are not abhorrently 'evil'.
 * Characters can act in opposition to the actions of the main story, but should not act as a roadblock during events.
   * **For example,** if your character comes in possession of an important story item, it would be acceptable to have them try and bargain with other characters before giving it up. It would NOT be acceptable for them to hold on to the item unconditionally, or to destroy it altogether. Use your better judgement and remember everyone is here to experience and enjoy the story, and your character should not be preventing them from doing that.
-* Your character should develop over time. The easiest way to do this is to have them choose to or be forced to accept the consequences of their actions. A character who continually refuses development opportunities or even regresses will face consequences nonetheless, so it's best to try and develop your character. Characters who don't develop will likely be killed off.
 * You are responsible for your character. You cannot shift blame for your own actions on to an alternate identity. While the line distinguishing players and characters is important, it's also important to understand that people _will_ associate you with the actions of your character to an extent.
 
 **🦸 Protagonism**
@@ -51,11 +50,8 @@
 
 **🤗 Inclusivity**
 
-* To ensure that everyone understands the rules around inclusivity, we ask you to distinguish between 'open' and 'closed' roleplay sessions.
-  * 'Open' sessions are free to join without permission required. Good for larger sessions (3+ people).
-  * 'Closed' sessions are set up in advance and others cannot join or spectate them without permission. Generally for smaller sessions (2-5 people).
-  * Try to keep a balance between these two styles. Remember that it can be incredibly hard to gather the courage to ask to join a closed roleplay session, and you can make that much easier for new players by simply inviting them. If you are struggling to join roleplay, contact a staff member.
 * Characters must speak primarily in English. Portions of speech not in English must be translated, and roleplay done in different languages must be agreed upon by all involved parties.
+* While we have 'races' on the server and in the lore, discrimination or prejudice against different races is a touchy subject, and one we really want to avoid.
 {% endtab %}
 
 {% tab title="Projection & Canon" %}
@@ -104,7 +100,7 @@ Through the permission of staff, you are able to kill off your character and res
 * You can have your character kill themselves, either accidentally or intentionally - however, this cannot be graphic in any way.
 * Your character can be killed by another player character - you must still have permission from staff.
 
-If you choose to reset your character, death is the only option. Your character cannot return from this. Character deaths are final. Note that characters are not considered 'safe' in the main story. We may kill off your character in an appropriate setting in the main story, giving you the opportunity to create a new character. We will help you with this. Staff may ask players to submit a new character or retract character approval if they agree that the player is struggling to roleplay with their character.
+If you choose to reset your character, you cannot return from this. Character departures are final.
 
 #### 🧽 Character Changes
 
