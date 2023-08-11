@@ -1,9 +1,5 @@
 # 📔 Character Guide
 
-### 🪶 Character Guide <a href="#wiki_.1fab6_character_guide" id="wiki_.1fab6_character_guide"></a>
-
-#### 💭 **Character Creation** <a href="#wiki_.1f4ad_character_creation" id="wiki_.1f4ad_character_creation"></a>
-
 ### **📕 Main Guidelines**
 
 1. Your character is original.
@@ -15,7 +11,7 @@
 
 ### 📘 Additional Guidelines
 
-<mark style="background-color:yellow;">In general: be appropriate. Remember you are part of a community. And keep your character separate from yourself.</mark>
+<mark style="color:yellow;">In general: be appropriate. Remember you are part of a community. And keep your character separate from yourself.</mark>
 
 #### **🛑 Safety**
 
@@ -30,23 +26,23 @@ The following guidelines exist to ensure safety. These are non-negotiables.
 
 #### **🧙 Antagonism**
 
-Your character can be rude, arrogant, and semi-antagonistic <mark style="background-color:yellow;">so long as they are not 'amoral'.</mark> They can demonstrate disdain for other characters based on clan origins and affiliations, but not based on character race.&#x20;
+Your character can be rude, arrogant, and semi-antagonistic <mark style="color:yellow;">so long as they are not 'amoral'</mark>. They can demonstrate disdain for other characters based on clan origins and affiliations, but not based on character race.&#x20;
 
-Additionally, characters can act in opposition to the actions of the main story, but <mark style="background-color:yellow;">should not act as a roadblock during events</mark>. Use your better judgement and remember everyone is here to experience and enjoy the story, and your character should not be preventing them from doing that.
+Additionally, characters can act in opposition to the actions of the main story, but <mark style="color:yellow;">should not act as a roadblock during events</mark>. Use your better judgement and remember everyone is here to experience and enjoy the story, and your character should not be preventing them from doing that.
 
-Remember that <mark style="background-color:yellow;">you are responsible for your character</mark>. You cannot shift blame for your own actions on to an alternate identity.
+Remember that <mark style="color:yellow;">you are responsible for your character</mark>. You cannot shift blame for your own actions on to an alternate identity.
 
 #### **🦸 Protagonism**
 
-Your character <mark style="background-color:yellow;">cannot try to act as the main protagonist of the story</mark>. Making your character the centre of attention during story events is not fair to others. In addition, your character must be respectful of the story characters. Getting in their faces, tapping them, antagonizing them, throwing items at them without asking, or attempting to hurt them (in an inappropriate moment) is not allowed.
+Your character <mark style="color:yellow;">cannot try to act as the main protagonist of the story</mark>. Making your character the centre of attention during story events is not fair to others. In addition, your character must be respectful of the story characters. Getting in their faces, tapping them, antagonizing them, throwing items at them without asking, or attempting to hurt them (in an inappropriate moment) is not allowed.
 
 #### **📽 Projection**
 
-<mark style="background-color:yellow;">Do not project on to your character</mark>. If you are taking something from roleplay personally, it likely means that you are projecting to an extent. It's therefore recommended that you create a character that has a different personality/mindset from yourself, to ensure that this doesn't happen. If you have questions about this, you can contact a staff member. In-character relationships should be kept separate from out-of-character relationships as much as possible.
+<mark style="color:yellow;">Do not project on to your character</mark>. If you are taking something from roleplay personally, it likely means that you are projecting to an extent. It's therefore recommended that you create a character that has a different personality/mindset from yourself, to ensure that this doesn't happen. If you have questions about this, you can contact a staff member. In-character relationships should be kept separate from out-of-character relationships as much as possible.
 
 #### **🏛 Grounding Your Character**
 
-<mark style="background-color:yellow;">Your character cannot be overpowered</mark> (god-modding). This is a broad statement, and it applies in a number of different ways. These are including, _**but not limited to:**_
+<mark style="color:yellow;">Your character cannot be overpowered (god-modding)</mark>. This is a broad statement, and it applies in a number of different ways. These are including, _**but not limited to:**_
 
 * Your character cannot have magical/technological items/objects/abilities from outside the current story.
 * Your character cannot have magic that puts them at an advantage over other characters.
@@ -65,7 +61,7 @@ Characters must speak primarily in English. Portions of speech not in English mu
 
 #### **🪶 Canon**
 
-<mark style="background-color:yellow;">Only roleplay conducted on the server or in a session thread can be considered canon</mark>. Roleplay conducted on Discord or another platform is not canon. Blatant plagiarism from sources outside of Chertia is forbidden and will be removed from canon.
+<mark style="color:yellow;">Only roleplay conducted on the server or in a session thread can be considered canon</mark>. Roleplay conducted on Discord or another platform is not canon. Blatant plagiarism from sources outside of Chertia is forbidden and will be removed from canon.
 
 #### 🧽 Character Changes
 
