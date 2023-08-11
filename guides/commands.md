@@ -4,7 +4,7 @@ This page will provide you with an overview of various commands on the server.
 
 #### 🗣️ Chat
 
-For detailed information on the chat system, go [here](chat.md).
+For detailed information on the chat system, go [<mark style="color:blue;">here</mark>](chat.md).
 
 * `/msg [player] [text]` - Send someone a private message.
 * `/r [text]` - Reply to your last received message.

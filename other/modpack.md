@@ -4,10 +4,10 @@ Here is the download & information for the Quilt modpack that you're welcome to 
 
 #### **🔧 Installation**
 
-1. [Download the VERSIONS pack ](https://cdn.discordapp.com/attachments/804827590388613160/1135751981563134055/quilt-loader-0.19.2-1.20.1.zip)and place the unzipped content inside your 'versions' folder in your Minecraft directory.
+1. [<mark style="color:blue;">Download the VERSIONS pack</mark> ](https://cdn.discordapp.com/attachments/804827590388613160/1135751981563134055/quilt-loader-0.19.2-1.20.1.zip)and place the unzipped content inside your 'versions' folder in your Minecraft directory.
 2. Completely empty your 'mods' folder in your Minecraft directory. If you don't have one, simply create a folder titled 'mods'.
-3. [Download the MODS pack](https://cdn.discordapp.com/attachments/804827590388613160/1135751698846076938/chertia\_modpack\_2023\_08\_01.zip) and place the unzipped contents inside your 'mods' folder in your Minecraft directory.
-4. (Optional) [Download the SHADERPACKS pack](https://cdn.discordapp.com/attachments/804827590388613160/1084988656722382858/chertia\_modpack\_2023-03-13\_SHADERPACKS.zip) and place the unzipped contents inside your 'shaderpacks' folder in your Minecraft directory. If you don't have one, simply create a folder titled 'shaderpacks'.
+3. [<mark style="color:blue;">Download the MODS pack</mark>](https://cdn.discordapp.com/attachments/804827590388613160/1135751698846076938/chertia\_modpack\_2023\_08\_01.zip) and place the unzipped contents inside your 'mods' folder in your Minecraft directory.
+4. (Optional) [<mark style="color:blue;">Download the SHADERPACKS pack</mark>](https://cdn.discordapp.com/attachments/804827590388613160/1084988656722382858/chertia\_modpack\_2023-03-13\_SHADERPACKS.zip) and place the unzipped contents inside your 'shaderpacks' folder in your Minecraft directory. If you don't have one, simply create a folder titled 'shaderpacks'.
 
 If you have any issues let me know.
 
@@ -17,6 +17,6 @@ Use this pack to ensure you are following the server rules.
 
 These resource packs are optional but recommended.
 
-* [Clearer Water (VanillaTweaks)](https://cdn.discordapp.com/attachments/804827590388613160/1084991696762310747/chertia\_resourcepack\_clearer\_water.zip)
-* [Optimal VanillaTweaks Setup (VanillaTweaks)](https://cdn.discordapp.com/attachments/804827590388613160/1084991697081094254/chertia\_resourcepack\_vanilla\_tweaks.zip)
-* [Lively Plants](https://cdn.modrinth.com/data/JIt3C14V/versions/UZv86z5s/%C2%A72LivelyPlants.zip) (WorldSalad)
+* [<mark style="color:blue;">Clearer Water (VanillaTweaks)</mark>](https://cdn.discordapp.com/attachments/804827590388613160/1084991696762310747/chertia\_resourcepack\_clearer\_water.zip)
+* [<mark style="color:blue;">Optimal VanillaTweaks Setup (VanillaTweaks)</mark>](https://cdn.discordapp.com/attachments/804827590388613160/1084991697081094254/chertia\_resourcepack\_vanilla\_tweaks.zip)
+* [<mark style="color:blue;">Lively Plants</mark>](https://cdn.modrinth.com/data/JIt3C14V/versions/UZv86z5s/%C2%A72LivelyPlants.zip) <mark style="color:blue;">(WorldSalad)</mark>

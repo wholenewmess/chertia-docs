@@ -57,7 +57,7 @@ Obviously, the practices outlined in the section above are never acceptable. How
 
 #### **Forms of Cyberbullying**
 
-As pulled from [https://www.stopbullying.gov/cyberbullying/cyberbullying-tactics](https://www.stopbullying.gov/cyberbullying/cyberbullying-tactics), there are several different forms of cyberbullying that can take place, and some are more subtle than you may think. These are included, but not limited to:
+As pulled from [<mark style="color:blue;">https://www.stopbullying.gov/cyberbullying/cyberbullying-tactics</mark>](https://www.stopbullying.gov/cyberbullying/cyberbullying-tactics), there are several different forms of cyberbullying that can take place, and some are more subtle than you may think. These are included, but not limited to:
 
 1. Nude photo sharing; when inappropriate photos are shared in an interaction
 2. Lies and false accusations; when rumours are started or spread
@@ -72,9 +72,9 @@ For more information on these different forms of cyberbullying, visit the websit
 
 #### **Resources & Additional Information**
 
-* [https://www.stopbullying.gov/cyberbullying/cyberbullying-tactics](https://www.stopbullying.gov/cyberbullying/cyberbullying-tactics)
-* [https://www.stopbullying.gov/cyberbullying/what-is-it](https://www.stopbullying.gov/cyberbullying/what-is-it)
-* [https://www.internetsafety101.org/onlinegaming](https://www.internetsafety101.org/onlinegaming)
-* [https://suicidepreventionlifeline.org/talk-to-someone-now/](https://suicidepreventionlifeline.org/talk-to-someone-now/)
-* [https://www.fantasyrp.net/forums/threads/health-safety-information-guidance-more.67/](https://www.fantasyrp.net/forums/threads/health-safety-information-guidance-more.67/)
+* [<mark style="color:blue;">https://www.stopbullying.gov/cyberbullying/cyberbullying-tactics</mark>](https://www.stopbullying.gov/cyberbullying/cyberbullying-tactics)
+* [<mark style="color:blue;">https://www.stopbullying.gov/cyberbullying/what-is-it</mark>](https://www.stopbullying.gov/cyberbullying/what-is-it)
+* [<mark style="color:blue;">https://www.internetsafety101.org/onlinegaming</mark>](https://www.internetsafety101.org/onlinegaming)
+* [<mark style="color:blue;">https://suicidepreventionlifeline.org/talk-to-someone-now/</mark>](https://suicidepreventionlifeline.org/talk-to-someone-now/)
+* [<mark style="color:blue;">https://www.fantasyrp.net/forums/threads/health-safety-information-guidance-more.67/</mark>](https://www.fantasyrp.net/forums/threads/health-safety-information-guidance-more.67/)
   * Credit for some of the ideas and wording.

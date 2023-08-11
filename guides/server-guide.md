@@ -2,11 +2,11 @@
 
 🤔 **Brief Description**
 
-Chertia Rising is a new roleplay/survival server where you forge your own unique, unforgettable tale. You use our lore to create a character that you portray on the server, creating bonds and progressing your character's development as you go. It's a totally unique Minecraft experience.
+Chertia Rising is a roleplay/survival server where you forge your own unique, unforgettable tale. You use our lore to create a character that you portray on the server, creating bonds and progressing your character's development as you go. It's a totally unique Minecraft experience.
 
 Join Chertia Rising today and embark on the adventure of a lifetime! Unleash your story, craft your legacy, and survive in a world where imagination reigns supreme. Forge unforgettable bonds, conquer challenges, and become a part of the legend that is Chertia. Your journey awaits!
 
-➡️ Join now by clicking [**here**](https://discord.gg/chertia)!
+➡️ Join now by clicking [<mark style="color:blue;">**here**</mark>](https://discord.gg/chertia)!
 
 🪶 **Introduction**
 
@@ -28,4 +28,4 @@ Your character has a race and attributes. The race and attributes you select wil
 
 🧑‍⚖️ **Rules**
 
-Our rules are detailed but easy to comprehend. If you stay away from griefing & hacking, and you act in a kind and fair manner, you're unlikely to break our rules. The only exception is that we don't allow automated farms. You can find a full list of our rules [here](https://chertia.gitbook.io/wiki/structure/rules).
+Our rules are detailed but easy to comprehend. If you stay away from griefing & hacking, and you act in a kind and fair manner, you're unlikely to break our rules. The only exception is that we don't allow automated farms. You can find a full list of our rules [<mark style="color:blue;">here</mark>](https://chertia.gitbook.io/wiki/structure/rules).
