@@ -6,6 +6,7 @@
 ## 🤝 Structure
 
 * [🧑⚖ Rules](structure/rules.md)
+* [📅 Events](structure/events.md)
 * [🌕 Player Government](structure/player-government.md)
 * [📜 Charter](structure/charter.md)
 
