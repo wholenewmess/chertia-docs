@@ -19,5 +19,6 @@ We love when players use Chertia as a way to express their creativity. Sometimes
 * Your event must be inclusive. You are able to host private events, but we ask you to invite people outside of your immediate friends too.
 * Your event cannot exceed 4 hours in length.
 * Your event must be respectful of server resources (no redstone clocks, flying machines, etc.).
+* Chertia player events must take place on the Chertia server in a Chertia voice channel.
 
 The application form can be found [<mark style="color:blue;">here</mark>](https://docs.google.com/forms/d/e/1FAIpQLSdea3oFnAaicApIqqnM3pHmho9RfIZpytwJ6KbUV3mnwKJXfA/viewform?usp=sf\_link).
