@@ -58,6 +58,6 @@ An offensive spell that strikes lightning at any location it comes in contact wi
 
 ## 📖 Ritual Magic
 
-Rituals are cast with Ritual Books, which are used by sneaking + right clicking a white carpet on top of a lodestone (a 'ritual point'). Rituals can only be cast under certain conditions, though. For example, a ritual must be cast in an area with adequate natural light. Additionally, they must be cast in a magical area. These are typically areas where you might find "magical" blocks. The exact types of blocks that can give off magical energy are unknown -- use your judgement!
+Rituals are cast with Ritual Books, which are used by sneaking + right clicking a white carpet on top of a lodestone (a 'ritual point'). Rituals can only be cast under certain conditions, though. For example, a ritual must be cast in an area with adequate natural light. Additionally, they must be cast in a magical area. These are typically areas where you might find "magical" blocks. The exact types of blocks that can give off magical energy are unknown -- use your judgement! You'll need more than one of these blocks to cast a ritual. Your best bet is to find a location that just seems magical -- an enchanted mossy forest, for example!
 
 Ritual Books are simply written books with a certain text inside of them. There are a large number of rituals. The content needed for Ritual Books is found through co-operation and exploration -- ask your fellow players if they know of any ritual books.
