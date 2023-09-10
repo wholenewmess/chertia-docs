@@ -20,7 +20,7 @@ _Characters from this clan will be largely focused on money and status._
 
 #### Circuit Mountain (Location)
 
-This mountain is inhabited by a small community of <mark style="background-color:green;">dwarves and golems</mark> who mine and sell <mark style="background-color:yellow;">redstone</mark>. The community was once just dwarves, but ancient golems were reawakened by the events of the Second Great Magic War, and now serve the dwarves. This is an inclusive community, but <mark style="background-color:yellow;">it is expected that everyone contributes</mark>.
+This mountain is inhabited by a small community of <mark style="background-color:green;">dwarves, drow and golems</mark> who mine and sell <mark style="background-color:yellow;">redstone</mark>. The community was once just dwarves, but ancient golems were reawakened by the events of the Second Great Magic War, and now serve the dwarves. This is an inclusive community, but <mark style="background-color:yellow;">it is expected that everyone contributes</mark>.
 
 _Characters from this location will focus on the common good and prefer to associate themselves with other dedicated individuals._
 

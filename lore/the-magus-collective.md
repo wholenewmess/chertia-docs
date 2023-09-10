@@ -14,13 +14,13 @@ _A Grandmaster is elected, and the role is currently filled by Mephilim Suvos of
 
 #### House Suvos
 
-Inhabited by <mark style="background-color:green;">elves and humans</mark> in the central region of the collective. This House focuses on research into <mark style="background-color:yellow;">traditional magic</mark>. Commoners work for the nobles in physical capacity, but may be trained in magic if they have high potential. House Suvos mainly lives in Corionium, the capital of the collective. However, the city is still in partial ruins, resulting in a few commoners and nobles living on the eastern island known as Belial's Rest.
+Inhabited by <mark style="background-color:green;">elves, drow, and humans</mark> in the central region of the collective. This House focuses on research into <mark style="background-color:yellow;">traditional magic</mark>. Commoners work for the nobles in physical capacity, but may be trained in magic if they have high potential. House Suvos mainly lives in Corionium, the capital of the collective. However, the city is still in partial ruins, resulting in a few commoners and nobles living on the eastern island known as Belial's Rest.
 
 _Characters from this house will be interested in traditional magic._
 
 #### House Alkoy
 
-Comprised of races of the night (<mark style="background-color:green;">Unseelie, Wolffolk, Dwarves, Tieflings</mark>). This House focuses on research into <mark style="background-color:yellow;">necromancy and soul magic</mark>, and are occasionally known to <mark style="background-color:yellow;">cross unsavoury lines</mark> in their work. The commoners of House Alkoy keep to the shadows so much that they are practically unknown to even each other.
+Comprised of races of the night (<mark style="background-color:green;">Unseelie, Wolffolk, Dwarves, Drow, Tieflings</mark>). This House focuses on research into <mark style="background-color:yellow;">necromancy and soul magic</mark>, and are occasionally known to <mark style="background-color:yellow;">cross unsavoury lines</mark> in their work. The commoners of House Alkoy keep to the shadows so much that they are practically unknown to even each other.
 
 _Characters from this house will be interested in necromancy and soul magic._
 

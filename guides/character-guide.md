@@ -116,6 +116,19 @@ Caplings are typically male. They are satyr-like creatures who often live in col
 
 <details>
 
+<summary>Drow</summary>
+
+* **Server Effects:** Are much more proficient with bows, but less so with melee weapons. Even more proficient in darker areas.
+* **Lifespan:** 120-150 years (child up until 40)
+* **Height:** 130cm - 190cm
+* **RP Difficulty:** 3/5
+
+Drow are elf variants who have grown acclimated to darker areas. They have grey-ish skin and typically like to remain underground. They are mischevious and often find it hard to socialize.
+
+</details>
+
+<details>
+
 <summary>Dryad</summary>
 
 * **Server Effects:** Can use photosynthesis to replenish hunger in the sunlight.

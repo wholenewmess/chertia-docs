@@ -20,7 +20,7 @@ _Characters from this clan will be noble protectors who identify with outcasts._
 
 #### Virtuous Sun (Clan)
 
-This <mark style="background-color:green;">elf-dominated but inclusive</mark> clan prides itself on its <mark style="background-color:yellow;">healing prowess</mark> and ability to <mark style="background-color:yellow;">hunt</mark> monsters, undead, and necromancers. Some of its members are former Collective mages. Similar to Constellian Shields, they focus on protection and healing of their allies.
+This <mark style="background-color:green;">elf and drow-dominated but inclusive</mark> clan prides itself on its <mark style="background-color:yellow;">healing prowess</mark> and ability to <mark style="background-color:yellow;">hunt</mark> monsters, undead, and necromancers. Some of its members are former Collective mages. Similar to Constellian Shields, they focus on protection and healing of their allies.
 
 _Characters from this clan will be focused on healing and hunting monsters._
 
