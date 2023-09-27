@@ -36,4 +36,4 @@ _Characters belonging to the Jalan share a deep connection with their past, and 
 
 Mengamati is a scattered village in eastern Bumi. Its <mark style="background-color:yellow;">varied</mark> residents are typically scholars who have graduated from The Solar Scholars, and now spend their days <mark style="background-color:green;">researching and observing</mark> the various mysteries of the universe. They believe in calculated <mark style="background-color:green;">observation</mark> of the world's hidden truths and often offer cryptic advice to those who seek their wisdom.&#x20;
 
-_Characters from Mengamati are observant, but reluctant to share their knowledge with those they don't deem intelligent enough._
+_Characters from Mengamati are typically observant, but reluctant to share their knowledge with those they don't deem intelligent enough._
