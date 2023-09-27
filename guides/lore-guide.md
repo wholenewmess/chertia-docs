@@ -42,9 +42,9 @@ _A nation of **magic-wielders**, founded in 1547. They mostly see technology as 
 
 _Founded in 1580, shortly after the Second Great Magic War. Have a significant focus on **trade and economy**. Azura is an opportunistic nation that primarily sees no limit to expansion and prosperity._
 
-#### Countries & Factions - Cheat Sheet
+#### [<mark style="color:blue;">The Islands of Keluarga</mark>](lore-guide.md#the-islands-of-keluarga) ⭐️⭐️
 
-{% file src="../.gitbook/assets/Chertia Rising - Countries & Factions Fact Sheet - Sheet1 (1) (1) (1).pdf" %}
+_A relatively newly-developed area consisting of two distinct islands: Matahari and Bumi. Main focuses are **economy and knowledge**._&#x20;
 
 #### Map of Divian
 
