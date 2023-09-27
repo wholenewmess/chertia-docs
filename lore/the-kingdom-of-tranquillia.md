@@ -41,3 +41,9 @@ _Characters from this location will typically be well-versed in trade._
 Perpetua is the largest city in Tranquillia. Located in the west, this is the nation's capital and home to Queen Mercy Perpetua. It's a <mark style="background-color:green;">diverse</mark> city with <mark style="background-color:yellow;">many different races and ideologies</mark>.
 
 _Characters from this location can be extremely varied._
+
+#### Placid Caravan (Clan)
+
+Wishing to return to the old ways of the Nation, a not insignificant group of <mark style="background-color:green;">mostly sylphs and humans</mark> decided to retread the roads of yore, and become <mark style="background-color:yellow;">nomadic</mark> like their forefathers. They make their living by setting up a market near or in a town and move on to the next when all possible deals have been made. They roam Tranquillia, although some eventually decide to leave and bring their nomadic lifestyle elsewhere.
+
+_Characters from this location won't be used to settling down, and might have several different houses or shops scattered around the map. Alternatively, they might not have a permanent home at all._

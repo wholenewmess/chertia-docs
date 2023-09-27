@@ -31,6 +31,7 @@
 * [🗺 The Kingdom of Tranquillia](lore/the-kingdom-of-tranquillia.md)
 * [🗺 The Magus Collective](lore/the-magus-collective.md)
 * [🗺 The Kingdom of Azura](lore/the-kingdom-of-azura.md)
+* [🗺 The Islands of Keluarga](lore/the-kingdom-of-azura-1.md)
 
 ## 🪶 Other
 

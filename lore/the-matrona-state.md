@@ -26,6 +26,18 @@ Lanturna now heavily relies on the golems' work underground, caving and mining, 
 
 _Characters from this location will either be generous nymphs or work-focused golems._
 
+#### The Neoway Scholars (Clan)
+
+Seeking to study both the most ancient knowledge and the newest discoveries, the <mark style="background-color:green;">Nymph, Drow, and Avian</mark> Neoway Scholars have secluded themselves to the mountain range in Matrona to focus on learning all they can. They <mark style="background-color:yellow;">highly value intelligence</mark>; while originally were generous with sharing knowledge, over time they've became <mark style="background-color:yellow;">greedy</mark>, and hoard it in their library.
+
+_Characters from this location will typically be greedy and find it difficult to socialize properly._
+
+#### Gladiolus (Clan)
+
+An <mark style="background-color:green;">inclusive but nymph-dominated</mark> clan that offshoot from Alchemilla after Matrona's founding (due to disagreements on racial segregation at the time), Gladiolus believes in the olden ways of Lady Miralia, the Goddess of Valour, and train to be <mark style="background-color:yellow;">warriors</mark> based on the champions of old. They maintain <mark style="background-color:yellow;">seclusion</mark> from the Matriarchs, but are only recently opening up after Snowmage's destruction.
+
+_Characters from this location will typically be secluded warrior-types who value loyalty and valour._
+
 ***
 
 ### Former Settlements & Clans

@@ -48,5 +48,5 @@ _Founded in 1580, shortly after the Second Great Magic War. Have a significant f
 
 #### Map of Divian
 
-<figure><img src="../.gitbook/assets/Divian_1624.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Map of Divian Sep 1624.jpg" alt=""><figcaption></figcaption></figure>
 
