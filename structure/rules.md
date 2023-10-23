@@ -5,8 +5,8 @@
 1. No griefing or stealing.
 2. No hacked clients, unapproved mods, or glitch exploits.
 3. Be respectful of others; be kind & remain appropriate.
-4. Follow the survival & roleplay guidelines.
-5. All mob farm designs must be approved by staff. Most automatic farms are not allowed.
+4. All mob farm designs must be approved by staff. Most automatic farms are not allowed.
+5. Follow the survival & roleplay guidelines.
 6. You must be at least 18 years old to join Chertia.
 7. The answer to the last question on the whitelist application is "cargo pants".
 
