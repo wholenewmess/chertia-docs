@@ -61,7 +61,7 @@ Characters must speak primarily in English. Portions of speech not in English mu
 
 #### **🪶 Canon**
 
-<mark style="color:yellow;">Only roleplay conducted on the server or in a session thread can be considered canon</mark>. Roleplay conducted on Discord or another platform is not canon. Blatant plagiarism from sources outside of Chertia is forbidden and will be removed from canon.
+<mark style="color:yellow;">Only roleplay conducted on the server or in a session thread can be considered canon</mark>. Roleplay conducted on Discord or another platform should not be conducted - and if it is, cannot be considered canon. Blatant plagiarism from sources outside of Chertia is forbidden and will be removed from canon.
 
 #### 🧽 Character Changes
 
