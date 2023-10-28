@@ -26,7 +26,7 @@ _Characters from this location will be well-versed in combat._
 
 #### The Magic Hunters (Clan)
 
-This <mark style="background-color:green;">human-only</mark> clan in southern Bellator is <mark style="background-color:yellow;">vehemently against all forms of magic</mark>, and go as far as seeking out and killing any "wielders" they can find. Their influence has led to Bellator being a relatively magic-free nation as a whole. This clan trains their young to become <mark style="background-color:yellow;">skilled hunters</mark>. The eldest member of this clan typically serves as the de-facto leader.
+This <mark style="background-color:green;">mostly human</mark> clan in southern Bellator is <mark style="background-color:yellow;">vehemently against all forms of magic</mark>, and go as far as seeking out and killing any "wielders" they can find. Their influence has led to Bellator being a relatively magic-free nation as a whole. This clan trains their young to become <mark style="background-color:yellow;">skilled hunters</mark>. The eldest member of this clan typically serves as the de-facto leader.
 
 _Characters from this clan will typically despise all magic wielders, and will be skilled hunters._
 
