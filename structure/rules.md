@@ -25,6 +25,6 @@ Consequences are wiped from your record after 60 days. Note that **having 3 conc
 
 #### **Appeals**
 
-If you have received a consequence and do not agree with it, you may appeal using our [**appeals form**](https://forms.gle/tf6AQCrLicfhHr1K9). Please send one of us a message once the form is submitted.
+If you have received a consequence and do not agree with it, you may appeal using our [<mark style="color:blue;">**appeals form**</mark>](https://forms.gle/tf6AQCrLicfhHr1K9). Please send one of us a message once the form is submitted.
 
-Maximum severity bans cannot be appealed.
+Maximum severity bans & some extreme cases cannot be appealed. You will be notified if your ban cannot be appealed.
