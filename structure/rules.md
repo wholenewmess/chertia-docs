@@ -27,4 +27,4 @@ Consequences are wiped from your record after 60 days. Note that **having 3 conc
 
 If you have received a consequence and do not agree with it, you may appeal using our [**appeals form**](https://forms.gle/tf6AQCrLicfhHr1K9). Please send one of us a message once the form is submitted.
 
-Severe infringement bans cannot be appealed.
+Maximum severity bans cannot be appealed.
