@@ -13,10 +13,10 @@
 ## 📚 Guides
 
 * [📗 Server Guide](guides/server-guide/README.md)
-  * [🪄 Magic](guides/server-guide/magic.md)
-  * [🔋 Technology](guides/server-guide/technology.md)
   * [💻 Commands](guides/server-guide/commands.md)
   * [💬 Chat](guides/server-guide/chat.md)
+  * [🪄 Magic](guides/server-guide/magic.md)
+  * [🔋 Technology](guides/server-guide/technology.md)
 * [📘 Lore Guide](guides/lore-guide/README.md)
   * [🗺 The Republic of Epsilon](guides/lore-guide/the-republic-of-epsilon.md)
   * [🗺 The Kingdom of Theta](guides/lore-guide/the-kingdom-of-theta.md)
