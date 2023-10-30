@@ -1,7 +1,7 @@
 # 🗺 The Kingdom of Theta
 
-{% content-ref url="../guides/lore-guide.md" %}
-[lore-guide.md](../guides/lore-guide.md)
+{% content-ref url="./" %}
+[.](./)
 {% endcontent-ref %}
 
 ### Description

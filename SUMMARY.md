@@ -12,33 +12,21 @@
 
 ## 📚 Guides
 
-* [📗 Server Guide](guides/server-guide.md)
-* [📘 Lore Guide](guides/lore-guide.md)
+* [📗 Server Guide](guides/server-guide/README.md)
+  * [🪄 Magic](guides/server-guide/magic.md)
+  * [🔋 Technology](guides/server-guide/technology.md)
+  * [💻 Commands](guides/server-guide/commands.md)
+  * [💬 Chat](guides/server-guide/chat.md)
+* [📘 Lore Guide](guides/lore-guide/README.md)
+  * [🗺 The Republic of Epsilon](guides/lore-guide/the-republic-of-epsilon.md)
+  * [🗺 The Kingdom of Theta](guides/lore-guide/the-kingdom-of-theta.md)
+  * [🗺 The Matrona State](guides/lore-guide/the-matrona-state.md)
+  * [🗺 The Republic of Bellator](guides/lore-guide/the-republic-of-bellator.md)
+  * [🗺 The Kingdom of Tranquillia](guides/lore-guide/the-kingdom-of-tranquillia.md)
+  * [🗺 The Magus Collective](guides/lore-guide/the-magus-collective.md)
+  * [🗺 The Kingdom of Azura](guides/lore-guide/the-kingdom-of-azura.md)
+  * [🗺 The Islands of Keluarga](guides/lore-guide/the-islands-of-keluarga.md)
+  * [⏱ Historical Timeline](guides/lore-guide/historical-timeline.md)
 * [📔 Character Guide](guides/character-guide.md)
 * [📙 Safety Practices](guides/safety-practices.md)
-* [💻 Commands](guides/commands.md)
-* [💬 Chat](guides/chat.md)
-* [🪄 Magic](guides/magic.md)
-* [🔋 Technology](guides/technology.md)
-
-## 📖 Lore
-
-* [⏱ Historical Timeline](lore/historical-timeline.md)
-* [🗺 The Republic of Epsilon](lore/the-republic-of-epsilon.md)
-* [🗺 The Kingdom of Theta](lore/the-kingdom-of-theta.md)
-* [🗺 The Matrona State](lore/the-matrona-state.md)
-* [🗺 The Republic of Bellator](lore/the-republic-of-bellator.md)
-* [🗺 The Kingdom of Tranquillia](lore/the-kingdom-of-tranquillia.md)
-* [🗺 The Magus Collective](lore/the-magus-collective.md)
-* [🗺 The Kingdom of Azura](lore/the-kingdom-of-azura.md)
-* [🗺 The Islands of Keluarga](lore/the-islands-of-keluarga.md)
-
-## 🪶 Other
-
-* [⚙ Changes](other/changes.md)
-* [🔋 Modpack](other/modpack.md)
-
-## 🔥 Rising
-
-* [🗺 Proposal (Nov 2022)](2023/season-6.md)
-* [👽 Proposed Races (May 2023)](rising/proposed-races-may-2023.md)
+* [🔋 Modpack](guides/modpack.md)
