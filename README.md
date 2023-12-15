@@ -19,3 +19,7 @@ Welcome to the Chertia documentation. Here, you will find a plethora of informat
 Divian is the world in which our story takes place.
 
 <figure><img src=".gitbook/assets/Map of Divian Sep 1624.jpg" alt=""><figcaption></figcaption></figure>
+
+{% hint style="info" %}
+DISCLAIMER: Chertia is not in any way affiliated with Mojang/Microsoft.
+{% endhint %}
