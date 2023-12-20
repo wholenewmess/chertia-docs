@@ -1,13 +1,15 @@
 # 🔋 Modpack
 
-Here is the download & information for the Quilt modpack that you're welcome to install and use on the server. It has a number of useful features. This modpack is designed to be as low-key as possible. Most features are not noticeable during normal gameplay.
+Here is the download & information for the Fabric modpack that you're welcome to install and use on the server. It has a number of useful features. This modpack is designed to be as low-key as possible. Most features are not noticeable during normal gameplay.
 
-#### **🔧 Installation**
+#### 🔧  Installation
 
-1. Download and install [<mark style="color:blue;">Quilt</mark>](https://quiltmc.org/en/install/) version quilt-loader-0.20.0-beta.7-1.20.1.
-2. Completely empty your 'mods' folder in your Minecraft directory. If you don't have one, simply create a folder titled 'mods'.
-3. [<mark style="color:blue;">Download the MODS pack</mark>](https://cdn.discordapp.com/attachments/804827590388613160/1135751698846076938/chertia\_modpack\_2023\_08\_01.zip) and place the unzipped contents inside your 'mods' folder in your Minecraft directory.
-4. (Optional) [<mark style="color:blue;">Download the SHADERPACKS pack</mark>](https://cdn.discordapp.com/attachments/804827590388613160/1084988656722382858/chertia\_modpack\_2023-03-13\_SHADERPACKS.zip) and place the unzipped contents inside your 'shaderpacks' folder in your Minecraft directory. If you don't have one, simply create a folder titled 'shaderpacks'.
+1. Download and install [Fabric](https://fabricmc.net).
+2. Download the [modpack](https://cdn.discordapp.com/attachments/803495943340294184/1187110797294436482/chertia\_modpack\_2023-12-20.zip?ex=6595b215\&is=65833d15\&hm=ad008e832d1f02b26dda6655835c3a4ddf7056484851065cc585c080ed6a376f&) and unzip it.
+3. In your Minecraft launcher, create a new profile. Under "Version", select the latest Fabric loader.
+4. Save, and then hover over the instance in your "Installations" tab in the Launcher. Click the little folder icon.
+5. Place all .jar files from the unzipped modpack into the 'mods' folder in your Minecraft installation. If a mods directory doesn't exist, create one.
+6. Launch the game using the installation & enjoy!
 
 If you have any issues let me know.
 
@@ -18,5 +20,4 @@ Use this pack to ensure you are following the server rules.
 These resource packs are optional but recommended.
 
 * [<mark style="color:blue;">Clearer Water (VanillaTweaks)</mark>](https://cdn.discordapp.com/attachments/804827590388613160/1084991696762310747/chertia\_resourcepack\_clearer\_water.zip)
-* [<mark style="color:blue;">Optimal VanillaTweaks Setup (VanillaTweaks)</mark>](https://cdn.discordapp.com/attachments/804827590388613160/1084991697081094254/chertia\_resourcepack\_vanilla\_tweaks.zip)
 * [<mark style="color:blue;">Lively Plants</mark>](https://cdn.modrinth.com/data/JIt3C14V/versions/UZv86z5s/%C2%A72LivelyPlants.zip) <mark style="color:blue;">(WorldSalad)</mark>
