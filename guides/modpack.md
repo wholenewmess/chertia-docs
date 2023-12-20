@@ -1,6 +1,11 @@
-# 🔋 Modpack
+---
+description: >-
+  Here is the download & information for the Fabric modpack that you're welcome
+  to install and use on the server. It has a number of useful features. This
+  modpack is designed to be as low-key as possibl
+---
 
-Here is the download & information for the Fabric modpack that you're welcome to install and use on the server. It has a number of useful features. This modpack is designed to be as low-key as possible. Most features are not noticeable during normal gameplay.
+# 🔋 Modpack
 
 #### 🔧  Installation
 
