@@ -25,3 +25,11 @@ When sneaking with a Magnet in your inventory, nearby dropped items will be draw
 #### 🥾 Pegasus Boots
 
 Increase your sprinting speed.
+
+#### 🛡️ Energy Shield
+
+Grants you an energy shield (absorption).
+
+#### 🧭 Mind Bender
+
+Makes an entity pathfind towards you.
