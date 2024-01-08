@@ -1,6 +1,8 @@
 # 📙 Safety Practices
 
-### Safety Practices <a href="#wiki_chertia_safety_practices_guide" id="wiki_chertia_safety_practices_guide"></a>
+#### **Reporting Tool**
+
+Chertia has a reporting tool for instances where you believe someone has violated the rules or safety practices. You can view & use the reporting tool [<mark style="color:blue;">here</mark>](https://docs.google.com/forms/d/e/1FAIpQLSefkaaKC4Pvw36TIHL\_xLyPPMQheF-gjwu64qfhMaOCUQ8Uyw/viewform?usp=sf\_link).
 
 #### **Disclaimer**
 
@@ -30,13 +32,11 @@ These are some of the warning signs that you should look out for when you are in
    2. **Lack of boundaries**; someone may overstep their boundary with another person by attempting to make them feel ‘less-than’ for not doing what they want you to do. For example, “oh, come on. It’s me you’re talking to and it’s just \[x]”.
    3. **Creating precedent**; someone might bring up the past actions of the person they are interacting with as a way of trying to get them to do something now. For example, “but you did \[x] last time. Why not now?”
    4. **Using threatening language;** this is the most obvious form of peer pressure, but it is dangerous nonetheless. When someone uses implications or open threats to try and get another person to do something. For example; “if you don’t do \[x] I will \[y].”&#x20;
-3. **Inappropriate messages** can often be difficult to pinpoint because context matters a lot. However, sexually suggestive messages that make you uncomfortable are never okay and should be reported to a staff member immediately, including the context of the message. This applies to both out-of-character and in-character interactions, on and off the server.
+3. **Inappropriate comments and messages** can often be difficult to pinpoint because context matters a lot. However, sexually suggestive messages that make you uncomfortable are never okay and should be reported to a staff member immediately, including the context of the message. This applies to both out-of-character and in-character interactions, on and off the server.
 
 _**You can make it more difficult for someone to apply peer pressure on you by following the ‘safety practices’ section of this document.**_
 
 #### **Unacceptable Behaviours**
-
-Obviously, the practices outlined in the section above are never acceptable. However, there are additional, more subtle forms of toxicity that should be reported and dealt with.
 
 1. **Toxicity**; in situations where community members are creating or contributing to a toxic environment, the staff team may speak to those community members or take action to stop the toxicity, even if that action is not specifically mentioned in the rules. We define toxicity as creating a negative environment, causing issues in the community, being disrespectful of fellow players or staff members, being rude or inappropriate, or any version of these.&#x20;
 2. **Over-indulging**; if someone is making another person feel uncomfortable with the amount of information they are sharing, whether it is because the other person does not feel comfortable having that information or the information is a trigger, the interaction should end there. If necessary, it should be reported to a staff member.
@@ -53,7 +53,7 @@ Obviously, the practices outlined in the section above are never acceptable. How
 #### **Safety Entitlement**
 
 * Members of the community are entitled to a standard of safety enforced by the staff team.&#x20;
-* If a new member, community member, or staff member poses a threat to other community members, they will be removed from the community.&#x20;
+* If a community member or staff member poses a threat to other community members, they will be removed from the community.&#x20;
 
 #### **Forms of Cyberbullying**
 

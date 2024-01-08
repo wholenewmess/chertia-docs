@@ -29,6 +29,10 @@ If you have received a consequence and do not agree with it, you may appeal usin
 
 Maximum severity bans & some extreme cases cannot be appealed. You will be notified if your ban cannot be appealed.
 
+#### **Reporting Tool**
+
+Chertia has a reporting tool for instances where you believe someone has violated the rules or safety practices. You can view & use the reporting tool [<mark style="color:blue;">here</mark>](https://docs.google.com/forms/d/e/1FAIpQLSefkaaKC4Pvw36TIHL\_xLyPPMQheF-gjwu64qfhMaOCUQ8Uyw/viewform?usp=sf\_link).
+
 {% hint style="info" %}
 DISCLAIMER: Chertia is not in any way affiliated with Mojang/Microsoft.
 {% endhint %}
