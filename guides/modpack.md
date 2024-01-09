@@ -9,7 +9,7 @@ description: >-
 #### 🔧  Installation
 
 1. Download and install [<mark style="color:blue;">Fabric</mark>](https://fabricmc.net).
-2. Download the modpack and unzip it ([<mark style="color:blue;">chertia\_modpack\_2023-12-20a.zip</mark>](https://cdn.discordapp.com/attachments/804827590388613160/1187117696660291694/chertia\_modpack\_2023-12-20a.zip?ex=6595b882\&is=65834382\&hm=8d96e1b5e1ae307227de431f1d7bc29340c7c694b15a61e3dd645628b76e5aad&)).
+2. Download the modpack and unzip it ([<mark style="color:blue;">chertia\_modpack\_2024-01-09.zip</mark>](https://cdn.discordapp.com/attachments/616825830219317272/1194184881803116554/chertia\_modpack\_2024-01-09.zip?ex=65af6e56\&is=659cf956\&hm=da2e3657a11f26f40a7d86ae3163d5bd801e1536adf61c0b02f9d9f82d78f867&)).
 3. In your Minecraft launcher, create a new profile. Under "Version", select the latest Fabric loader.
 4. Save, and then hover over the instance in your "Installations" tab in the Launcher. Click the little folder icon.
 5. Place all .jar files from the unzipped modpack into the 'mods' folder in your Minecraft installation. If a mods directory doesn't exist, create one.
