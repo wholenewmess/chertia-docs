@@ -63,6 +63,8 @@ Characters must speak primarily in English. Portions of speech not in English mu
 
 <mark style="color:yellow;">Only roleplay conducted on the server can be considered canon</mark>. Roleplay on Discord or another platform should not be conducted - and if it is, cannot be considered canon. Blatant plagiarism from sources outside of Chertia is forbidden and will be removed from canon.
 
+For the sake of consistency, if your character acquires an ability or condition, please discuss it with a storyteller before implementing it in roleplay.
+
 #### 🧽 Character Changes
 
 Certain elements of characters may be changed after the character has been submitted and approved. Discuss with a Storyteller before making changes to your character.
