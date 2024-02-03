@@ -14,7 +14,7 @@ Take a look through the rules overview on the [<mark style="color:blue;">Rules p
 
 ### 3. Apply to join.
 
-Applying to join the community is quick and easy. We need to make sure you're eligible. We have a large roster of staff and community members standing by to approve your application, and we'll get back to you as soon as we can. In the meantime, you can proceed with the next step so you're prepared.
+Applying to join the community is quick and easy. Access the [#join-here](https://discord.com/channels/555458092486230058/662066595035611238) channel on the Discord and copy the application format, adding in your information. If your application is automatically rejected, it means you didn't read the rules.
 
 ### 4. Create a character concept.
 
