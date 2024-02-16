@@ -4,21 +4,31 @@ description: >-
   has been running since 2015.
 ---
 
-# 🔥 chertia
+# 📖 Chertia
 
-### 📚 Documentation
+### 📖 **Welcome to Chertia!**
 
-Welcome to the Chertia documentation. Here, you will find a plethora of information about the community, the server, and the lore of Chertia. All page links can be found in the sidebar.
+Chertia is a Minecraft survival server. The key difference between Chertia and other survival servers is that, as you play Minecraft, you play **as your character**. All your actions in-game are the actions of your character. Your interactions with other players are all 'roleplay'.&#x20;
 
-### 🧭 Quick Access
+Unleash your story, craft your legacy, and survive in a world where imagination reigns supreme. Forge unforgettable bonds, conquer challenges, and become a part of the legend that is Chertia. Your journey awaits!
 
-<table data-view="cards"><thead><tr><th></th><th data-hidden data-card-target data-type="content-ref"></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td><strong>🧑‍⚖️ Rules</strong></td><td><a href="structure/rules.md">rules.md</a></td><td><a href=".gitbook/assets/2023-04-12_20.15.39.png">2023-04-12_20.15.39.png</a></td></tr><tr><td><strong>💻 Commands</strong></td><td><a href="guides/server-guide/commands.md">commands.md</a></td><td><a href=".gitbook/assets/2023-03-10_01.45.38.png">2023-03-10_01.45.38.png</a></td></tr><tr><td><strong>🔋 Modpack (optional)</strong></td><td><a href="guides/modpack.md">modpack.md</a></td><td><a href=".gitbook/assets/2023-03-10_01.45.14.png">2023-03-10_01.45.14.png</a></td></tr><tr><td><strong>📗 Server Guide</strong></td><td><a href="guides/server-guide/">server-guide</a></td><td><a href=".gitbook/assets/2023-02-25_14.29.11.png">2023-02-25_14.29.11.png</a></td></tr><tr><td><strong>📘 Lore Guide</strong></td><td><a href="guides/lore-guide/">lore-guide</a></td><td><a href=".gitbook/assets/2023-03-10_21.13.55.png">2023-03-10_21.13.55.png</a></td></tr><tr><td><strong>📒 Character Guide</strong></td><td><a href="guides/character-guide.md">character-guide.md</a></td><td><a href=".gitbook/assets/2023-03-09_20.38.00.png">2023-03-09_20.38.00.png</a></td></tr><tr><td>💬 <strong>Chat</strong></td><td><a href="guides/server-guide/chat.md">chat.md</a></td><td><a href=".gitbook/assets/2023-04-11_19.51.45.png">2023-04-11_19.51.45.png</a></td></tr><tr><td>🗺️ <strong>Server Map</strong></td><td><a href="https://map.chertia.com">https://map.chertia.com</a></td><td><a href=".gitbook/assets/map.png">map.png</a></td></tr><tr><td>📆 <strong>Events</strong></td><td><a href="structure/events.md">events.md</a></td><td><a href=".gitbook/assets/2023-07-07_02.36.06.png">2023-07-07_02.36.06.png</a></td></tr></tbody></table>
+➡️ Join our Discord by clicking [<mark style="color:blue;">**here**</mark>](https://discord.gg/chertia)!
 
-### 🗺️ Map of Divian
+Chertia's dedicated and passionate community sets us apart from other Minecraft servers. Our players and staff work tirelessly to foster an **inclusive, welcoming environment** where new and experienced players alike can feel at home.&#x20;
 
-Divian is the world in which our story takes place.
+### 🧑‍⚖️ Rules
 
-<figure><img src=".gitbook/assets/Map of Divian Sep 1624.jpg" alt=""><figcaption></figcaption></figure>
+We have a set of rules that we require you to follow, as well as a set of standards we expect you to uphold. Please read the main rules before applying for the whitelist.
+
+* 📕 [<mark style="color:blue;">Main Rules</mark>](broken-reference) -- READ ME
+* 📙 [<mark style="color:blue;">Character Standards</mark>](rules/character.md)
+* 📒 [<mark style="color:blue;">Roleplay Standards</mark>](rules/roleplay-standards.md)
+* 📗 Survival Standards (coming soon)
+* 📓 [<mark style="color:blue;">Player Conduct</mark>](rules/player-conduct.md) (to be updated)
+
+### 📘Lore
+
+In order to make a character, you must read our [<mark style="color:blue;">Lore Guide</mark>](lore/lore-guide/), which contains crucial details about the world of Divian.
 
 {% hint style="info" %}
 DISCLAIMER: Chertia is not in any way affiliated with Mojang/Microsoft.

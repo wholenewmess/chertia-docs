@@ -1,79 +1,36 @@
-# 📔 Character Guide
+---
+description: >-
+  Your character must follow these standards in order to be approved & continue
+  to be acceptable.
+---
 
-### **📕 Main Guidelines**
+# 📙 Character Standards
 
-1. Your character is original.
-2. Your character is mortal and from an existing clan in Divian.
-3. Your character does not share a name with you (in any form) and is distinct from your real personality.
-4. Your character is not irredeemably amoral.
-5. Your character is not perfect -- give them flaws.
-6. Your character does not have split or multiple personalities.
+### 📙 **Character Standards**
 
-### 📘 Additional Guidelines
+Your character will be rejected if it does not follow these standards.
 
-<mark style="color:yellow;">In general: be appropriate. Remember you are part of a community. And keep your character separate from yourself.</mark>
+1. Your character is original (it is not a copy of a character from somewhere else).
+2. Your character was created by you. It was not created with AI (ChatGPT, etc.), or created by someone else.
+3. Your character is mortal (they can die).
+4. Your character comes from a clan or location in Divian (the world we play in). To see which places your character can be from, see the Lore Guide.
+5. Your character does not have split or multiple personalities.
+6. Your character is not perfect -- give them flaws.
+7. Your character does not share a name with you (in any form) and is separate from your real personality.
 
-#### **🛑 Safety**
+### **⚖️ Equality**
 
-The following guidelines exist to ensure safety. These are non-negotiables.
+We require that your character is not overpowered.
 
-* Any form of violence between characters must be agreed upon by the involved players out-of-character.
-* Before involving others in relationship roleplay, please ensure that you have their outright consent. Some players may not want to participate in this aspect of roleplay. All characters participating in romantic relationships must be adults.
-* Characters cannot engage in inappropriate activities, including those of a sexual nature. Erotic roleplay is strictly forbidden.
-* Graphic roleplay (torture, maiming) is strictly forbidden.
-* Stay away from alcohol abuse & drug use/abuse.
-* Discussing or displaying self-harm and/or suicide is forbidden.
+1. Your character does not have items/objects/abilities from outside the current story.
+2. Your character does not have special magic or inherent abilities that put them at an advantage over other characters.
+3. All aspects of your character are representable in-game (no charms, jewelry, etc. that don't appear as in-game items).
 
-#### **🧙 Antagonism**
+### **✏️ Alterations**
 
-Your character can be rude, arrogant, and semi-antagonistic <mark style="color:yellow;">so long as they are not 'amoral'</mark>. They can demonstrate disdain for other characters based on clan origins and affiliations, but not based on character race.&#x20;
+Through the storytellers and moderators, you are able to make changes to and reset your character. You should speak with a storyteller or moderator if you are unhappy with your character.
 
-Additionally, characters can act in opposition to the actions of the main story, but <mark style="color:yellow;">should not act as a roadblock during events</mark>. Use your better judgement and remember everyone is here to experience and enjoy the story, and your character should not be preventing them from doing that.
-
-Remember that <mark style="color:yellow;">you are responsible for your character</mark>. You cannot shift blame for your own actions on to an alternate identity.
-
-#### **🦸 Protagonism**
-
-Your character <mark style="color:yellow;">cannot try to act as the main protagonist of the story</mark>. Making your character the centre of attention during story events is not fair to others. In addition, your character must be respectful of the story characters. Getting in their faces, tapping them, antagonizing them, throwing items at them without asking, or attempting to hurt them (in an inappropriate moment) is not allowed.
-
-#### **📽 Projection**
-
-<mark style="color:yellow;">Do not project on to your character</mark>. If you are taking something from roleplay personally, it likely means that you are projecting to an extent. It's therefore recommended that you create a character that has a different personality/mindset from yourself, to ensure that this doesn't happen. If you have questions about this, you can contact a staff member. In-character relationships should be kept separate from out-of-character relationships as much as possible.
-
-#### **🏛 Grounding Your Character**
-
-<mark style="color:yellow;">Your character cannot be overpowered (god-modding)</mark>. This is a broad statement, and it applies in a number of different ways. These are including, _**but not limited to:**_
-
-* Your character cannot have magical/technological items/objects/abilities from outside the current story.
-* Your character cannot have magic that puts them at an advantage over other characters.
-* Your character cannot be inherently stronger than other characters. Gear and attributes will decide that.
-* All aspects of your character should be representable in-game.
-* Your character cannot be a 'perfect' character - give them flaws. That's what makes roleplay interesting.
-* In roleplay, you cannot force your character's actions upon others. Instead of saying "\[A] picked up \[B]", you would say "\[A] attempts to pick up \[B]", which then gives the person playing \[B] a chance to accept, ask for a roll, or deny.
-
-#### **🤔 Relevance**
-
-Keep things on topic as much as possible. Unless a roleplay is wide open, you should not sidetrack the session or event.
-
-You cannot use your character's ignorance as a distraction/excuse during roleplay. Your character might not know something (especially if they are new), but the middle of a story event or important interaction is not the place for them to ask.
-
-Characters must speak primarily in English. Portions of speech not in English must be translated, and roleplay done in different languages must be agreed upon by all involved parties.
-
-#### **🪶 Canon**
-
-<mark style="color:yellow;">Only roleplay conducted on the server can be considered canon</mark>. Roleplay on Discord or another platform should not be conducted - and if it is, cannot be considered canon. Blatant plagiarism from sources outside of Chertia is forbidden and will be removed from canon.
-
-For the sake of consistency, if your character acquires an ability or condition, please discuss it with a storyteller before implementing it in roleplay.
-
-#### 🧽 Character Changes
-
-Certain elements of characters may be changed after the character has been submitted and approved. Discuss with a Storyteller before making changes to your character.
-
-#### 💣 **Character Reset** <a href="#wiki_.1f4a3_character_reset" id="wiki_.1f4a3_character_reset"></a>
-
-Through the permission of staff, you are able to eliminate your character and reset your progress through a number of different ways. Contact a Moderator or Administrator for more information.
-
-#### ⚜️ Races
+### ⚜️ Races
 
 _Note: most active abilities require your hand to be empty to use them._
 

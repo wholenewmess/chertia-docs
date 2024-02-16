@@ -1,4 +1,4 @@
-# 📙 Safety Practices
+# 📓 Player Conduct
 
 #### **Reporting Tool**
 
