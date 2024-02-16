@@ -10,7 +10,6 @@
 * [📙 Character Standards](rules/character.md)
 * [📔 Roleplay Standards](rules/roleplay-standards.md)
 * [📓 Player Conduct](rules/player-conduct.md)
-* [📅 Events](rules/events.md)
 
 ## Lore
 
@@ -28,6 +27,7 @@
 ## Guides
 
 * [💬 Chat](guides/chat.md)
+* [📅 Events](guides/events.md)
 * [🪄 Magic](guides/magic.md)
 * [🔋 Technology](guides/technology.md)
 * [💻 Commands](guides/commands.md)
