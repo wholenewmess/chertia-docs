@@ -17,6 +17,7 @@ Your character will be rejected if it does not follow these standards.
 5. Your character does not have split or multiple personalities.
 6. Your character is not perfect -- give them flaws.
 7. Your character does not share a name with you (in any form) and is separate from your real personality.
+8. Your character does not have a disability or affliction that may upset or offend players on the server.
 
 ### **⚖️ Equality**
 

@@ -8,7 +8,7 @@ description: These are our core rules. Every player should know these.
 
 1. No griefing or stealing.
 2. No hacked clients, unapproved mods, or glitch exploits.
-3. Be kind, respectful, and appropriate.
+3. Be kind, respectful, and appropriate. Swearing is acceptable.
 4. All mob farms must use approved designs.
 5. The answer to the last question on the whitelist application is "cargo pants".
 
