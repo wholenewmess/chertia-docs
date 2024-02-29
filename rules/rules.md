@@ -22,7 +22,7 @@ We deal with punishments on a case-by-case basis. Severe or repeated rule violat
 
 If you have received a ban and do not agree with it, you may appeal using our [<mark style="color:blue;">**appeals form**</mark>](https://forms.gle/tf6AQCrLicfhHr1K9). Please send one of us a message once the form is submitted.
 
-Maximum severity bans & some extreme cases cannot be appealed. You will be notified if your ban cannot be appealed.
+Maximum severity bans & some extreme cases cannot be appealed. You will be notified if your ban cannot be appealed. Appeal decisions are final and cannot be appealed again.
 
 ### **📝 Reporting Tool**
 
