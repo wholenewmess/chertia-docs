@@ -35,4 +35,4 @@
 
 ## Other
 
-* [⬇️ World Downloads](other/world-downloads.md)
+* [⬇️ Downloads](other/downloads.md)

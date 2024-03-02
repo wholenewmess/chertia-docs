@@ -2,7 +2,7 @@
 description: Here you can find world downloads for previous seasons of Chertia.
 ---
 
-# ⬇️ World Downloads
+# ⬇️ Downloads
 
 * ⚔️ [<mark style="color:blue;">Season 1 (January 2020 - July 2020)</mark>](https://drive.google.com/file/d/18hfjLJO0oc45OuB9qT88k3MhgFSbCKZ\_/view?usp=share\_link)
 * 🕰️ [<mark style="color:blue;">Season 2 (July 2020 - January 2021)</mark>](https://drive.google.com/file/d/17g5o1yzSOY5h-0ZfGK3zJIbdSKsfnYRU/view?usp=share\_link)
