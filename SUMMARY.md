@@ -32,3 +32,7 @@
 * [🔋 Technology](guides/technology.md)
 * [💻 Commands](guides/commands.md)
 * [🔋 Modpack](guides/modpack.md)
+
+## Other
+
+* [⬇️ World Downloads](other/world-downloads.md)
