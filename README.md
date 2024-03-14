@@ -2,6 +2,8 @@
 description: >-
   Chertia is a roleplay/survival server full of magic, monsters, and gods. It
   has been running since 2015.
+cover: .gitbook/assets/2024-03-08_22.59.07.png
+coverY: 0
 ---
 
 # 📖 Chertia
@@ -28,7 +30,7 @@ We have a set of rules that we require you to follow, as well as a set of standa
 
 ### 📘Lore
 
-In order to make a character, you must read our [<mark style="color:blue;">Lore Guide</mark>](lore/lore-guide/), which contains crucial details about the world of Divian.
+In order to make a character, you must read our [<mark style="color:blue;">Lore Guide</mark>](lore/lore-guide.md), which contains crucial details about the world of Divian.
 
 {% hint style="info" %}
 DISCLAIMER: Chertia is not in any way affiliated with Mojang/Microsoft.
