@@ -11,9 +11,10 @@
 * [📔 Roleplay Standards](rules/roleplay-standards.md)
 * [📓 Player Conduct](rules/player-conduct.md)
 
-## Lore
+## Characters & Lore <a href="#lore" id="lore"></a>
 
 * [📘 Lore Guide](lore/lore-guide.md)
+* [🧬 Character Races](lore/character-races.md)
 
 ## Guides
 
