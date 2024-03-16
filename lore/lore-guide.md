@@ -10,7 +10,7 @@ coverY: 0
 
 ### The World of **Divian**
 
-Divian is the world in which our story takes place.  The story takes place in the year 1729 of Divian. 104 years ago, an intenense magical outburst called the Chaos Event drastically changed the world's climate and magic. The people of Divian are still adjusting to this new world, and your character is one of them. While they're aware of the Chaos Event, they may not fully understand its implications or causes, depending on their upbringing and backstory.&#x20;
+Divian is the world in which our story takes place.  The story takes place in the year 1729 of Divian. 104 years ago, an intense magical outburst called the Chaos Event drastically changed the world's climate and magic. The people of Divian are still adjusting to this new world, and your character is one of them. While they're aware of the Chaos Event, they may not fully understand its implications or causes, depending on their upbringing and backstory.&#x20;
 
 **It's up to you to create a character that fits within this world**, but we are always here to help you.&#x20;
 
