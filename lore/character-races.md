@@ -100,7 +100,7 @@ Golems are an automaton-like race who have been imbued with souls.
 <summary>🦊 Kytari</summary>
 
 * **Server Effects:** Can right click entities to 'trick' them into following.
-* **Lifespan:** 80-110 years
+* **Lifespan:** 80-110 years (child up until 18)
 * **Height:** 135cm - 200cm
 * **RP Difficulty:** 3/5
 
