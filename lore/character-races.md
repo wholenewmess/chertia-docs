@@ -87,7 +87,7 @@ Golems are an automaton-like race who have been imbued with souls.
 <summary>🧟 Jiangshi</summary>
 
 * **Server Effects:** Will not be targeted by undead monsters.
-* **Lifespan:** 200-230 years (child up until 20)
+* **Lifespan:** 200-230 years (cannot be children)
 * **Height:** 130cm - 200cm
 * **RP Difficulty:** 5/5
 
