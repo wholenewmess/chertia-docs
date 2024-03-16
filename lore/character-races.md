@@ -104,7 +104,7 @@ Golems are an automaton-like race who have been imbued with souls.
 * **Height:** 135cm - 200cm
 * **RP Difficulty:** 3/5
 
-Said to be descendants of a mythical creature that could control animals, the humanoid Kytari have a keen connection to nature and can communicate with animals more easily than other races. Typically have white or orange fur.
+Said to be descendants of a mythical creature that could control animals, the humanoid Kytari have a keen connection to nature and can communicate with animals more easily than other races. Typically have white or orange fur with large ears, but otherwise resemble humans.
 
 </details>
 
