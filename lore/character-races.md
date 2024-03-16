@@ -65,7 +65,7 @@ Dwarves are smaller humanoids who typically prefer the underground to the outsid
 * **Height:** 130cm - 160cm
 * **RP Difficulty:** 1/5
 
-Florahytes are plant-based organisms. They draw strength from flowers and sunlight.
+Florahytes are plant-based organisms. They draw strength from flowers and sunlight. They have green or brown skin.
 
 </details>
 
@@ -91,7 +91,7 @@ Golems are an automaton-like race who have been imbued with souls.
 * **Height:** 130cm - 200cm
 * **RP Difficulty:** 5/5
 
-&#x20;Undead humanoids who are friendly with other undeads.
+&#x20;Undead humanoids who are friendly with other undeads. Pale skin and dark eyes.
 
 </details>
 
@@ -104,7 +104,7 @@ Golems are an automaton-like race who have been imbued with souls.
 * **Height:** 135cm - 200cm
 * **RP Difficulty:** 3/5
 
-Said to be descendants of a mythical creature that could control animals, the humanoid Kytari have a keen connection to nature and can communicate with animals more easily than other races.
+Said to be descendants of a mythical creature that could control animals, the humanoid Kytari have a keen connection to nature and can communicate with animals more easily than other races. Typically have white or orange fur.
 
 </details>
 
@@ -117,7 +117,7 @@ Said to be descendants of a mythical creature that could control animals, the hu
 * **Height:** 150cm - 190cm
 * **RP Difficulty:** 1/5
 
-Typically agile, but lack physical strength. Can look varied.
+Typically agile, but lack physical strength. Can look varied, but usually have cool-coloured skin.
 
 </details>
 
@@ -156,6 +156,6 @@ Wights are undead humans who still inhabit their deceased bodies.
 * **Height:** 180cm - 230cm
 * **RP Difficulty:** 3/5
 
-&#x20;Animalistic humanoids who are typically very strong.&#x20;
+&#x20;Animalistic humanoids who are typically very strong. Come in a variety of forms.
 
 </details>
