@@ -16,7 +16,7 @@ Divian is the world in which our story takes place.  The story takes place in th
 
 ### Your Character
 
-Your character has arrived in the new nation of Solaria, seeking either power or belonging. It's up to you if your character felt out-of-place in their original clan, or they simply seek something more. The personality and details of your character are up to you, but their origin must be selected from the list below.
+Your character has arrived in the new nation of Solaria, seeking power, belonging or something else. It's up to you if your character felt out-of-place in their original clan, or they simply seek something more. The personality and details of your character are up to you, but their origin must be selected from the list below.
 
 ### List of Clans
 
