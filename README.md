@@ -4,6 +4,20 @@ description: >-
   has been running since 2015.
 cover: .gitbook/assets/2024-03-08_22.59.07.png
 coverY: 0
+layout:
+  cover:
+    visible: true
+    size: full
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: false
+  pagination:
+    visible: false
 ---
 
 # 📖 Chertia

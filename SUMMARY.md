@@ -20,8 +20,6 @@
 
 * [💬 Chat](guides/chat.md)
 * [📅 Events](guides/events.md)
-* [🪄 Magic](guides/magic.md)
-* [🔋 Technology](guides/technology.md)
 * [💻 Commands](guides/commands.md)
 * [🔋 Modpack](guides/modpack.md)
 
