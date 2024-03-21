@@ -23,21 +23,6 @@ For detailed information on the chat system, go [<mark style="color:blue;">here<
 * `/character view [player]` - View someone's character sheet.
 * `/character reset` - Reset your character. Staff member approval is required.
 
-#### 🗺️ Clans
-
-The clan system allows you to partner up with other players and form alliances.
-
-* `/clan` - The base command for clans. Tab-complete can be used this mostly self-explanatory command. Notable sub-commands are listed below.
-  * `/clan create [name]` - Create a new clan.
-  * `/clan disband` - Disband your current clan (as leader only).
-  * `/clan members [clan]` - List the members of a clan.
-  * `/clan info [clan]` - Get general info on a clan.
-  * `/clan border-policy [invite/open]` - Set the border policy of your clan. Open means anyone can join, invite means only invited members can join.
-  * `/clan invite [player]` - Invite a player to your clan.
-  * `/clan home` - Teleport to your clan's home base, if set.
-  * `/clan sethome` - As leader, set your clan's home location.
-* More sub-commands are available through tab-complete.
-
 #### 💵 Economy & Trading
 
 * `/bal` - View your balance.
@@ -55,8 +40,6 @@ The clan system allows you to partner up with other players and form alliances.
 
 #### 📝 Miscellaneous
 
-* `/toggleseasoncolors` - Toggle the seasonal biome colours for yourself.
-* `/toggletemperature` - Toggle the temperature system for yourself.
 * `/note add [name] [text]` - Creates a note with the provided name and text.
 * `/note view [name]` - View a specific notes.
 * `/note delete [name]` - Delete a specific note.
