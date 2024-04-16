@@ -9,6 +9,7 @@
 * [📕 Main Rules](rules/rules.md)
 * [📙 Character Standards](rules/character.md)
 * [📔 Roleplay Standards](rules/roleplay-standards.md)
+* [📗 Survival Standards](rules/survival-standards.md)
 * [📓 Player Conduct](rules/player-conduct.md)
 
 ## Characters & Lore <a href="#lore" id="lore"></a>
