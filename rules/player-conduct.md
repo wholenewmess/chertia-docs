@@ -1,8 +1,3 @@
----
-cover: ../.gitbook/assets/2023-03-10_21.13.55.png
-coverY: 0
----
-
 # 📓 Player Conduct
 
 #### **Reporting Tool**

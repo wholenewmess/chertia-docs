@@ -1,11 +1,6 @@
 ---
 description: These are our core rules. Every player should know these.
-cover: ../.gitbook/assets/2023-04-11_19.51.45.png
-coverY: 0
 layout:
-  cover:
-    visible: true
-    size: full
   title:
     visible: true
   description:
