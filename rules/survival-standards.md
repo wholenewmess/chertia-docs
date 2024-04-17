@@ -1,5 +1,7 @@
 ---
 description: When playing on the server, you must adhere to these standards.
+cover: ../.gitbook/assets/2023-03-10_01.45.14.png
+coverY: 0
 ---
 
 # 📗 Survival Standards
@@ -11,6 +13,6 @@ description: When playing on the server, you must adhere to these standards.
 2. No hacked clients, unapproved mods, or glitch exploits.
 3. All mob farms must use approved designs.
    * Automated farms are not allowed.
-   * AFK fishing farms are not allowed.
+   * AFK fishing farms are not allowed.&#x20;
 4. Build at least 32 blocks away from the nearest player or structure.
 5. Chop down an entire tree -- don't leave the stump or top of the tree.
