@@ -20,6 +20,7 @@
 ## Guides
 
 * [💬 Chat](guides/chat.md)
+* [🀄 Runes](guides/runes.md)
 * [📅 Events](guides/events.md)
 * [💻 Commands](guides/commands.md)
 * [🔋 Modpack](guides/modpack.md)
