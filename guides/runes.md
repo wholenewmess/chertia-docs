@@ -64,6 +64,14 @@ On right click, a sudden gust pushes the user and anything nearby into the air.
 
 <details>
 
+<summary>⛏️ Hasten</summary>
+
+When mining, there is a chance the user will receive the haste effect.
+
+</details>
+
+<details>
+
 <summary>⛓️‍💥 Instability</summary>
 
 On attack, there is a chance the attack will rebound and damage the user & item. However, normal attacks are boosted.
