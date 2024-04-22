@@ -93,3 +93,11 @@ On sneak, any nearby items are magnetized towards the user.
 On right click, the user shoots an ender pearl.
 
 </details>
+
+<details>
+
+<summary>🌊 Repel</summary>
+
+On sneak + attack, entities around the user are repelled.
+
+</details>
