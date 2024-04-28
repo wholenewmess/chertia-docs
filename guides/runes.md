@@ -40,6 +40,14 @@ On right click, the user shoots an exploding cow.
 
 <details>
 
+<summary>🟣 Enderblight</summary>
+
+On attack, the user will deal extra damage to Endermen, Endermites, and Ender Dragons.
+
+</details>
+
+<details>
+
 <summary>💧 Extinguish</summary>
 
 On sneak, extinguishes the user.
@@ -88,6 +96,14 @@ On sneak + jump, the user is thrust into the air.
 
 <details>
 
+<summary>❤️ Lifesteal</summary>
+
+On attack, the user will regain some health.
+
+</details>
+
+<details>
+
 <summary>🧲 Magnet</summary>
 
 On sneak, any nearby items are magnetized towards the user.
@@ -99,6 +115,14 @@ On sneak, any nearby items are magnetized towards the user.
 <summary>🧿 Pearl</summary>
 
 On right click, the user shoots an ender pearl.
+
+</details>
+
+<details>
+
+<summary>🥊 Recoil</summary>
+
+On attack, the user will also be knocked back.
 
 </details>
 
