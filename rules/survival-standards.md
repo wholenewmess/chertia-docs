@@ -13,4 +13,5 @@ description: When playing on the server, you must adhere to these standards.
    * Automated farms are not allowed.
    * AFK fishing farms are not allowed.&#x20;
 4. Build at least 32 blocks away from the nearest player or structure.
-5. Chop down an entire tree -- don't leave the stump or top of the tree.
+5. When claiming land, you must have immediate intent to build on it. Land that is "claimed" but has no purpose will be considered unclaimed.
+6. Chop down an entire tree -- don't leave the stump or top of the tree.
