@@ -21,6 +21,7 @@
 
 * [💬 Chat](guides/chat.md)
 * [🀄 Runes](guides/runes.md)
+* [📜 Recipes](guides/recipes.md)
 * [📅 Events](guides/events.md)
 * [💻 Commands](guides/commands.md)
 * [🔋 Modpack](guides/modpack.md)
