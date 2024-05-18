@@ -48,6 +48,14 @@ On right click, the user shoots an exploding cow.
 
 <details>
 
+<summary>🔥 Emboldening</summary>
+
+On right click, the user becomes emboldened for 15 seconds.
+
+</details>
+
+<details>
+
 <summary>🟣 Enderblight</summary>
 
 On attack, the user will deal extra damage to Endermen, Endermites, and Ender Dragons.
