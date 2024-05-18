@@ -24,6 +24,14 @@ On right click, gives the user a burst of speed.
 
 <details>
 
+<summary>⛈️ Capricious</summary>
+
+On right click, changes the weather.
+
+</details>
+
+<details>
+
 <summary>🥛 Cleanse</summary>
 
 On sneak, removes (some) negative effects from the user.
@@ -120,6 +128,14 @@ On right click, the user shoots an ender pearl.
 
 <details>
 
+<summary>🦀 Reaching</summary>
+
+On right click, temporarily extends the user's reach for block interaction.
+
+</details>
+
+<details>
+
 <summary>🥊 Recoil</summary>
 
 On attack, the user will also be knocked back.
@@ -131,5 +147,13 @@ On attack, the user will also be knocked back.
 <summary>🌊 Repel</summary>
 
 On sneak + attack, entities around the user are repelled.
+
+</details>
+
+<details>
+
+<summary>🚀 Takeoff</summary>
+
+On taking off with an Elytra, the user is given a significant boost.
 
 </details>
