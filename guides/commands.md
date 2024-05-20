@@ -20,7 +20,7 @@ For detailed information on the chat system, go [<mark style="color:blue;">here<
 * `/character create [name]` - Start the character creation process.
 * `/character edit [element] [value]` - Edit an element of your character.
   * `/character edit attributes X/X/X/X/X` - Set your character's attributes in the order which they appear on your sheet. If my character's health attribute is 3, the first number will be 3, and so on.
-  * Elements include: `race`, `name`, `nickname`, `height`, `age`, `pronouns`.
+  * Other elements include: `race`, `name`, `nickname`, `height`, `age`, `pronouns`.
 * `/character view [player]` - View someone's character sheet.
 * `/character reset` - Reset your character. Staff member approval is required.
 
