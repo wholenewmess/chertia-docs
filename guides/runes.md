@@ -40,6 +40,14 @@ On sneak, removes (some) negative effects from the user.
 
 <details>
 
+<summary>🧗‍♀️ Climbing</summary>
+
+On sneak + jump, temporarily increases the user's step height.
+
+</details>
+
+<details>
+
 <summary>🐮 Cownnon</summary>
 
 On right click, the user shoots an exploding cow.
