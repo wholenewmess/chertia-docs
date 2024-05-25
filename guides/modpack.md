@@ -24,4 +24,4 @@ description: >-
 6. Place all .jar files from the unzipped modpack into the 'mods' folder in your Minecraft installation. If a mods directory doesn't exist, create one.
 7. Launch the game using the installation & enjoy!
 
-If you have any issues let me know.
+If you have any issues, let a staff member know.
