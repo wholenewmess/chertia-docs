@@ -9,10 +9,10 @@ description: >-
 #### ⏬ Download
 
 * **Minecraft Version:** 1.20.6
-* **Mod Loader:** Fabric (fabric-api-0.97.8)
-* **Modpack Version:** 31 (2024/05/17)
+* **Mod Loader:** Fabric (fabric-api-0.99.0)
+* **Modpack Version:** 32 (2024/05/27)
 
-{% file src="../.gitbook/assets/chertia modpack 2024-05-17a.zip" %}
+{% file src="../.gitbook/assets/chertia modpack 2024-05-27.zip" %}
 
 #### 🔧  Installation
 
