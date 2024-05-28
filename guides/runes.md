@@ -128,6 +128,14 @@ On attack, the user will regain some health.
 
 <details>
 
+<summary>🧭 Locating</summary>
+
+On right click, dropped items around the user will begin to glow (or stop if they are already glowing)
+
+</details>
+
+<details>
+
 <summary>🧲 Magnet</summary>
 
 On sneak, any nearby items are magnetized towards the user.
