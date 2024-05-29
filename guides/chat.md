@@ -12,9 +12,7 @@ At any time, you can switch between these modes per-message. By starting your me
 
 ### ⬆️ Responding & Messaging
 
-By clicking on a chat message, you can directly respond to it. After clicking, type your response to the message and hit send, and others will see an arrow in your message. Hovering over the arrow will reveal the contents of the original message.
-
-You can also shift + click on a chat message to privately message the player who sent it.
+You can click on a player/character's name in chat to message them. By clicking on the content of the message itself, you can directly respond to it. After clicking, type your response to the message and hit send, and others will see an arrow in your message. Hovering over the arrow will reveal the contents of the original message.
 
 ### ＠ Modifiers
 
