@@ -24,11 +24,11 @@ layout:
 
 ### 📖 **Welcome to Chertia!**
 
-Chertia is a Minecraft survival server. The key difference between Chertia and other survival servers is that, as you play Minecraft, you play **as your character**. All your actions in-game are the actions of your character. Your interactions with other players are all 'roleplay'.&#x20;
+Chertia is a Minecraft roleplay/survival server. All your actions in-game are the actions of your character. Your interactions with other players are all 'roleplay'.&#x20;
 
 Unleash your story, craft your legacy, and survive in a world where imagination reigns supreme. Forge unforgettable bonds, conquer challenges, and become a part of the legend that is Chertia. Your journey awaits!
 
-➡️ Join our Discord by clicking [<mark style="color:blue;">**here**</mark>](https://discord.gg/chertia)!
+**💙 Join our Discord by clicking** [**here**](https://discord.gg/chertia)**!**
 
 Chertia's dedicated and passionate community sets us apart from other Minecraft servers. Our players and staff work tirelessly to foster an **inclusive, welcoming environment** where new and experienced players alike can feel at home.&#x20;
 
