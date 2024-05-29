@@ -10,6 +10,12 @@ Chertia features a custom chat system. This page will help you understand how th
 
 At any time, you can switch between these modes per-message. By starting your message with a quotation, it will be an in-character message. By starting it with an opening parenthesis, it will be an out-of-character message.
 
+### ⬆️ Responding & Messaging
+
+By clicking on a chat message, you can directly respond to it. After clicking, type your response to the message and hit send, and others will see an arrow in your message. Hovering over the arrow will reveal the contents of the original message.
+
+You can also shift + click on a chat message to privately message the player who sent it.
+
 ### ＠ Modifiers
 
 You can modify your chat using @X where X is a letter or number. A modifier can be placed anywhere in your message, but should be followed by a space if not placed at the end of a message (ex. "@50 Hello!"). Here are some examples of modifiers.
