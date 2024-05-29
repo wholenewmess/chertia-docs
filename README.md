@@ -24,9 +24,9 @@ layout:
 
 ### 📖 **Welcome to Chertia!**
 
-Chertia is a Minecraft roleplay/survival server. All your actions in-game are the actions of your character. Your interactions with other players are all 'roleplay'.&#x20;
+Welcome to Chertia, a Minecraft roleplay/survival server where every action you take is part of your character's story. Immerse yourself in a world where imagination reigns supreme, forging unforgettable bonds, conquering challenges, and crafting your legacy.
 
-Unleash your story, craft your legacy, and survive in a world where imagination reigns supreme. Forge unforgettable bonds, conquer challenges, and become a part of the legend that is Chertia. Your journey awaits!
+Want to stir up chaos with a mischievous character? Dream of running a cozy inn, offering refuge to weary travelers? Or perhaps you see yourself as a wandering nomad, exploring every corner of the world? The possibilities are endless.&#x20;
 
 **💙 Join our Discord by clicking** [**here**](https://discord.gg/chertia)**!**
 
