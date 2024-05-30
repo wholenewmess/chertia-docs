@@ -21,7 +21,8 @@ For detailed information on the chat system, go [<mark style="color:blue;">here<
 * `/character edit [element] [value]` - Edit an element of your character.
   * `/character edit attributes X/X/X/X/X` - Set your character's attributes in the order which they appear on your sheet. If my character's health attribute is 3, the first number will be 3, and so on.
   * Other elements include: `race`, `name`, `nickname`, `height`, `age`, `pronouns`.
-* `/character view [player]` - View someone's character sheet.
+  * Supporters can change the colour of their character card using `/character edit colour [hex code]`.
+* `/character view [player]` - View someone's character card.
 * `/character reset` - Reset your character. Staff member approval is required.
 
 #### 💵 Economy & Trading
