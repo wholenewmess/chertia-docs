@@ -1,3 +1,8 @@
+---
+cover: ../.gitbook/assets/2024-04-20_18.45.49.png
+coverY: 0
+---
+
 # 📅 Events
 
 ### 📖 Story Events

@@ -22,10 +22,10 @@
 
 * [💬 Chat System](guides/chat.md)
 * [🌾 Survival Features](guides/survival-features/README.md)
+  * [📜 Recipes](guides/survival-features/recipes.md)
   * [⛏️ The Underdark](guides/survival-features/the-underdark.md)
 * [✨ Devotion](guides/devotion.md)
 * [🀄 Runes](guides/runes.md)
-* [📜 Recipes](guides/recipes.md)
 * [📅 Events](guides/events.md)
 * [💻 Commands](guides/commands.md)
 * [🔋 Modpack](guides/modpack.md)

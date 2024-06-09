@@ -12,11 +12,10 @@ Chertia has a lot of custom survival features that add additional content and pr
 
 ### Survival Features
 
+* _**World generation...**_
+  * Datapacks enable custom world generation on the server for the Overworld, Nether and End dimensions.
 * _**Recipes...**_
-  * Several recipes have been added (available in the in-game recipe book): phantom membrane, echo shard, heavy core, breeze rod, chainmail armour.
-  * Cooking rotten flesh (furnace or campfire) will turn it into leather.
-  * Cooking dragon breath (campfire) will turn it into an experience bottle.
-  * Crafting an elytra + netherite ingot together will create a Reinforced Elytra.
+  * See the [Recipes](recipes.md) page for more information.
 * _**Blacksmith & item repairs...**_
   * Players can right click a Blacksmith (found around the world map) with a mineral to sell it (for **crowns**, the server's virtual economy).
   * Players can right click a Blacksmith with a damaged tool and the Blacksmith will repair it (3-12 crowns).

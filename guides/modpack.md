@@ -2,6 +2,8 @@
 description: >-
   Here is the download & information for the Fabric modpack that you're welcome
   to install and use on the server. It has a number of useful features.
+cover: ../.gitbook/assets/2024-04-30_18.01.44.png
+coverY: 0
 ---
 
 # 🔋 Modpack
