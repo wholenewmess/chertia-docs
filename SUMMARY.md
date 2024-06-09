@@ -32,4 +32,4 @@
 
 ## Other
 
-* [⬇️ Downloads](other/downloads.md)
+* [⌛ Past Seasons](other/past-seasons.md)
