@@ -1,5 +1,7 @@
 ---
 description: When playing on the server, you must adhere to these standards.
+cover: ../.gitbook/assets/2024-03-27_16.52.02.jpg
+coverY: 0
 ---
 
 # 📗 Survival Standards

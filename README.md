@@ -40,7 +40,7 @@ We have a set of rules that we require you to follow, as well as a set of standa
 * 📙 [<mark style="color:blue;">Character Standards</mark>](rules/character.md)
 * 📒 [<mark style="color:blue;">Roleplay Standards</mark>](rules/roleplay-standards.md)
 * 📗 [Survival Standards](rules/survival-standards.md)
-* 📓 [<mark style="color:blue;">Player Conduct</mark>](rules/player-conduct.md) (to be updated)
+* 📘 [<mark style="color:blue;">Player Conduct</mark>](rules/player-conduct.md) (to be updated)
 
 ### 📘Lore
 

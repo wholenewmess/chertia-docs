@@ -10,7 +10,7 @@
 * [📙 Character Standards](rules/character.md)
 * [📔 Roleplay Standards](rules/roleplay-standards.md)
 * [📗 Survival Standards](rules/survival-standards.md)
-* [📓 Player Conduct](rules/player-conduct.md)
+* [📘 Player Conduct](rules/player-conduct.md)
 
 ## Characters & Lore <a href="#lore" id="lore"></a>
 
@@ -22,7 +22,7 @@
 
 * [💬 Chat System](guides/chat.md)
 * [🌾 Survival Features](guides/survival-features/README.md)
-  * [📜 Recipes](guides/survival-features/recipes.md)
+  * [📜 Recipes](guides/recipes.md)
   * [⛏️ The Underdark](guides/survival-features/the-underdark.md)
 * [✨ Devotion](guides/devotion.md)
 * [🀄 Runes](guides/runes.md)

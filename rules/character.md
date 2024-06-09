@@ -2,6 +2,8 @@
 description: >-
   Your character must follow these standards in order to be approved & continue
   to be acceptable.
+cover: ../.gitbook/assets/2024-03-22_22.22.34.jpg
+coverY: 0
 ---
 
 # 📙 Character Standards

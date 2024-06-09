@@ -15,7 +15,7 @@ Chertia has a lot of custom survival features that add additional content and pr
 * _**World generation...**_
   * Datapacks enable custom world generation on the server for the Overworld, Nether and End dimensions.
 * _**Recipes...**_
-  * See the [Recipes](recipes.md) page for more information.
+  * See the [Recipes](../recipes.md) page for more information.
 * _**Blacksmith & item repairs...**_
   * Players can right click a Blacksmith (found around the world map) with a mineral to sell it (for **crowns**, the server's virtual economy).
   * Players can right click a Blacksmith with a damaged tool and the Blacksmith will repair it (3-12 crowns).

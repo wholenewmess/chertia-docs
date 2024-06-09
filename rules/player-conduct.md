@@ -1,4 +1,9 @@
-# 📓 Player Conduct
+---
+cover: ../.gitbook/assets/2024-03-31_21.58.13.jpg
+coverY: 0
+---
+
+# 📘 Player Conduct
 
 #### **Reporting Tool**
 

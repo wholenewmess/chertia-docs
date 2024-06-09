@@ -1,4 +1,8 @@
-# 💬 Chat
+---
+coverY: 0
+---
+
+# 💬 Chat System
 
 Chertia features a custom chat system. This page will help you understand how the system works.
 

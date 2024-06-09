@@ -1,3 +1,8 @@
+---
+cover: ../.gitbook/assets/2024-04-26_20.38.29.jpg
+coverY: 0
+---
+
 # 🧬 Character Races
 
 ### ⚜️ Races

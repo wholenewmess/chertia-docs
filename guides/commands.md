@@ -1,3 +1,8 @@
+---
+cover: ../.gitbook/assets/2024-05-28_22.01.55.png
+coverY: 0
+---
+
 # 💻 Commands
 
 This page will provide you with an overview of various commands on the server.

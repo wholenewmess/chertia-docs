@@ -3,6 +3,8 @@ description: >-
   The standards set out in this document are intended to bring a status quo to
   roleplay in the community. Each player should strive to follow these
   guidelines at all times
+cover: ../.gitbook/assets/2024-03-08_22.54.58.jpg
+coverY: 0
 ---
 
 # 📔 Roleplay Standards
