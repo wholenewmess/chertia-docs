@@ -1,5 +1,5 @@
 ---
-cover: ../.gitbook/assets/2024-05-22_20.21.20.png
+cover: ../../.gitbook/assets/2024-05-22_20.21.20.png
 coverY: 0
 ---
 
