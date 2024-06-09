@@ -14,6 +14,7 @@ Chertia has a lot of custom survival features that add additional content and pr
 
 * _**World generation...**_
   * Datapacks enable custom world generation on the server for the Overworld, Nether and End dimensions.
+  * There are lots of lootable structures. If the chest has an orange name, it means the loot inside is per-player.
 * _**Recipes...**_
   * See the [Recipes](../recipes.md) page for more information.
 * _**Blacksmith & item repairs...**_
