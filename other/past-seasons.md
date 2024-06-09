@@ -6,7 +6,7 @@ description: >-
 
 # ⌛ Past Seasons
 
-### ⚔️ Season 1
+Click on each Season to download the world map.
 
 * ⚔️ [<mark style="color:blue;">Season 1</mark>](https://drive.google.com/file/d/18hfjLJO0oc45OuB9qT88k3MhgFSbCKZ\_/view?usp=share\_link)
   * 📆 January 10, 2020 - July 10, 2020
