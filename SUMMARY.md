@@ -16,10 +16,13 @@
 
 * [✒️ The World of Divian](lore/lore-guide.md)
 * [🧬 Character Races](lore/character-races.md)
+* [⚖️ Character Attributes](lore/character-attributes.md)
 
 ## Guides
 
-* [💬 Chat](guides/chat.md)
+* [💬 Chat System](guides/chat.md)
+* [🌾 Survival Features](guides/survival-features.md)
+* [✨ Devotion](guides/devotion.md)
 * [🀄 Runes](guides/runes.md)
 * [📜 Recipes](guides/recipes.md)
 * [📅 Events](guides/events.md)

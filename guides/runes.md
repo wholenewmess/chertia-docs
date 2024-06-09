@@ -1,6 +1,15 @@
+---
+cover: ../.gitbook/assets/2024-05-22_20.21.20.png
+coverY: 0
+---
+
 # 🀄 Runes
 
 Chertia features a custom magic system that works through **runes** applied to your items. These rune items can be acquired through quests and trades, or they may appear on your items randomly. Most runes have beneficial effects, but some are harmful.
+
+### Runesmith
+
+Located in Emberlyn, the Runesmith will take one of your items and apply a random rune to it for 200 crowns. It will take around 24 hours for the Runesmith to apply the rune, so you'll need to come back the next day to collect your item. Runesmithing is a delicate procedure, and there's a (small) chance the Runesmith could _break_ your item. If this happens, you'll be refunded.
 
 ### List of Runes
 

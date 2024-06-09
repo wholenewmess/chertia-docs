@@ -1,0 +1,3 @@
+# ⚖️ Character Attributes
+
+Coming soon!
