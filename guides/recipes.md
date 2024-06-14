@@ -27,6 +27,14 @@ The server has a number of custom recipes, all of which can be viewed with the i
 
 <details>
 
+<summary>Heart of the Sea</summary>
+
+![](<../.gitbook/assets/image (10).png>)
+
+</details>
+
+<details>
+
 <summary>Heavy Core</summary>
 
 Temporary crafting recipe for 1.20.6.
