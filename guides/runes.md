@@ -65,6 +65,14 @@ On right click, the user shoots an exploding cow.
 
 <details>
 
+<summary>💢 Critical</summary>
+
+The user is guaranteed a critical hit.
+
+</details>
+
+<details>
+
 <summary>🔥 Emboldening</summary>
 
 On right click, the user becomes emboldened for 15 seconds.

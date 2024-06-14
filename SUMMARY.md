@@ -16,7 +16,6 @@
 
 * [✒️ The World of Divian](lore/lore-guide.md)
 * [🧬 Character Races](lore/character-races.md)
-* [⚖️ Character Attributes](lore/character-attributes.md)
 
 ## Guides
 
