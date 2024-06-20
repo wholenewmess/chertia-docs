@@ -23,7 +23,7 @@ When it comes to interaction in a community, there may be very different ideas o
 2. Maintain a **safe and inclusive** environment.
    * Everyone should feel welcome, regardless of their background or identity.
    * Discrimination, harassment, or any form of exclusion will not be tolerated.
-3. Communicate **openly, constructively and politely**.
+3. Communicate **openly, constructively, and politely**.
    * Encourage healthy discussions and share feedback in a positive manner.
    * Avoid personal attacks and focus on the topic at hand.
    * Do not 'steamroll' conversations.
