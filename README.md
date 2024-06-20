@@ -40,9 +40,9 @@ We have a set of rules that we require you to follow, as well as a set of standa
 * 📙 [<mark style="color:blue;">Character Standards</mark>](rules/character.md)
 * 📒 [<mark style="color:blue;">Roleplay Standards</mark>](rules/roleplay-standards.md)
 * 📗 [Survival Standards](rules/survival-standards.md)
-* 📘 [<mark style="color:blue;">Player Conduct</mark>](rules/player-conduct.md) (to be updated)
+* 📘 [Code of Conduct](rules/player-conduct.md)
 
-### 📘Lore
+### 🪶 Lore
 
 In order to make a character, you must read our [<mark style="color:blue;">Lore Guide</mark>](lore/lore-guide.md), which contains crucial details about the world of Divian.
 

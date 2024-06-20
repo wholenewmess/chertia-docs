@@ -3,21 +3,39 @@ cover: ../.gitbook/assets/2024-03-31_21.58.13.jpg
 coverY: 0
 ---
 
-# 📘 Player Conduct
+# 📘 Code of Conduct
 
-#### **Reporting Tool**
+{% hint style="info" %}
+**Reporting Tool:** Chertia has a reporting tool for instances where you believe someone has violated the rules or standards. You can view & use the reporting tool [<mark style="color:blue;">here</mark>](https://docs.google.com/forms/d/e/1FAIpQLSefkaaKC4Pvw36TIHL\_xLyPPMQheF-gjwu64qfhMaOCUQ8Uyw/viewform?usp=sf\_link).
+{% endhint %}
 
-Chertia has a reporting tool for instances where you believe someone has violated the rules or safety practices. You can view & use the reporting tool [<mark style="color:blue;">here</mark>](https://docs.google.com/forms/d/e/1FAIpQLSefkaaKC4Pvw36TIHL\_xLyPPMQheF-gjwu64qfhMaOCUQ8Uyw/viewform?usp=sf\_link).
+### Disclaimer
 
-#### **Disclaimer**
+By being a part of Chertia, you agree to follow these standards. Frequent or serious infringement of these standards can result in removal from the community.&#x20;
+
+### General Conduct
 
 When it comes to interaction in a community, there may be very different ideas of how it ‘should’ be conducted. Some players prefer to interact in different ways, and this document is intended to provide a bottom line for the kinds of practices that are acceptable or unacceptable. Additionally, it contains some recommendations on interacting that will ideally keep community members safe and comfortable.&#x20;
 
-That being said, we strongly recommend refraining from sharing _**any**_ personal information unless you are fully comfortable with those you are interacting with. Additionally, we are careful to remind you that all in-server activity is visible to online and offline staff members, which is one of the reasons why new staff members are appointed via a vote of confidence.
+1. Treat others with **respect and empathy**.
+   * Behaviors such as toxicity, gossip, and spreading rumors are unacceptable.
+   * When joking with someone, ensure they are comfortable and in on  the joke.
+2. Maintain a **safe and inclusive** environment.
+   * Everyone should feel welcome, regardless of their background or identity.
+   * Discrimination, harassment, or any form of exclusion will not be tolerated.
+3. Communicate **openly and constructively**.
+   * Encourage healthy discussions and share feedback in a positive manner.
+   * Avoid personal attacks and focus on the topic at hand. Do not 'steamroll' conversations.
+4. Respect **privacy and confidentiality**.
+   * Do not request the personal information of others.
+   * Protect the privacy of community members at all times.
+5. Be **responsible and accountable**.
+   * Own your actions and their impact on others.
+   * Apologize if you make a mistake and strive to make amends.
 
-#### **Safety Practices**
+### Privacy
 
-In general, you should follow these practices at all times anywhere online.&#x20;
+As a general rule, we strongly recommend refraining from sharing _**any**_ personal information online unless you are fully comfortable with those you are interacting with. Additionally, we are careful to remind you that all in-server activity is visible to online and offline moderators, which is one of the reasons why new moderators are appointed via a vote of confidence. These standards cover rules you should follow _anywhere_ online, not just in the Chertia community.
 
 1. Never share private/personal information that could be used against you. It is not up to us if you want to share your given name or general location, but _**never**_ share your surname, exact location or address.&#x20;
 2. Where possible, try not to reveal your age. This is another piece of information that can be used against you. Your age is included in the whitelist application as a way of staff members verifying that you are eligible to play on the server, but it is not shared with others.
@@ -27,7 +45,7 @@ In general, you should follow these practices at all times anywhere online.&#x20
 
 _**In general, assume that any information you share is now public information. Consider this when you decide what you should and should not post.**_
 
-#### **Potential Issues**
+### **Interaction & Roleplay**
 
 These are some of the warning signs that you should look out for when you are interacting with others in the community and elsewhere online.
 
@@ -39,47 +57,7 @@ These are some of the warning signs that you should look out for when you are in
    4. **Using threatening language;** this is the most obvious form of peer pressure, but it is dangerous nonetheless. When someone uses implications or open threats to try and get another person to do something. For example; “if you don’t do \[x] I will \[y].”&#x20;
 3. **Inappropriate comments and messages** can often be difficult to pinpoint because context matters a lot. However, sexually suggestive messages that make you uncomfortable are never okay and should be reported to a staff member immediately, including the context of the message. This applies to both out-of-character and in-character interactions, on and off the server.
 
-_**You can make it more difficult for someone to apply peer pressure on you by following the ‘safety practices’ section of this document.**_
-
-#### **Unacceptable Behaviours**
-
-1. **Toxicity**; in situations where community members are creating or contributing to a toxic environment, the staff team may speak to those community members or take action to stop the toxicity, even if that action is not specifically mentioned in the rules. We define toxicity as creating a negative environment, causing issues in the community, being disrespectful of fellow players or staff members, being rude or inappropriate, or any version of these.&#x20;
-2. **Over-indulging**; if someone is making another person feel uncomfortable with the amount of information they are sharing, whether it is because the other person does not feel comfortable having that information or the information is a trigger, the interaction should end there. If necessary, it should be reported to a staff member.
-3. **Gossip**; we all have bad days, and it is perfectly acceptable for community members to feel upset at others. However, spreading gossip about community members for any reason, especially because of a personal issue, is never acceptable.&#x20;
-4. **Starting and/or spreading rumours**; while this ties into the above, it is even more dangerous because the information that is being spread is false. It can affect the way that community members view each other, and eventually can severely damage the community’s ties and relationships.&#x20;
-5. **Steamrolling conversation**; if someone actively ignores another person or uses a public forum as a way of venting/ranting, it can be discouraging to the other person who wants to contribute. In general, you should always try to actively listen at least half as much as you are participating. This especially applies when interacting in voice chats, where some people might feel significantly discouraged from participating if they are interrupted repeatedly or ignored altogether.
-6. **Inciting conflict**; creating or pursuing issues between community members contributes to a toxic environment, especially when it happens in a public forum or separate chat. Community members should always attempt to resolve issues through DMs, and bring the issues forward to staff members if they are unable to resolve it themselves.&#x20;
-
-#### **Mental Health**
-
-* In extreme situations where the staff team collectively believes that a player's presence in the server is affecting their mental health or the mental health of other community members, we reserve the right to act in accordance with what we believe is best for the community as a whole as well as the individuals involved in the situation.&#x20;
-* These actions are taken very seriously and are discussed at length. They are for the good of the players involved.
-
-#### **Safety Entitlement**
+### **Safety Entitlement**
 
 * Members of the community are entitled to a standard of safety enforced by the staff team.&#x20;
 * If a community member or staff member poses a threat to other community members, they will be removed from the community.&#x20;
-
-#### **Forms of Cyberbullying**
-
-As pulled from [<mark style="color:blue;">https://www.stopbullying.gov/cyberbullying/cyberbullying-tactics</mark>](https://www.stopbullying.gov/cyberbullying/cyberbullying-tactics), there are several different forms of cyberbullying that can take place, and some are more subtle than you may think. These are included, but not limited to:
-
-1. Nude photo sharing; when inappropriate photos are shared in an interaction
-2. Lies and false accusations; when rumours are started or spread
-3. Bullied for being economically challenged; when someone is called ‘poor’ or is bullied for a lack of a gaming-dedicated setup
-4. False identity profile; creating a fake profile for someone
-5. Encouraging self-harm or suicide; joking about or seriously encouraging self-harm or suicide
-6. Bullied because of sexual orientation, gender identity, race, etc.; self-explanatory
-7. Jealousy; bullying because someone is jealous of another person
-8. Doxxing; sharing private information about someone without their permission
-
-For more information on these different forms of cyberbullying, visit the website linked.
-
-#### **Resources & Additional Information**
-
-* [<mark style="color:blue;">https://www.stopbullying.gov/cyberbullying/cyberbullying-tactics</mark>](https://www.stopbullying.gov/cyberbullying/cyberbullying-tactics)
-* [<mark style="color:blue;">https://www.stopbullying.gov/cyberbullying/what-is-it</mark>](https://www.stopbullying.gov/cyberbullying/what-is-it)
-* [<mark style="color:blue;">https://www.internetsafety101.org/onlinegaming</mark>](https://www.internetsafety101.org/onlinegaming)
-* [<mark style="color:blue;">https://suicidepreventionlifeline.org/talk-to-someone-now/</mark>](https://suicidepreventionlifeline.org/talk-to-someone-now/)
-* [<mark style="color:blue;">https://www.fantasyrp.net/forums/threads/health-safety-information-guidance-more.67/</mark>](https://www.fantasyrp.net/forums/threads/health-safety-information-guidance-more.67/)
-  * Credit for some of the ideas and wording.
