@@ -33,3 +33,12 @@ We require that your character is not overpowered.
 
 Through the storytellers and moderators, you are able to make changes to and reset your character. You should speak with a storyteller or moderator if you are unhappy with your character.
 
+### 🪦 Character Deaths
+
+There are several reasons that a character might perish during a story event. These include:
+
+* You request that your character dies, and there is an appropriate moment in the story.
+* Your character is acting antagonistically, disrupting the event, and/or neglecting common sense.
+  * For example, your character decides to disrespect or challenge an aggressive story character that won't hesitate to kil them.
+* The moderation team believe a fresh start would benefit your enjoyment of the server.
+  * For example, we notice you're struggling to roleplay with your current character or your character's development is stagnant.
