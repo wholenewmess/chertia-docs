@@ -44,6 +44,16 @@ During server events (roleplay events, story events, etc.) there are a few addit
 3. During story events, do not attempt to derail the event (for example, stealing important items).
 4. During story events, communicate with the group. If you have found something or have an idea, tell others.
 
+### 🪦 Character Deaths
+
+There are several reasons that a character might perish during a story event. These include, but are not limited to:
+
+* You request that your character dies, and there is an appropriate moment in the story.
+* Your character is acting antagonistically, disrupting the event, and/or neglecting common sense.
+  * For example, your character decides to disrespect or challenge an aggressive story character that won't hesitate to kil them.
+* The moderation team believe a fresh start would benefit your enjoyment of the server.
+  * For example, we notice you're struggling to roleplay with your current character or your character's development is stagnant.
+
 ### **📖 Additional Standards**
 
 1. Roleplay can only be conducted on the server.
