@@ -11,10 +11,10 @@ coverY: 0
 #### ⏬ Download
 
 * **Minecraft Version:** 1.21
-* **Mod Loader:** Fabric (fabric-api-0.99.0)
-* **Modpack Version:** 32 (2024/05/27)
+* **Mod Loader:** Fabric (fabric-api-0.100.3)
+* **Modpack Version:** 33 (2024/06/23)
 
-{% file src="../.gitbook/assets/chertia modpack 2024-06-23a.zip" %}
+{% file src="../.gitbook/assets/chertia modpack version 33.zip" %}
 
 #### 🔧  Installation
 
