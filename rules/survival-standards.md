@@ -20,3 +20,4 @@ coverY: 0
    * Automated farms are not allowed.
    * AFK fishing farms are not allowed.&#x20;
 5. Chop down an entire tree -- don't leave the stump or top of the tree.
+6. Be respectful of server resources; for example, no redstone clocks or mega-farms.
