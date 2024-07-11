@@ -13,7 +13,7 @@ coverY: 0
 
 In order to make everyone comfortable in the community, the following restrictions are placed on all roleplay.
 
-1. Characters cannot engage in inappropriate activities, including sexual activities, drug use/abuse, alcohol abuse, and self-harm.
+1. Characters cannot engage in, speak about, or allude to inappropriate activities including sexual activities, drug use/abuse, alcohol abuse, domestic violence, and self-harm.
 2. Graphic roleplay (torture, maiming, sexual descriptions) is strictly forbidden.
 3. Engagement in romantic relationships requires the consent of both the player and the character. Characters must be canonical adults. Character romantic relationships should be kept separate from player romantic relationships.
 4. Characters must speak primarily in English. Portions of speech not in English must be translated, and roleplay done in different languages must be agreed upon by all involved parties.
