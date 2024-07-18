@@ -161,6 +161,14 @@ On sneak, any nearby items are magnetized towards the user.
 
 <details>
 
+<summary>🎣 Netting</summary>
+
+On fishing rod reel in, the user has a chance to catch 2-3 of the same type of fish.
+
+</details>
+
+<details>
+
 <summary>🧿 Pearl</summary>
 
 On right click, the user shoots an ender pearl.
