@@ -9,7 +9,7 @@ Chertia features a custom magic system that works through **runes** applied to y
 
 ### Runesmith
 
-Located in Emberlyn, the Runesmith will take one of your items and apply a random rune to it for 200 crowns. It will take around 24 hours for the Runesmith to apply the rune, so you'll need to come back the next day to collect your item. Runesmithing is a delicate procedure, and there's a (small) chance the Runesmith could _break_ your item. If this happens, you'll be refunded.
+Located in Emberlyn, the Runesmith will take one of your items and apply a random rune to it for a price. It will take around 24 hours for the Runesmith to apply the rune, so you'll need to come back the next day to collect your item. Runesmithing is a delicate procedure, and there's a (small) chance the Runesmith could _break_ your item. If this happens, you'll be refunded.
 
 ### List of Runes
 
