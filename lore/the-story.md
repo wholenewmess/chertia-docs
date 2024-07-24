@@ -7,7 +7,7 @@ coverY: 0
 
 ### 🗺️ Divian / The World
 
-For information on Divian -- the world in which the story takes place -- visit T[he World of Divian](lore-guide.md) guide.
+For information on Divian -- the world in which the story takes place -- visit [The World of Divian](lore-guide.md) guide.
 
 ### 📜 The Story So Far
 
