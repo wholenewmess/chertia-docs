@@ -14,17 +14,14 @@ For detailed information on the chat system, go [<mark style="color:blue;">here<
 * `/msg [player] [text]` - Send someone a private message.
 * `/r [text]` - Reply to your last received message.
 * `/me [text]` - Sends a message in chat with the format of your character performing an action. For example, "`/me jumps around`",
-* `/chat radius <number>` - Sets the default chat radius for your messages when In Character.
-* `/chat mode ic/ooc` - Sets your chat mode to either In Character or Out Of Character.
-* `/name common [text]` - Sets your common name. This can only be done once. Set it to what you'd prefer to be called when you're out-of-character. This will show up on the Discord.
+* `/radius <number>` - Sets the default chat radius for your messages when In Character.
+* `/ic` or `/ooc` - Sets your chat mode to either In-Character or Out-Of-Character.
 * `/afk` - Puts you in AFK mode. Moving will disable AFK mode.
-* `/whois [text]` - Helps you figure out who is who. You can use usernames, common names, and character names. However, the tablist will generally tell you what you need to know.
 
 #### **🧙** Characters
 
 * `/character create [name]` - Start the character creation process.
-* `/character edit [element] [value]` - Edit an element of your character.
-  * `/character edit attributes X/X/X/X/X` - Set your character's attributes in the order which they appear on your sheet. If my character's health attribute is 3, the first number will be 3, and so on.
+* `/character edit [element] [value]` - Edit an element of your character. Just doing `/character edit` will open the interactive editor.
   * Other elements include: `race`, `name`, `nickname`, `height`, `age`, `pronouns`.
   * Supporters can change the colour of their character card using `/character edit colour [hex code]`.
 * `/character view [player]` - View someone's character card.

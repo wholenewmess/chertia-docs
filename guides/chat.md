@@ -9,7 +9,7 @@ Chertia features a custom chat system. This page will help you understand how th
 ### 🪶 Chat Modes
 
 * **In-character (ic)** chat is the default. You can switch to it with the command `/ic`. In in-character chat, your messages will have a reach radius. By default, this radius is 30 and can be changed with `/radius [number of blocks]`. This means that only others within that radius will be able to receive your messages.
-* **Out-of-character (ooc)** chat can be selected with `/ooc`. All messages will automatically be sent with parantheses. Additionally, these OOC messages will default to being global.
+* **Out-of-character (ooc)** chat can be selected with `/ooc`. All messages will automatically be sent with parantheses. Additionally, these OOC messages will default to being global. Parentheses around your message, or just at the start, will turn that message into an OOC message.
 * **Local-only** mode can be set regardless of ic or ooc chat mode. Use `/options local_chat_only` to change it. In this mode, you will only receive local chat. Be aware that you can still send global chat messages in this mode.
 * **Private local chat** means your local chat messages will not be sent to the public local chat Discord channel. By default, all local chat messages are publicly accessible through the Discord. Use `/options local_chat_private` to change it for your current session, or use `@p` to suppress individual messages.
 
@@ -29,8 +29,6 @@ You can modify your chat using @X where X is a letter or number. A modifier can 
 * `@transmit` or `@t` will modify your message to become a "transmission". These are in-character messages that will be received globally.
 * `@global` or `@g` will modify your message to become a global out-of-character message.
 * `@p` or `@private` will suppress any local chat messages from the public #local-chat channel on Discord.
-
-### Examples
 
 Here are a few examples of how these modifiers work:
 
