@@ -15,6 +15,7 @@
 ## Characters & Lore <a href="#lore" id="lore"></a>
 
 * [✒️ The World of Divian](lore/lore-guide.md)
+* [📜 The Story](lore/the-story.md)
 * [🧬 Character Races](lore/character-races.md)
 
 ## Guides
