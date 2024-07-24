@@ -27,7 +27,8 @@ Each character originates from a particular clan in Divian. Here is a list of cl
 <summary>⚔️ <strong>Yvera [The Warrior]</strong></summary>
 
 * **Nation:** Bellator
-* **Description:** A warrior clan. After the Chaos Event, Yvera began to gain an influx of members from disbanded warrior-type clans (among others), and grew even further than before. As the second-largest city after Perpetua, Yvera focuses on inner strength. They are led by a council consisting of the four strongest and smartest members of the clan.
+* **Description:** A community of warriors that boast a long legacy, the Chaos Event forced the people of Yvera to rapidly adapt, changing from a democratic state to an authoritarian approach. Now under the leadership of a council - consisting of the four strongest and smartest members in the community - Yvera has gained incredible size from the influx of other warrior-type clans and settlers, becoming the second-largest city in Divian.\
+  Believing in all forms of strength, the people of Yvera place high value in training and combat.
 * **Typical Characters:** Warriors who are brave but disciplined, and believe in their own strength and wits. Some are intelligent, some are not; many can be violent, but all are very strong.
 
 </details>
@@ -37,7 +38,8 @@ Each character originates from a particular clan in Divian. Here is a list of cl
 <summary>🐍 Neo Providentia [The Outsider]</summary>
 
 * **Nation:** Balus
-* **Description:** A clan comprised mostly of former Magus Collective members and descendants. The Chaos Event has forced them out to the fringes of society, and they live mostly separate lives from others in Divian. Their leader is Master Rena Alkoy - a wight and the former heiress of House Alkoy before the Chaos Event.
+* **Description:** The Magus Collective was once a powerful nation focusing on the study, research, and use of magic in Divian. Led by the nobility, it once tried to become a superpower, but brutal conflicts - followed by the Chaos Event - have shattered this power structure entirely. The remnants, both nobles and commoners, were forced further into the fringes of society, and away from the rest of the world.\
+  Currently led by the wight Master Rena Alkoy, the people of Neo Providentia often keep to themselves, but ambitions, secrets, and power imbalances run deep.
 * **Typical Characters:** Characters who aren't afraid to cross unsavoury lines to get what they want - and can be quite ruthless. Often individualistic, they are evasive and prefer to keep secrets.
 
 </details>
@@ -47,8 +49,8 @@ Each character originates from a particular clan in Divian. Here is a list of cl
 <summary>🐺 Vigilantes of Entropy [The Rebel]</summary>
 
 * **Nation:** Thaloryn
-* **Description:** A loose coalition of rebel groups and renegades formed in the wake of the Chaos Event. They view the corruption and arrogance of the older clans (and their misuse of magic) as being responsible for the Chaos Event. They seek to prevent any new attempts at centralising power from arising by emulating the chaotic nature of this new world.
-* **Typical Characters: T**end to be intelligent, independent free-thinkers who are suspicious of authority. While they can be courageous and passionate about their values, they can also be judgemental of those who disagree with them.
+* **Description:** The Vigilantes of Entropy is a loose coalition of rebel groups in Thaloryn that formed after the Chaos Event. They believe that corruption, arrogance and the misuse of magic is the cause of the Chaos Event. The clan has no main leader, and each group within the Vigilantes uses different methods to achieve their goals.
+* **Typical Characters:** Most people from the Vigilantes of Entropy like the chaotic nature of the new world and wish to stop new organized groups from gaining power. They are often intelligent and independent free-thinkers who don't like authority. They are passionate but may judge others who don't agree with them.
 
 </details>
 
@@ -57,7 +59,9 @@ Each character originates from a particular clan in Divian. Here is a list of cl
 <summary>🌸 Peace Lily [The Peacekeeper]</summary>
 
 * **Nation:** Azura
-* **Description:** A clan mostly comprised of individuals and their descendants who lost others during the Chaos Event. As a result, they seek to achieve peace throughout Divian and work tirelessly towards that aim.
+*   **Description:** A clan situated in the eastern parts of Azura, Peace Lily is mostly comprised of individuals and their descendants who lost others during the Chaos Event. As a result, they seek to achieve peace throughout Divian and work tirelessly towards that aim.
+
+    The clan is currently led by Calliope Green, an elder Capling who strives to try and create a place of serenity inside a world of chaos.
 * **Typical Characters:** Carefree, peaceful, and humble people with a passion to help. Many farmers, fishers, and musicians/artists come from Peace Lily.
 
 </details>
@@ -87,7 +91,7 @@ Each character originates from a particular clan in Divian. Here is a list of cl
 <summary>☁️ The Airborne Market [The Capitalist]</summary>
 
 * **Nation:** N/A
-* **Description:** A combination of the flying city of Altairia and the Clockwise Market, who merged as a result of the Chaos Event destroying most of the Clockwise Market, this city flies across Divian as an airborne trading center.
+* **Description:** After the Chaos Event and the disappearance of Azura’s king, the flying city of Altairia merged with the fleeing merchants of the Clockwise Market, which was destroyed in the Event. A combination between the engineers of the Grandt Sky Association and the merchants of the Clockwise Market, the Airborne Market now flies across Divian as an airborne trading center.
 * **Typical Characters:** Characters who seek profit and love to trade (can be greedy or be focused on money), and characters that have an eye for tech (more curious and passionate, but may be detached from others).
 
 </details>
@@ -97,8 +101,10 @@ Each character originates from a particular clan in Divian. Here is a list of cl
 <summary>📐 Syvrian Conglomerate [The Builder]</summary>
 
 * **Nation:** Keluarga
-* **Description:** A group consisting of several architectural and construction businesses, the Syvrian Conglomerate is home to architects, artisans, builders, and creators of many types. While they can be a bit greedy, the businesses keep each other in check in order to maintain their reputation. They are led by a board of directors, similar to a company.
-* **Typical Characters:** Characters who possess a creative mind, and love to work on different projects. They may seek wealth and power, but will (usually) put their reputation first. They tend to be rather intelligent and observant.
+*   **Description:** A group consisting of several architectural and construction businesses, the Syvrian Conglomerate is home to architects, artisans, builders, and creators of many types. Formed about 30 years after the Chaos Event, the Conglomerate took over the formerly Magus-held “Syvrian Island”, and built up their business from there.
+
+    While members can be a bit greedy, the businesses keep each other in check in order to maintain their reputation. They are led by a board of directors, similar to a company.
+* **Typical Characters:** Characters who often possess a creative mind, and love to work on different projects. They may seek wealth and power, but will (usually) put their reputation first. They tend to be rather intelligent and observant.
 
 </details>
 
@@ -107,8 +113,8 @@ Each character originates from a particular clan in Divian. Here is a list of cl
 <summary>⛪️ Church of the Divine [The Believer]</summary>
 
 * **Nation:** Bellator
-* **Description:** One of the few places in Divian dedicated to the gods, the Church of the Divine is a place of healing and enlightenment, teaching about and praying to the gods of the past. A relatively small group, some travel to the four corners of the world to spread their beliefs and help the poor and downtrodden. They are led by High Priestess Lumina, a gracious figure who is highly regarded.
-* **Typical Characters:** Characters who are selfless and religious. They can be rather minimalist and place no value in personal wealth. Some may be knowledgeable of the gods of the past, but many from the church only seek to do good in the world.
+* **Description:** The Church of the Divine is a small group in Bellator. It is one of the few places in Divian that is dedicated to the Gods, and it is a place of healing, studying and enlightenment. The leader is High Priestess Lumina.
+* **Typical Characters:** People from the Church are focused on teaching and praying to the 'Gods of Old'. They can be rather minimalist and place little to no value in personal wealth. Some may be knowledgeable of the gods of the past, but many from the church only seek to do good in the world.
 
 </details>
 
@@ -117,8 +123,8 @@ Each character originates from a particular clan in Divian. Here is a list of cl
 <summary>🗻 Lanturna Valley [The Independent]</summary>
 
 * **Nation:** Mantalla
-* **Description:** Located in the cold nation of Mantalla, Lanturna Valley is an independent clan formed from the ruins of the former nation of Matrona.&#x20;
-* **Typical Characters:** Anti-social but not unfriendly, Lanturna Valley characters tend to keep to and look out for themselves.
+* **Description:** Lanturna Valley is an independent clan in the cold nation of Mantalla. It was formed after the Chaos event from the ruins of the former Nation of Matrona.
+* **Typical Characters:** Sometimes anti-social but not unfriendly, Lanturna Valley characters tend to keep to and look out for themselves.&#x20;
 
 </details>
 
@@ -127,8 +133,8 @@ Each character originates from a particular clan in Divian. Here is a list of cl
 <summary>🔱 Triton [The Ambitious]</summary>
 
 * **Nation:** Thaloryn
-* **Description:** Formed after the Chaos Event by the remnants of Epsilon and Theta, Triton seeks to bring back the glory days of the past, and seeks to unite the world. This has lead them to be major targets of the Vigilantes, but the group still remains strong in their endeavours.
-* **Typical Characters:** Characters can be extremely varied in personality, but many are ambitious and seek land and territory to call their own.
+* **Description:** Triton is clan in Thaloryn, formed after the Chaos event from the remnants of the nations of Epsilon and Theta. The clan hopes to bring back the glory days of the past, and wants to unite the world like the superpowers of old. They are a target of the Vigilantes because of this.
+* **Typical Characters:** Characters from Triton can be extremely varied in personality, but many are ambitious and seek land and territory to call their own.
 
 </details>
 

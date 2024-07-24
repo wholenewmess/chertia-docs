@@ -37,8 +37,6 @@ Adventurers from all across Divian made their way to the town of Emberlyn in Sol
 
 <summary>Part 2: "Kaijin &#x26; Linumi"</summary>
 
-The two gods, originally in self-isolation, were brought together at a symposium, which immediately led to a war between the two over mutual disrespect.&#x20;
-
 At first, the two gods were on their own, but were brought together by Yasumi to meet each other. Unfortunately, the meeting led to a fight between the two and a war was declared. The adventurers attempted to stop this conflict by playing both sides, when a mysterious Catalyst Seeker used a strange power to take over the body of Linumi!
 
 While the adventurers managed to subdue the possessed god, and Kaijin prevented Linumi from destroying herself - ending the war between them - the gods have isolated themselves once again, leaving the adventurers troubled over these recent events.
@@ -105,7 +103,7 @@ Linumi draws her power from those around her, absorbing their magic, thoughts, a
 
 <summary>Yasumi Cailin</summary>
 
-
+A researcher and the former protégée of Esher Lirong. They came to Solaria in search of knowledge, hoping to observe the rise of magic in the region. Yasumi is kind and measured, rarely getting worked up or flustered.
 
 </details>
 
@@ -123,7 +121,15 @@ A Runeseeker from Neo Providentia, Aeliana fled the city to escape her terrible 
 
 <summary>Sada Saburo</summary>
 
+A member of the "Six Warlocks" magic guild, Sada is very egotistical and chaotic. Yasumi, who knows Sada from their original clan, remarks that they remember Sada playing a magical card game called _Revelation_.
 
+</details>
+
+<details>
+
+<summary>Juniper "Myosotis"</summary>
+
+Hailing from Neo Providentia, Juniper arrived in Solaria to complete some kind of ritual. Not much else is known about this character.
 
 </details>
 
@@ -131,7 +137,7 @@ A Runeseeker from Neo Providentia, Aeliana fled the city to escape her terrible 
 
 <summary>Esher Lirong</summary>
 
-
+A researcher and the former mentor of Yasumi. Prior to the players arriving in Emberlyn, a failed spell merged Esher with a pig. Esher was encouraged to leave Solaria by the players, and hasn't yet returned.
 
 </details>
 
