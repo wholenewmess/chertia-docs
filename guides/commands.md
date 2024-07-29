@@ -7,7 +7,7 @@ coverY: 0
 
 This page will provide you with an overview of various commands on the server.
 
-#### 🗣️ Chat
+### 🗣️ Chat
 
 For detailed information on the chat system, go [<mark style="color:blue;">here</mark>](chat.md).
 
@@ -18,7 +18,7 @@ For detailed information on the chat system, go [<mark style="color:blue;">here<
 * `/ic` or `/ooc` - Sets your chat mode to either In-Character or Out-Of-Character.
 * `/afk` - Puts you in AFK mode. Moving will disable AFK mode.
 
-#### **🧙** Characters
+### **🧙** Characters
 
 * `/character create [name]` - Start the character creation process.
 * `/character edit [element] [value]` - Edit an element of your character. Just doing `/character edit` will open the interactive editor.
@@ -27,7 +27,14 @@ For detailed information on the chat system, go [<mark style="color:blue;">here<
 * `/character view [player]` - View someone's character card.
 * `/character reset` - Reset your character. Staff member approval is required.
 
-#### 💵 Economy & Trading
+### 👕 Skins
+
+* `/s add [name] [url]` - Adds a skin to your list of skins. Use Imgur for the URL of the image source.
+* `/s remove [name]` - Removes a skin from your list of skins.
+* `/s set [name]` - Changes your current skin.
+* `/s reset` - Resets your skin to your normal Minecraft skin.
+
+### 💵 Economy & Trading
 
 * `/bal` - View your balance.
 * `/pay [player] [amount]` - Sends crowns to another player.
@@ -36,13 +43,13 @@ For detailed information on the chat system, go [<mark style="color:blue;">here<
 * `/lockdrop` - Toggles your ability to drop items.
 * `/giveitem` - After running this, the next player you click on will receive your held item (the whole stack).
 
-#### 👥 Event-Only
+### 👥 Event-Only
 
 * `/sw` - Teleport to the event location.
 * `/home` - Teleport home.
 * `/tpa [player]` - Send a teleport request to another player.
 
-#### 📝 Miscellaneous
+### 📝 Miscellaneous
 
 * `/note add [name] [text]` - Creates a note with the provided name and text.
 * `/note view [name]` - View a specific notes.
