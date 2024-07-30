@@ -59,9 +59,7 @@ Each character originates from a particular clan in Divian. Here is a list of cl
 <summary>🌸 Peace Lily [The Peacekeeper]</summary>
 
 * **Nation:** Azura
-*   **Description:** A clan situated in the eastern parts of Azura, Peace Lily is mostly comprised of individuals and their descendants who lost others during the Chaos Event. As a result, they seek to achieve peace throughout Divian and work tirelessly towards that aim.
-
-    The clan is currently led by Calliope Green, an elder Capling who strives to try and create a place of serenity inside a world of chaos.
+* **Description:** Peace Lily is a clan in the eastern parts of Azura, mostly made up out of people that lost loved ones during the Chaos Event. The clan is led by one leader, a capling called Calliope Green. Most people from Peace Lily hope to create peace in Divian, and work tirelessly towards that goal. They are often carefree and humble, and many are farmers, fishers, or artists.
 * **Typical Characters:** Carefree, peaceful, and humble people with a passion to help. Many farmers, fishers, and musicians/artists come from Peace Lily.
 
 </details>
