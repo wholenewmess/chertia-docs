@@ -7,9 +7,15 @@ coverY: 0
 
 ### 📖 Story Events
 
-Story events are set up by staff members. During story events, your character typically interacts with story characters (controlled by staff) to progress Chertia's main story. These events can include excursions to new locations, boss fights, puzzles, and more.
+Story events are set up by moderators. During story events, your character typically interacts with story characters (controlled by staff) to progress Chertia's main story. These events can include excursions to new locations, boss fights, puzzles, and more.
 
 You can view an overview of our Story Events in the Discord [<mark style="color:blue;">here</mark>](https://discord.com/channels/555458092486230058/1084542974400151664).
+
+### 📝 Player-Led Events
+
+Player-led events are set up by players. They can range from simple activites to large-scale quests, and can even be asynchronous! When planning a player-led event, you need to submit the form and message a moderator.
+
+You can find the form [here](https://forms.gle/YszBvyx8TNZskHrX7).
 
 ### 👥 Roleplay Events
 
