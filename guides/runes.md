@@ -11,6 +11,27 @@ Chertia features a custom magic system that works through **runes** applied to y
 
 Located in Emberlyn, the Runesmith will take one of your items and apply a random rune to it for a price. It will take around 24 hours for the Runesmith to apply the rune, so you'll need to come back the next day to collect your item.
 
+<details>
+
+<summary>🎲 Potential Runes per Item Type</summary>
+
+* ⚔️ Sword/Mace:
+  * Bullet; Burst; Capricious; Enderblight; Freeze; Gust; Recoil; Repel; Cownnon; Lifesteal; Instability (rare); Emboldening (rare); Shrinking (rare)
+* 👕 Chestplate
+  * Cleanse; Extinguish
+* 🪽 Elytra
+  * Cleanse; Extinguish; Takeoff
+* 🥾 Boots
+  * Climbing; Leap
+* ⛏️ Pickaxe
+  * Hasten; Locating; Magnet; Pearl; Reaching (rare); Shrinking (rare)
+* 🪓 Axe
+  * Capricious; Gust; Pearl; Cownnon (rare); Reaching (rare); Shrinking (rare)
+* 🎣 Fishing Rod
+  * Magnet; Netting
+
+</details>
+
 ### List of Runes
 
 This list may not include all runes.
@@ -43,7 +64,7 @@ On right click, changes the weather.
 
 <summary>🥛 Cleanse</summary>
 
-On sneak, removes (some) negative effects from the user.
+On sneak, removes all potion effects from the user.
 
 </details>
 
@@ -203,6 +224,6 @@ On sneak + attack, entities around the user are repelled.
 
 <summary>🚀 Takeoff</summary>
 
-On taking off with an Elytra, the user is given a significant boost.
+On taking off with an Elytra, the user is given a significant boost and the slow falling potion effect.
 
 </details>
