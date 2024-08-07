@@ -73,9 +73,11 @@ Kaijin attempts this himself, but fails. Linumi and the adventurers claim that K
 
 <summary>Part 4: "Echoes"</summary>
 
-A strange ringing sound echoes across Solaria. Linumi and the adventurers, travelling to the source, find a strange island with a portal, and a mysterious figure called Juniper, who opens the portal to a strange realm, sealing the personal memories of several adventurers, including themselves.
+Gateways have opened across Divian, with many people losing memories of their personal lives. Juniper, a member of a Neo Providentian group with ties to the old Magus Collective, comes to Solaria to close the gateway in the region.
 
-Now without memories of their own personal lives, the adventurers try to adjust, as Linumi and Juniper search around Solaria for Memory Stones, in an effort to regain their lost memories…
+However, an old threat has emerged - one forgotten to time: The Immortal, sealed away centuries ago by the gods of old. Struggling to find a solution, Kaijin and Linumi eventually use their powers to temporarily seal the Solarian Gateway.
+
+With the gods weakened, and Juniper returning to Neo Providentia to gather support, the adventurers try to recover; the concern of the great threat weighing deeply in their minds…
 
 </details>
 
