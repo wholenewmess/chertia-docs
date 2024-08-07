@@ -79,6 +79,14 @@ However, an old threat has emerged - one forgotten to time: The Immortal, sealed
 
 With the gods weakened, and Juniper returning to Neo Providentia to gather support, the adventurers try to recover; the concern of the great threat weighing deeply in their minds…
 
+* [Chapter 22: "Echoes I"](https://discord.com/channels/555458092486230058/1258928093402234921)
+* [Chapter 23: "The Perilous Potion"](https://discord.com/channels/555458092486230058/1260383223880482847)
+* [Chapter 24: "Yasumi"](https://discord.com/channels/555458092486230058/1265454823864668190)
+* [Chapter 25: "Memory Stones"](https://discord.com/channels/555458092486230058/1266547772631547935)
+* [Chapter 26: "Forgotten Foe"](https://discord.com/channels/555458092486230058/1267638908594946171)
+* [Chapter 27: "Sada"](https://discord.com/channels/555458092486230058/1269081446044139520)
+* [Chapter 28: "Echoes II"](https://discord.com/channels/555458092486230058/1270530975151165521)
+
 </details>
 
 ### 🧙 Story Characters
@@ -131,7 +139,7 @@ A member of the "Six Warlocks" magic guild, Sada is very egotistical and chaotic
 
 <summary>Juniper "Myosotis"</summary>
 
-Hailing from Neo Providentia, Juniper arrived in Solaria to complete some kind of ritual. Not much else is known about this character.
+Hailing from Neo Providentia, Juniper is a partial descendant of someone important from the now-defunct Magus Collective. They belong to a group of other descendants currently known as the Magus Group.
 
 </details>
 
