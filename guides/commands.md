@@ -43,6 +43,12 @@ For detailed information on the chat system, go [<mark style="color:blue;">here<
 * `/lockdrop` - Toggles your ability to drop items.
 * `/giveitem` - After running this, the next player you click on will receive your held item (the whole stack).
 
+### ⚙️ Options
+
+* `/options set [option] [value]` - Allows you to set an option. Options include things like: using vanilla fishing instead of our custom fishing system; setting client-side weather; changing chat options.
+  * Note: instead of setting an option to "false", you would instead **unset** the option.
+* `/options unset [option]` - Allows you to unset an option and use the default.
+
 ### 👥 Event-Only
 
 * `/sw` - Teleport to the event location.
