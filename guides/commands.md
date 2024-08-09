@@ -49,6 +49,20 @@ For detailed information on the chat system, go [<mark style="color:blue;">here<
   * Note: instead of setting an option to "false", you would instead **unset** the option.
 * `/options unset [option]` - Allows you to unset an option and use the default.
 
+<details>
+
+<summary>List of Options</summary>
+
+* `chat_mode` - can be set to "ic" or "ooc" and determines your chat mode.
+* `local_chat_radius` - can be set to an integer between 1 and 100 and determines your local chat radius.
+* `local_chat_private` - if set, will suppress your local chat messages from the local-chat Discord channel.
+* `local_chat_only` - if set, you will only receive local chat messages.
+* `suppress_iris` - if set, Iris will not send you notifications on Discord.
+* `vanilla_fishing` - if set, you will use the vanilla fishing system instead of our custom one.
+* `weather` - can be set to "sun", "rain", "thunder", or unset for vanilla weather. When set, your client-side weather will be changed.
+
+</details>
+
 ### 👥 Event-Only
 
 * `/sw` - Teleport to the event location.
