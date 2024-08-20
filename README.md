@@ -28,8 +28,6 @@ Welcome to Chertia, a Minecraft roleplay/survival server where every action you 
 
 Want to stir up chaos with a mischievous character? Dream of running a cozy inn, offering refuge to weary travelers? Or perhaps you see yourself as a wandering nomad, exploring every corner of the world? The possibilities are endless.&#x20;
 
-**💙 Join our Discord by clicking** [**here**](https://discord.gg/chertia)**!**
-
 Chertia's dedicated and passionate community sets us apart from other Minecraft servers. Our players and staff work tirelessly to foster an **inclusive, welcoming environment** where new and experienced players alike can feel at home.&#x20;
 
 ### 🧑‍⚖️ Rules
