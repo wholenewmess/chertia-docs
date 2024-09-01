@@ -50,7 +50,7 @@ Click on each Season to download the world map.
 * 📍 Midlands
 * _✍️ After a fierce war, and without gods, Divian quickly devolves into chaos._
 
-#### [🍃 Season 7 (Chertia Wilds)](https://drive.google.com/drive/folders/1mnZF9yJU2tp\_u0eNX4aDWAo7PKParYy2?usp=share\_link)
+#### 🍃 [<mark style="color:blue;">Season 7</mark>](https://drive.google.com/drive/folders/1mnZF9yJU2tp\_u0eNX4aDWAo7PKParYy2?usp=share\_link) <mark style="color:blue;">(Chertia Wilds)</mark>
 
 * 📆 April 19, 2024 - August 30, 2024
 * 📖 32 chapters
