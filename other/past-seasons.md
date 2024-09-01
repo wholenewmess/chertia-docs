@@ -50,7 +50,9 @@ Click on each Season to download the world map.
 * 📍 Midlands
 * _✍️ After a fierce war, and without gods, Divian quickly devolves into chaos._
 
-#### 🍃 Season 7 (Chertia Wilds)
+#### [🍃 Season 7 (Chertia Wilds)](https://drive.google.com/drive/folders/1mnZF9yJU2tp\_u0eNX4aDWAo7PKParYy2?usp=share\_link)
 
-* 📆 April 19, 2024 - present
+* 📆 April 19, 2024 - August 30, 2024
+* 📖 32 chapters
 * 📍 Solaria
+* ✍️ _The Solaria Adventurers' Guild helps the two new gods realize their potential._
