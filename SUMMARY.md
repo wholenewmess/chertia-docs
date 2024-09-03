@@ -32,3 +32,4 @@
 ## Other
 
 * [⌛ Past Seasons](other/past-seasons.md)
+* [Season 1](other/season-1.md)
