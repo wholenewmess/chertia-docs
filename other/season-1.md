@@ -1,6 +1,6 @@
 ---
-hidden: true
 icon: '1'
+hidden: true
 cover: ../.gitbook/assets/58u5v14vo2a41.png.webp
 coverY: 0
 ---
@@ -12,11 +12,11 @@ coverY: 0
 
 ***
 
-### Part 1: "Welcome to Chertia"
+## Part 1: "Welcome to Chertia"
 
 ***
 
-#### Chapter 1: "Welcome to Chertia"
+### Chapter 1: "Welcome to Chertia"
 
 _January 10, 2020_
 
@@ -30,7 +30,7 @@ Syenite's conversation with the players deepens the understanding of the conflic
 
 ***
 
-#### Chapter 2: "Path of Devotion"
+### Chapter 2: "Path of Devotion"
 
 _January 15, 2020_
 
@@ -42,7 +42,7 @@ Afterward, Mylonite takes the players to a shrine near her core, where she teach
 
 ***
 
-#### Chapter 3: "In Motion"
+### Chapter 3: "In Motion"
 
 _January 17, 2020_
 
@@ -50,7 +50,7 @@ Mylonite and Syenite arrive, arguing over the escalating war, with Mylonite urgi
 
 ***
 
-#### Chapter 4: "Chertia & Syenite"
+### Chapter 4: "Chertia & Syenite"
 
 _January 24, 2020_
 
@@ -62,7 +62,7 @@ Despite Chertia’s warnings about repeating past mistakes, Mylonite and Syenite
 
 ***
 
-#### Chapter 5: "Illusions of Power"
+### Chapter 5: "Illusions of Power"
 
 _January 31, 2020_
 
@@ -74,7 +74,7 @@ In the aftermath, Mylonite, concerned about her brother's deteriorating mental s
 
 ***
 
-#### Chapter 6: "The War"
+### Chapter 6: "The War"
 
 _February 7, 2020_
 
