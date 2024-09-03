@@ -104,6 +104,8 @@ The players express concern over the potential threat posed by The Shadow, wonde
 
 As the gods prepare to depart, the players offer sacrifices and ask questions, trying to make sense of the situation. The conversation ends on a solemn note, with the players left to ponder the implications of the events that have unfolded.
 
+<figure><img src="../.gitbook/assets/2020-02-14_19.43.14.png" alt=""><figcaption></figcaption></figure>
+
 ### Chapter 8: "Monster Hunters"
 
 _February 19, 2020_
