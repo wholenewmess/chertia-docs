@@ -3,6 +3,20 @@ icon: '1'
 hidden: true
 cover: ../.gitbook/assets/58u5v14vo2a41.png.webp
 coverY: 0
+layout:
+  cover:
+    visible: true
+    size: full
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: false
+  outline:
+    visible: true
+  pagination:
+    visible: false
 ---
 
 # Season 1
