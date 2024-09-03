@@ -90,7 +90,7 @@ The session concludes with Syenite’s ominous departure, leaving the players an
 
 ***
 
-## Part 2: "The Shadow"
+## Part 2: "The Shadows"
 
 ### Chapter 7: "Home"
 
@@ -162,8 +162,8 @@ As the ritual fails, the group debates Plan B—a drastic measure to cut off the
 
 _March 1, 2020_
 
-The session begins with light-hearted banter as Lord Syenite, Taz, and others engage in playful teasing, highlighting the camaraderie among the group. This quickly shifts when Lady Mylonite joins, revealing the absence of Scoria, raising concerns about their situation. As tensions build, the group faces a sudden attack by Shadow Monsters, leading to chaos and multiple casualties.
+Syenite and Mylonite arrive, with Mylonite revealing the absence of Scoria. The group faces a sudden attack by Shadow Monsters, leading to chaos and multiple casualties.
 
-Amidst the battle, Lady Mylonite reveals that they managed to close the rift, but the victory feels hollow as the threat of the Shadows persists. Scoria is implicated as the source of the Shadows, causing a rift among the group on how to handle the situation. Ultimately, a decision is made to separate Scoria from the Shadows, though the process is fraught with danger, nearly costing the group dearly.
+Amidst the battle, Mylonite reveals that they managed to close the rift, but the victory feels hollow as the threat of the Shadows persists. Scoria is implicated as the source of the Shadows, causing a divide among the group on how to handle the situation. The group decides to try and separate Scoria from the Shadows, though the process is fraught with danger, nearly costing the group dearly.
 
 As the dust settles, it becomes apparent that while Scoria is saved, the group remains trapped in their current realm, with no clear way to return to their own worlds. The session concludes with lingering doubts and unresolved tensions as the group grapples with the implications of their actions, leaving them with more questions than answers.
