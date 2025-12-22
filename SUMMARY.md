@@ -2,4 +2,4 @@
 
 ## Main Page
 
-* [📖 Chertia](README.md)
+* [🧩 Chertia Requiem](README.md)
