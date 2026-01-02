@@ -44,21 +44,21 @@ As a general rule, we strongly recommend refraining from sharing _**any**_ perso
 4. Do not share deep personal issues in a public forum without being aware of the consequences that may be associated with it. The staff team is always standing by, but there may be circumstances where information can be shared between community members behind our backs.
 5. Do not share or joke about sexual preferences in-depth. While you may be comfortable with your sexuality and those involved in the interaction could also be, you always run the risk of a potentially malicious person either using this information against you or picking up on it as an indication of interest.
 
-_**In general, assume that any information you share is now public information. Consider this when you decide what you should and should not post.**_
+_**In general, assume that any information you share with someone online is now public information. Consider this when you decide what you should and should not share/post.**_
 
 #### **Interaction & Roleplay** <a href="#interaction-and-roleplay" id="interaction-and-roleplay"></a>
 
 These are some of the warning signs that you should look out for when you are interacting with others in the community and elsewhere online.
 
-1. **Player/character distinctions** are important to be aware of when interacting and roleplaying with others. The actions and thoughts of a character are not representative of the person who is playing that character. This also applies to in-character relationships, which should be separated from out-of-character interactions and relationships.
-2. **Peer pressure** is a significant issue no matter what the ages of involved community members are. If you feel as though you are being peer pressured to do something that you are uncomfortable with, you should end the interaction and inform a staff member. There are several ways that someone can try to use peer pressure against you.
+1. **Player/character distinctions** are important to be aware of when interacting and roleplaying with others. The actions and thoughts of a character are not representative of the person who is playing that character. This also applies to in-character relationships, which should be separated from out-of-character interactions and relationships. That being said, this dynamic does not absolve players of their character's words or actions; hurtful or inappropriate messages are still the responsibility of the player sending them.
+2. **Peer pressure** is a significant issue no matter the ages of involved community members. If you feel as though you are being peer pressured to do something that you are uncomfortable with, you should end the interaction and inform a staff member. There are several ways that someone can try to use peer pressure against you.
    1. **Appeal to empathy**; when someone takes advantage of a person’s empathy to try and get what they want, this is a form of peer pressure, and an especially dangerous one at that. For example, saying something along the lines of “I’ve been feeling really bad lately, but if you did \[x] I might feel a bit better”.
    2. **Lack of boundaries**; someone may overstep their boundary with another person by attempting to make them feel ‘less-than’ for not doing what they want you to do. For example, “oh, come on. It’s me you’re talking to and it’s just \[x]”.
    3. **Creating precedent**; someone might bring up the past actions of the person they are interacting with as a way of trying to get them to do something now. For example, “but you did \[x] last time. Why not now?”
    4. **Using threatening language;** this is the most obvious form of peer pressure, but it is dangerous nonetheless. When someone uses implications or open threats to try and get another person to do something. For example; “if you don’t do \[x] I will \[y].”
-3. **Inappropriate comments and messages** can often be difficult to pinpoint because context matters a lot. However, sexually suggestive messages that make you uncomfortable are never okay and should be reported to a staff member immediately, including the context of the message. This applies to both out-of-character and in-character interactions, on and off the server.
+3. **Inappropriate comments and messages** can often be difficult to pinpoint because context matters a lot. However, sexually suggestive or inappropriate messages that make you uncomfortable are never okay and should be reported to a staff member immediately, including the context of the message. This applies to both out-of-character and in-character interactions, on and off the server.
 
 ### Safety Entitlement
 
 * Members of the community are entitled to a standard of safety enforced by the staff team.
-* If a community member or staff member poses a threat to other community members, they will be removed from the community.
+* If a community member or staff member poses a threat to other community members, they will be removed.
