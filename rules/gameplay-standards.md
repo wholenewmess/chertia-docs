@@ -11,10 +11,26 @@ coverY: 0
 _In general, breaking one of these rules will result in a permanent ban._
 
 1. No griefing or stealing.
-2. No hacked clients, unapproved mods, or glitch exploits.
+2. No hacked clients, unapproved mods, or glitch/noise exploits.
 3. Remain kind and respectful. While swearing and suggestive discussion is allowed, do not make others uncomfortable or intentionally upset.
 
 To ensure maturity, you must be at least 20 years old to join the community. Additionally, please view our other standards documents before joining the server.
+
+### 📗 Survival Standards
+
+_In general, try to follow these guidelines as you play survival on the server._
+
+1. Respect player builds, pre-built structures, and pre-generated structures.&#x20;
+   1. Build at least 32 blocks away from the nearest player or structure, unless explicit permission is provided to build closer.
+   2. When looting a structure, take only the items inside loot chests. Do not break any blocks or take anything else (including books).
+   3. Speak to a moderator before taking over / 'claiming' a structure. If there are loot chests inside, the structure is generally off-limits for claiming.
+2. When claiming land (especially large swaths of land), you must have immediate intent to build on it. Land that is 'claimed' but has no purpose will be considered unclaimed.
+   1. Be mindful of others' space and roleplay immersion; "mega-builds", pixel art, etc. should be discussed with a moderator beforehand.
+3. All mob farms must be approved.
+   1. Automated farms (as in, farms/grinders that do not require player input) are not allowed.
+   2. AFK fishing farms are not allowed.
+4. Chop down an entire tree — don't leave the stump or top of the tree.
+5. Be respectful of server resources — no redstone clocks or mega-farms.
 
 ### ⚖️ Punishments <a href="#punishments" id="punishments"></a>
 
