@@ -47,7 +47,7 @@ There are several reasons that a character might perish during a story event. Th
 
 * You request that your character dies, and there is an appropriate moment in the story.
 * Your character is acting antagonistically, disrupting the event, and/or neglecting common sense.
-  * For example, your character decides to disrespect or challenge an aggressive story character that won't hesitate to kil them.
+  * For example, your character decides to disrespect or challenge an aggressive story character that won't hesitate to kill them.
 * The moderation team believe a fresh start would benefit your enjoyment of the server.
   * For example, we notice you're struggling to roleplay with your current character or your character's development is stagnant.
 
