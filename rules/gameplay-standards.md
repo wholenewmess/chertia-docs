@@ -21,7 +21,7 @@ To ensure maturity, you must be at least 20 years old to join the community. Add
 _In general, try to follow these guidelines as you play survival on the server._
 
 1. Respect player builds, pre-built structures, and pre-generated structures.&#x20;
-   1. Build at least 32 blocks away from the nearest player or structure, unless explicit permission is provided to build closer.
+   1. Build at least 64 blocks away from the nearest player or structure, unless explicit permission is provided to build closer.
    2. When looting a structure, take only the items inside loot chests. Do not break any blocks or take anything else (including books).
    3. Speak to a moderator before taking over / 'claiming' a structure. If there are loot chests inside, the structure is generally off-limits for claiming.
 2. When claiming land (especially large swaths of land), you must have immediate intent to build on it. Land that is 'claimed' but has no purpose will be considered unclaimed.
