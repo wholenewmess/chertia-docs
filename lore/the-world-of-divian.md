@@ -130,7 +130,7 @@ Each character originates from a particular clan in Divian. Here is a list of cl
 <summary>🎭 The Masquerade [The Performer]</summary>
 
 * **Nation:** N/A
-* **Description:** This travelling band of performers are known for bringing entertainment across the entire world of Divian. On the surface, they're beloved entertainers who bring joy to different communities. Beneath the masks, however, the Masquerade is a powerful information network. Their travels allow them to trade in secrets.
+* **Description:** This travelling band of performers are known for bringing entertainment across the entire world of Divian. On the surface, they're beloved entertainers who bring joy to different communities. Beneath the masks, however, the Masquerade is a powerful information network. Their travels allow them to trade in secrets. Rumours circle that The Masquerade was once a travelling clan called Ivory Ash.
 * **Typical Characters:** Characters from The Masquerade excel in social situations; they can read a room and manipulate almost anyone. They typically seek knowledge or information that they can exchange for other goods.
 
 </details>
@@ -170,7 +170,7 @@ Each character originates from a particular clan in Divian. Here is a list of cl
 <summary>🔔 Bellwright Circle [The Joyful]</summary>
 
 * **Nation:** Solaria
-* **Description:** A much newer clan, Bellwright Circle is a large city made up of folks from across Solaria. Solarians come to Bellwright Circle for entertainment and joy; its government, made up of Bellfolk, seek to create a safe haven of peace and joy. Beneath the surface, the truth may be much darker.
+* **Description:** A much newer clan, Bellwright Circle is a large city made up of folks from across Solaria. Solarians come to Bellwright Circle for entertainment and joy, and bells often ring out throughout the city to signal joy or contentment. Its government, made up of Bellfolk, seek to create a safe haven of peace and joy. Beneath the surface, the truth may be much darker.
 * **Typical Characters:** Characters from Bellwright Circle are joyful and wish to spread that joy. It's as simple as that. Right?
 
 </details>
