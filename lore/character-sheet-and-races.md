@@ -30,22 +30,6 @@ Humans are humans. Adaptable, ambitious, and quite common in Divian. Their short
 
 <details>
 
-<summary>🔔 <strong>Bellfolk</strong></summary>
-
-A much more recent addition to Divian, Bellfolk are gentle humanoids with small bells or crystalline growths naturally forming in their hair, skin, or along their limbs. Different bells on their body ring in various ways to indicate mood. Bright, quick chimes can indicate joy or excitement; slow, muted tones suggest sadness; discordant jangling can represent fear or anger. When Bellfolk are unwell, the sounds of their bells become much more muted and dull. Complimenting a Bellfolk's song is deeply flattering; mimicking or mocking them is a serious insult.
-
-* **Lifespan:** 90-140 years (child until 16)
-* **Height:** 150-180cm
-* **RP Difficulty:** ⭐️⭐️
-
-#### **Variations**
-
-* Copper (their skin or bells may change in colour over time)
-
-</details>
-
-<details>
-
 <summary>🪶 <strong>Avian</strong></summary>
 
 Avians are feathered folk with bird-like features (beaks, talons, and plumage that varies widly by lineage). Their hollow bones make them lighter and more agile, but also more fragile; they are careful to avoid conflict except from a distance. Avians can communicate emotions through their feathers: ruffling can indiciate agitation, slicked-back feathers can indicate focus or aggression, and preening towards others can indicate comfort or affection. They often avoid enclosed spaces.
@@ -63,6 +47,22 @@ Avians are feathered folk with bird-like features (beaks, talons, and plumage th
 * Corvid (crows, ravens)
 * Raptor (hawks, eagles)
 * Songbird (smaller and lighter)
+
+</details>
+
+<details>
+
+<summary>🔔 <strong>Bellfolk</strong></summary>
+
+A much more recent addition to Divian, Bellfolk are gentle humanoids with small bells or crystalline growths naturally forming in their hair, skin, or along their limbs. Different bells on their body ring in various ways to indicate mood. Bright, quick chimes can indicate joy or excitement; slow, muted tones suggest sadness; discordant jangling can represent fear or anger. When Bellfolk are unwell, the sounds of their bells become much more muted and dull. Complimenting a Bellfolk's song is deeply flattering; mimicking or mocking them is a serious insult.
+
+* **Lifespan:** 90-140 years (child until 16)
+* **Height:** 150-180cm
+* **RP Difficulty:** ⭐️⭐️
+
+#### **Variations**
+
+* Copper (their skin or bells may change in colour over time)
 
 </details>
 
@@ -230,7 +230,7 @@ Villagers are tall, long-nosed folk with a deep-rooted culture of trade, profess
 
 <summary>🐺 <strong>Wolffolk</strong></summary>
 
-Lupine humanoids with fur, pointed ears, and keen senses. They're typically pack-oriented by nature, and seek to form tight-knight social bonds. Body language matters more than words to Wolffolk; direct eye contact can be seen as challenging or a sign of respect depending on the context. Lone Wolffolk are either fiercely independent or deeply wounded.
+Lupine humanoids with fur, pointed ears, and keen senses. They're typically pack-oriented by nature, and seek to form tight-knit social bonds. Body language matters more than words to Wolffolk; direct eye contact can be seen as challenging or a sign of respect depending on the context. Lone Wolffolk are either fiercely independent or deeply wounded.
 
 * **Lifespan:** 160-210 years (child until 15)
 * **Height:** 160cm-210cm
