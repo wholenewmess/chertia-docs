@@ -15,6 +15,8 @@ Divian is the world in which our story takes place. The story takes place in the
 
 **It's up to you to create a character that fits within this world**, but we are always here to help you.
 
+<figure><img src="../.gitbook/assets/Divian, 1791.png" alt=""><figcaption><p>Divian, 1791</p></figcaption></figure>
+
 ### Your Character
 
 Your character has arrived in Luminara, a new nation in northern Divian. They have been drawn there by some sort of magical force — compelled to settle there. You will select a clan/origin for your character based on the provided list, but it is up to you if your character feels at-home within that clan or out-of-place.&#x20;
@@ -130,7 +132,7 @@ Each character originates from a particular clan in Divian. Here is a list of cl
 <summary>🎭 The Masquerade [The Performer]</summary>
 
 * **Nation:** N/A
-* **Description:** This travelling band of performers are known for bringing entertainment across the entire world of Divian. On the surface, they're beloved entertainers who bring joy to different communities. Beneath the masks, however, the Masquerade is a powerful information network. Their travels allow them to trade in secrets. Rumours circle that The Masquerade was once a travelling clan called Ivory Ash.
+* **Description:** This travelling band of performers are known for bringing entertainment across Divian. On the surface, they're beloved entertainers who bring joy to different communities. Beneath the masks, however, the Masquerade is a powerful information network. Their travels allow them to trade in secrets. Rumours circle that The Masquerade was once a travelling clan called Ivory Ash.
 * **Typical Characters:** Characters from The Masquerade excel in social situations; they can read a room and manipulate almost anyone. They typically seek knowledge or information that they can exchange for other goods.
 
 </details>
@@ -172,6 +174,26 @@ Each character originates from a particular clan in Divian. Here is a list of cl
 * **Nation:** Solaria
 * **Description:** A much newer clan, Bellwright Circle is a large city made up of folks from across Solaria. Solarians come to Bellwright Circle for entertainment and joy, and bells often ring out throughout the city to signal joy or contentment. Its government, made up of Bellfolk, seek to create a safe haven of peace and joy. Beneath the surface, the truth may be much darker.
 * **Typical Characters:** Characters from Bellwright Circle are joyful and wish to spread that joy. It's as simple as that. Right?
+
+</details>
+
+<details>
+
+<summary>🪾 Rootwhisper [The Connected]</summary>
+
+* **Nation:** Azura
+* **Description:** A clan mostly made up of Sylvari; Rootwhisper features long vines and roots that keep the community connected. Its inhaitants do not use a lot of verbal communication, relying on body language and root connections. They claim the fungi of Divian are all connected — a vast underground web that carries information across the world.
+* **Typical Characters:** Characters from Rootwhisper might not feel as comfortable with verbal communication. They seek out company, but may struggle in tense social situations.
+
+</details>
+
+<details>
+
+<summary>💫 Starfall Wanderers [The Wisher]</summary>
+
+* **Nation:** Bellator
+* **Description:** Another newer clan. The Starfall Wanderers are a travelling band of nomads with a makeshift base located in the Bellator Dunes. They travel the desert searching for Starglass, a mysterious new substance that provides magical power. They have a close relationship with The Airborne Market, which often stops by to purchase large quantities of the substance.
+* **Typical Characters:** Characters from Starfall Wanderers seek power through magical means. Starglass may not appear as often in Luminara, but it is their sole mission to acquire some. These characters are quite varied in personality, but are typically have an additional personal 'wish' that they would like to see fulfilled in Luminara.
 
 </details>
 
