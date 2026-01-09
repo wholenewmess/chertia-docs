@@ -178,7 +178,7 @@ Each character originates from a particular clan in Divian. Here is a list of cl
 
 <details>
 
-<summary>🪾 Rootwhisper [The Connected]</summary>
+<summary>🌳 Rootwhisper [The Connected]</summary>
 
 * **Nation:** Azura
 * **Description:** A clan mostly made up of Sylvari; Rootwhisper features long vines and roots that keep the community connected. Its inhaitants do not use a lot of verbal communication, relying on body language and root connections. They claim the fungi of Divian are all connected — a vast underground web that carries information across the world.
