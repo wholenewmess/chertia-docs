@@ -2,7 +2,6 @@
 description: >-
   All you need to know about the server's world and lore so you can create a
   character.
-hidden: true
 cover: ../.gitbook/assets/2025-12-24_19.47.08.png
 coverY: 0
 ---
