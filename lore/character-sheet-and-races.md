@@ -7,8 +7,10 @@ coverY: 0
 
 ### Character Sheet
 
+[Click here to view the character sheet.](https://docs.google.com/document/d/1J_9vF4S_EQpCb0GlJBwmkGOA86i1fYktyO9MXJhRUvk/edit?usp=sharing) To fill out this sheet, click ‘File’ in the top left corner, and ‘Make a copy’. You can then edit the copy in your own Google Drive. When submitting your character sheet, ensure that sharing is turned on (click ‘Share’ at the top right, change ‘General access’ to ‘Anyone with the link’, and then click ‘Copy link’).
+
 {% hint style="warning" %}
-The character sheet is not yet available. Check back in the near future.
+Character submission is not yet available. Check back later.
 {% endhint %}
 
 ### Character Races
