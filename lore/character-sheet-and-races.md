@@ -47,6 +47,7 @@ Avians are feathered folk with bird-like features (beaks, talons, and plumage th
 
 #### Sub-Races
 
+* **Avian** (base)
 * **Owlkin:** Much more recluse and quick to aggression than typical Avians. Typically prefers to act at night, so as not to be seen by others. Increases RP Difficulty to ⭐️⭐️.
 
 #### **Variations**
@@ -85,6 +86,7 @@ Dwarves are stout, sturdy folk with a deep connection to stone, metal, and craft
 
 #### Sub-Races
 
+* **Dwarf** (base)
 * **Burrower:** Small, comfort-loving folk who live in cozy underground homes, much closer to the surface than typical Dwarves. They are often very friendly and hospitable. However, threatening them or their loved ones will not end well; a cornered Burrower is not to be underestimated. Reduces RP Difficulty to ⭐️.
 * **Capling:** Often live aboveground, using their extended lifespan to focus on larger building projects. They are somewhat grumpy but fiercely loyal.&#x20;
 
@@ -102,6 +104,7 @@ Fae are small, winged folk with a strange sense of logic and a complicated relat
 
 #### Sub-Races
 
+* **Fae** (base)
 * **Pixie:** Much smaller than other Fae (max height of 120cm). They are mischievous creatures, and use the confusion caused by Fae dialogue to their advantage.
 * **Sprite:** Nature-bound Fae who are much more serious. They are much better with language than other Fae. Reduces RP Difficulty to ⭐️⭐️⭐️⭐️.
 * **Wisp:** Ethereal, quiet Fae who are much slower to trust and interact with others comfortably. They are not ghosts, but often move so quietly that they remain undetected. Reduces RP Difficulty to ⭐️⭐️⭐️⭐️.
@@ -157,6 +160,7 @@ Mothkin are soft, fuzzy folk with large eyes and feathery antannae. They are noc
 
 #### Sub-Races
 
+* **Mothkin** (base)
 * **Duskmoths:** A much more reclusive and unfriendly variant of Mothkin; they have sunset-coloured wings and a darker tone. Increases RP Difficulty to ⭐️⭐️⭐️⭐️.
 
 </details>
@@ -173,6 +177,7 @@ Sylvari are plant-based folk. They vary greatly in appearance and biology, despi
 
 #### Sub-Races
 
+* **Sylvari** (base)
 * **Florahyte:** Flower and vine-based. They often smell faintly of flowers. Typically much more reserved and dislike overt attention.
 * **Willowkin:** Tree-based, tall and graceful with drooping hair. They are slow to act, but are deeply thoughtful and generally very kind. Reduces RP Difficulty to ⭐️⭐️.
 * **Creakling:** Gnarled, bark-heavy, and ancient-looking even when young. Creaklings are sturdy, grumpy, and fiercely protective. Increases RP Difficulty to ⭐️⭐️⭐️⭐️.
@@ -192,6 +197,7 @@ Tidefolk are aquatic or semi-aquatic creatures intrinsically tied to water. Rece
 
 #### Sub-Races
 
+* **Tidefolk** (base)
 * **Nymph:** Freshwater-based; often found near rivers, lakes, and springs. Nymphs are emotionally intuitive and often serve as mediators or peacekeepers. They typically have blue or green undertones to their skin.
 * **Merfolk:** Ocean-based; they feature scaled patches, webbed digits, and fin-like ears. They're bold, adventurous, and quick-moving.&#x20;
 * **Coralkin:** Reef-dwellers with colourful coral growths. They're patient and friendly, which is often seen as a weakness by other races. Their coral formations can indicate health or general well-being; they lose colour if they are sick or injured.
@@ -228,6 +234,7 @@ Villagers are tall, long-nosed folk with a deep-rooted culture of trade, profess
 
 #### Sub-Races
 
+* **Villager** (base)
 * **Cleric:** Distinct from other professions, these villagers have a deep affinity for the divine and often choose to build churches or shrines. Other villagers look up to Clerics.
 * **Wanderer:** These villagers typically move from home to home on a frequent basis, only settling down once they find a suitable village or partner.&#x20;
 
