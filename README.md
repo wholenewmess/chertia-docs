@@ -12,7 +12,7 @@ coverY: 0
 
 Chertia returns! In early 2026, we'll begin our 8th season: Chertia Requiem. Although we're still working out many of the details, this wiki will act as the hub for information on the upcoming season and will be updated frequently.&#x20;
 
-Our target launch date is `end of January 2026`. _**This may change.**_ We have lots to do leading up to our launch date, including the server code, defining the character creation/submission process, outlining the story, designing many of the story characters, advertising the server, creating builds, and more. Many of these things may require the community's help!
+Our target launch date is February 7, 2026.
 
 ### 📖 Characters & Story
 
