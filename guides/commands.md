@@ -27,7 +27,7 @@ Chertia Requiem features custom commands that aim to improve roleplay and surviv
 * `/sit` - Entering this command will allow you to sit on any solid block. You can also sit on certain blocks (like stairs and slabs) by right-clicking them using an empty hand.
 * `/crowns` - This command is used to interact with the server's virtual economy system.&#x20;
   * `/crowns balance` - view your current balance of Crowns.
-  * `/crowns send` \[player] \[number] - send Crowns to another player.
+  * `/crowns send [player] [number]` - send Crowns to another player.
   * /`crowns top` - view the Crowns leaderboard.
 
 ### 🪶 Other
