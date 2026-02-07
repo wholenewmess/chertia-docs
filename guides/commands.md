@@ -9,7 +9,7 @@ Chertia Requiem features custom commands that aim to improve roleplay and surviv
 
 ### 🧍 Characters
 
-* `/character create` - This command will put you in the character creator. You will be prompted to enter the details that you wrote in your approved character sheet.
+* `/create_character` - This command will put you in the character creator. You will be prompted to enter the details that you wrote in your approved character sheet.
 
 ### 💬 Chat & Communication
 
