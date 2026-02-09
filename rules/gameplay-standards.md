@@ -28,7 +28,7 @@ _In general, try to follow these guidelines as you play survival on the server._
    1. Be mindful of others' space and roleplay immersion; "mega-builds", pixel art, etc. should be discussed with a moderator beforehand.
 3. All mob farms must be approved.
    1. Automated farms (as in, farms/grinders that do not require player input) are not allowed.
-   2. AFK fishing farms are not allowed.
+   2. AFK fishing farms, infested/oozing-based farms, pigman farms, and enderman farms are not allowed.
 4. Chop down an entire tree — don't leave the stump or top of the tree.
 5. Be respectful of server resources — no redstone clocks or mega-farms.
 
