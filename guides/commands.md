@@ -14,6 +14,7 @@ Chertia Requiem features custom commands that aim to improve roleplay and surviv
 ### 💬 Chat & Communication
 
 * `/chat` - This command is used to control various chat settings. The settings are as follows:
+  * `/chat scope [gobal/local]` - adjust your default chat scope (global chat vs. local chat).
   * `/chat default_radius [number]` - adjust your default radius for local chat.
   * `/chat shout_radius [number]` - adjust your radius for shouting.
   * `/chat whisper_radius [number]` - adjust your radius for whispering.
@@ -29,6 +30,7 @@ Chertia Requiem features custom commands that aim to improve roleplay and surviv
   * `/crowns balance` - view your current balance of Crowns.
   * `/crowns send [player] [number]` - send Crowns to another player.
   * /`crowns top` - view the Crowns leaderboard.
+* `/submit-farm [description]` - Submit a farm for staff to review for approval.
 
 ### 🪶 Other
 
@@ -38,3 +40,5 @@ Chertia Requiem features custom commands that aim to improve roleplay and surviv
   * `/skins set [name]` - set your skin to one of your saved skins.
   * `/skins reset` - reset your skin to your actual Minecraft skin.
 * `/ping` - Entering this command will display your current ping to the server and the server's current performance levels. Higher ping means that there is more latency between you and the server and you may notice lag.
+* `/note [list/view/add/remove/delete/edit]` - Interact with the notes system, which allows you to create and store personal notes. Only you can see these.
+* `/fix-stacking` - If any items in your inventory will not stack together, use this command.
