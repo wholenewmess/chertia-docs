@@ -39,7 +39,9 @@ Chertia Requiem features custom commands that aim to improve roleplay and surviv
   * `/skins remove [name]` - remove a skin from your available skins.
   * `/skins set [name]` - set your skin to one of your saved skins.
   * `/skins reset` - reset your skin to your actual Minecraft skin.
+* `/trash` - Opens a trash bin. Items placed in the trash bin are permanently deleted.
 * `/ping` - Entering this command will display your current ping to the server and the server's current performance levels. Higher ping means that there is more latency between you and the server and you may notice lag.
 * `/cweather [clear/rain/thunder/reset]` - Change your client-side weather. Resets on join.
+* `/ctime [time/reset]` - Change your client-side time. Resets on join.
 * `/note [list/view/add/remove/delete/edit]` - Interact with the notes system, which allows you to create and store personal notes. Only you can see these.
 * `/fix-stacking` - If any items in your inventory will not stack together, use this command.
