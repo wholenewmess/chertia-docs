@@ -38,6 +38,7 @@ There are so many more custom-coded features on Chertia Requiem. For example...
 
 * Right click on a stair or slab to sit down.
 * Custom sleep-voting system where one player can anonymously cancel skipping the night.
+* Right click to open shulker boxes in your hand.
 * Happy Ghasts like certain items and blocks; use a Slimeball to stop their AI, use an ice block to shrink them down, use a magma block to make them grow again, and use sugar to temporarily speed them up!
 * Tools & weapons will not be dropped when you die.
 * Craft Bandages & Aid Kits to heal other players.
