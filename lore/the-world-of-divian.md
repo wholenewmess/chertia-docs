@@ -14,7 +14,7 @@ Divian is the world in which our story takes place. The story takes place in the
 
 **It's up to you to create a character that fits within this world**, but we are always here to help you.
 
-<figure><img src="../.gitbook/assets/Divian, 1791.png" alt=""><figcaption><p>Divian, 1791</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Divian, 1729 (copy) (copy)-2.jpg" alt=""><figcaption><p>Divian, 1791</p></figcaption></figure>
 
 ### Your Character
 
