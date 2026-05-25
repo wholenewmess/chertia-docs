@@ -23,7 +23,7 @@ Joining Chertia Requiem is easy, but we'll need you to read a few short document
 1. To begin, review our [Gameplay Standards](rules/gameplay-standards.md) to see if this server is the right fit for you. You must be at least 20 years old to play. You can also review our [Code of Conduct](rules/code-of-conduct.md).
 2. Then, join our [Discord](https://discord.gg/VSPpYwW/). Once you're in, send a message in our [#join-here](https://discord.com/channels/555458092486230058/1473359125881684188) channel with the information requested. While you're waiting to be approved, review the other documentation and begin your character.
    1. Review the [Character Standards](rules/character-standards.md), [Roleplay Standards](rules/roleplay-standards.md), and the [World of Divian guide](lore/the-world-of-divian.md).
-   2. Create a character sheet using the instructions in the [Character Sheet & Races guide](lore/character-races.md).
+   2. Create a character sheet using the instructions in the [Character Races guide](lore/character-races.md).
 3. Once approved, post your character in the [#character-draft](https://discord.com/channels/555458092486230058/1463266496166760560) channel for review! Welcome to Chertia!
 
 <div align="center"><figure><img src=".gitbook/assets/2025-12-22_14.15.21.png" alt=""><figcaption></figcaption></figure></div>
