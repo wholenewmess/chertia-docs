@@ -13,7 +13,7 @@ Your character will be rejected if they do not follow these standards.
 1. Your character is original (it is not a copy of a character from somewhere else).
 2. Your character was created by you. It was not created using AI (ChatGPT, etc.), or created by someone else.
 3. Your character is mortal (they can die).
-4. Your character is not a child (refer to the [Character Sheet & Races](../lore/character-sheet-and-races.md) page).
+4. Your character is not a child (refer to the [Character Sheet & Races](../lore/character-races.md) page).
 5. Your character comes from a clan or location in Divian (the world we play in). To see which places your character can be from, see the Lore Guide.
 6. Your character does not have split or multiple personalities.
 7. Your character is not perfect -- give them flaws.

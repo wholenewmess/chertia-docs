@@ -3,15 +3,11 @@ cover: ../.gitbook/assets/2025-12-24_19.46.45.png
 coverY: 0
 ---
 
-# 🧬 Character Sheet & Races
+# 🧬 Character Races
 
-### Character Sheet
+### Character Submission
 
-[Click here to view the character sheet.](https://docs.google.com/document/d/1J_9vF4S_EQpCb0GlJBwmkGOA86i1fYktyO9MXJhRUvk/edit?usp=sharing) To fill out this sheet, click ‘File’ in the top left corner, and ‘Make a copy’. You can then edit the copy in your own Google Drive. When submitting your character sheet, ensure that sharing is turned on (click ‘Share’ at the top right, change ‘General access’ to ‘Anyone with the link’, and then click ‘Copy link’).
-
-{% hint style="warning" %}
-Character submission is not yet available. Check back later.
-{% endhint %}
+Create and submit your character [here](https://tally.so/r/eq05xJ). We'll get back to you once it's approved!
 
 ### Character Races
 
