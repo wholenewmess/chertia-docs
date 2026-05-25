@@ -1,10 +1,11 @@
 ---
 description: There are the server rules. Every player should know these.
+icon: gamepad-modern
 cover: ../.gitbook/assets/2026-01-01_17.20.32.png
 coverY: 0
 ---
 
-# 📕 Gameplay Standards
+# Gameplay Standards
 
 ### 📕 Essential Standards
 

@@ -1,9 +1,10 @@
 ---
+icon: down-to-bracket
 cover: ../.gitbook/assets/2026-01-16_14.23.44.png
 coverY: 0
 ---
 
-# 📦 Modpack
+# Modpack
 
 Chertia Requiem uses a custom modpack simply called _Requiem_. The modpack is purely client-side and adds a number of QOL features. We ask that you only use the mods that are provided in this modpack, unless an exception is granted by an administrator.&#x20;
 

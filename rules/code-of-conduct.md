@@ -1,9 +1,10 @@
 ---
+icon: gavel
 cover: ../.gitbook/assets/2025-12-22_14.14.35.png
 coverY: 0
 ---
 
-# 📓 Code of Conduct
+# Code of Conduct
 
 {% hint style="info" %}
 **Reporting Tool:** Chertia has a reporting tool for instances where you believe someone has violated the rules or standards. You can view & use the reporting tool [here](https://docs.google.com/forms/d/e/1FAIpQLSefkaaKC4Pvw36TIHL_xLyPPMQheF-gjwu64qfhMaOCUQ8Uyw/viewform?usp=sf_link).

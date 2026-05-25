@@ -1,9 +1,10 @@
 ---
+icon: terminal
 cover: ../.gitbook/assets/2026-02-03_17.51.02.png
 coverY: 279.30306505421186
 ---
 
-# 💻 Commands
+# Commands
 
 Chertia Requiem features custom commands that aim to improve roleplay and survival features. Here is an overview of player commands.
 

@@ -1,9 +1,10 @@
 ---
+icon: pickaxe
 cover: ../.gitbook/assets/2026-04-05_14.35.06.png
 coverY: 0
 ---
 
-# ⛏️ Survival Features
+# Survival Features
 
 Chertia Requiem features a number of fun and quality-of-life changes to the vanilla experience.
 

@@ -1,9 +1,10 @@
 ---
+icon: dna
 cover: ../.gitbook/assets/2025-12-24_19.46.45.png
 coverY: 0
 ---
 
-# 🧬 Character Races
+# Character Races
 
 ### Character Submission
 

@@ -1,10 +1,11 @@
 ---
 description: Your character must follow these standards to be approved.
+icon: user-hair
 cover: ../.gitbook/assets/2025-12-22_14.17.39.png
 coverY: 0
 ---
 
-# 📙 Character Standards
+# Character Standards
 
 ### 📙 Character Standards
 

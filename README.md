@@ -2,11 +2,12 @@
 description: >-
   Chertia is a roleplay/survival server full of magic, monsters, and gods. It
   has been running since 2015.
+icon: puzzle-piece
 cover: .gitbook/assets/2025-12-22_14.17.39.png
 coverY: 0
 ---
 
-# 🧩 Chertia Requiem
+# Chertia Requiem
 
 ### 🧩 **Chertia Requiem**
 
