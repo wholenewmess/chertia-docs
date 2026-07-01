@@ -57,7 +57,7 @@ Click on each Season to download the world map.
 * 📍 Solaria
 * ✍️ _The Solaria Adventurers' Guild helps the two new gods realize their potential._
 
-🔮 [Season 8 (Chertia Requiem)](https://drive.google.com/file/d/1gC1HyWzHtapQ3mrsyJiuRfm45Mjy5dE_/view?usp=sharing)
+🔮 [<mark style="color:blue;">**Season 8**</mark>](https://drive.google.com/file/d/1gC1HyWzHtapQ3mrsyJiuRfm45Mjy5dE_/view?usp=sharing) <mark style="color:blue;">**(Chertia Requiem)**</mark>
 
 * 📆 February 7, 2026 - June 27, 2026
 * 📖 24 chapters
