@@ -23,3 +23,4 @@
 * [Runes](guides/runes.md)
 * [Commands](guides/commands.md)
 * [Modpack](guides/modpack.md)
+* [Past Seasons](guides/past-seasons.md)

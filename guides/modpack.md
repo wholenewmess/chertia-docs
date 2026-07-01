@@ -1,5 +1,5 @@
 ---
-icon: down-to-bracket
+icon: cubes
 cover: ../.gitbook/assets/2026-01-16_14.23.44.png
 coverY: 0
 ---
