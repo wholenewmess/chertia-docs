@@ -40,7 +40,7 @@ Here are some examples of aspects:
 * "Clumsy" - we better hope your character isn't asked to hold anything important.
 * "Must protect X" - if your character knows another character, you can create aspects that form dynamics.
 
-Statuses are temporary aspects. This is likely self-explanatory, but statuses affect a character's immediate abilities. In Fade Condensed, these care called Consequences. These can both help and hinder your character. **You do not submit any of these with your character.** Trust is given to the player to apply statuses on their own (but the storyteller can apply them as well).
+Statuses are temporary aspects. This is likely self-explanatory, but statuses affect a character's immediate abilities. In Fate Condensed, these care called Consequences. These can both help and hinder your character. **You do not submit any of these with your character.** Trust is given to the player to apply statuses on their own (but the storyteller can apply them as well).
 
 Here are some examples of statuses:
 
