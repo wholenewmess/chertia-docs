@@ -2,7 +2,7 @@
 
 ## Main Page
 
-* [Chertia Requiem](README.md)
+* [Chertia](README.md)
 
 ## Rules and Procedures <a href="#rules" id="rules"></a>
 
@@ -10,6 +10,11 @@
 * [Character Standards](rules/character-standards.md)
 * [Roleplay Standards](rules/roleplay-standards.md)
 * [Code of Conduct](rules/code-of-conduct.md)
+
+## The Chertia Wastes
+
+* [The World of Divian](the-chertia-wastes/the-world-of-divian.md)
+* [Character Submission](the-chertia-wastes/character-submission.md)
 
 ## Characters and Lore <a href="#lore" id="lore"></a>
 
