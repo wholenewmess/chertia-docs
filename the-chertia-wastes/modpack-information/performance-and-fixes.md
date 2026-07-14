@@ -17,6 +17,12 @@ If you have RAM to spare, it is recommended that you increase the allocation fro
 | Check "Custom Java arguments" and enter `-XX:+UseZGC`.                                                                           | <img src="../../.gitbook/assets/image (35).png" alt="" data-size="original"> |
 | Here is what the finished screen should look like. You can now launch the game.                                                  | <img src="../../.gitbook/assets/image (36).png" alt="" data-size="original"> |
 
+***
+
+{% hint style="danger" %}
+**NOTE:** I recommend not following the steps below unless necessary.
+{% endhint %}
+
 #### Fixing Crashes Related to Vulkan / Using Shaders
 
 If you wish to use shaders or you are having crashes due to the modpack's preference of Vulkan over OpenGL, you can follow these steps.
