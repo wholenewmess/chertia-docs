@@ -15,7 +15,8 @@
 
 * [The World of Divian](the-chertia-wastes/the-world-of-divian.md)
 * [Character Submission](the-chertia-wastes/character-submission.md)
-* [Modpack Information](the-chertia-wastes/modpack-information.md)
+* [Modpack Information](the-chertia-wastes/modpack-information/README.md)
+  * [Performance & Fixes](the-chertia-wastes/modpack-information/performance-and-fixes.md)
 
 ## Characters and Lore <a href="#lore" id="lore"></a>
 
