@@ -23,6 +23,16 @@ If you're unable to use the Modrinth launcher, it is possible to download the .m
 | You can select "Install anyway". However, I recommend leaving this warning enabled for general use of Modrinth. The mudpack only contains mod files downloaded directly from Modrinth and configuration files.  | <img src="../.gitbook/assets/image (27).png" alt="" data-size="original"> |
 | Done! The modpack is installed and ready to play. You can follow the additional instructions below to improve performance.                                                                                      |                                                                           |
 
+{% hint style="info" %}
+**3 GB of Distant Horizons files will be downloaded to your instance by default.**
+
+Please note: when you first join the server, your client will begin to download around 3 GB of Distant Horizons data. This will slowly download all of the server's LODs so you can essentially have infinite render distance on the server. If you wish to disable this, you can either disable Distant Horizons or open the mod's settings and set "Enable Server Generation" to false.
+{% endhint %}
+
+***
+
+***
+
 ### Performance Improvements / Fixes
 
 #### RECOMMENDED: Increasing Allocated RAM & Adjusting Garbage Collector
