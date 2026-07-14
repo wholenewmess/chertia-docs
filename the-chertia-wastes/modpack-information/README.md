@@ -26,7 +26,7 @@ If you're unable to use the Modrinth launcher, it is possible to download the .m
 {% hint style="warning" %}
 #### RECOMMENDED: Increasing Allocated RAM & Adjusting Garbage Collector
 
-If you have RAM to spare, it is recommended that you increase the allocation from 6 GB to at least 8 GB. Additionally, Distant Horizons recommends using ZGC as Minecraft's garbage collector, which is easy to do. Please follow the steps [here](./#performance-improvements-fixes).
+If you have RAM to spare, it is recommended that you increase the allocation from 6 GB to at least 8 GB. Additionally, Distant Horizons recommends using ZGC as Minecraft's garbage collector, which is easy to do. Please follow the steps [here](performance-and-fixes.md).
 {% endhint %}
 
 {% hint style="info" %}
