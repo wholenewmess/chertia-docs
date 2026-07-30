@@ -25,6 +25,7 @@
 
 ## Guides
 
+* [Fate Condensed](guides/fate-condensed.md)
 * [Chat System](guides/chat-system.md)
 * [Survival Features](guides/survival-features.md)
 * [Runes](guides/runes.md)

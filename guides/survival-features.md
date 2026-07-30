@@ -1,4 +1,5 @@
 ---
+hidden: true
 icon: pickaxe
 cover: ../.gitbook/assets/2026-04-05_14.35.06.png
 coverY: 0

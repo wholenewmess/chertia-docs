@@ -1,4 +1,5 @@
 ---
+hidden: true
 icon: terminal
 cover: ../.gitbook/assets/2026-02-03_17.51.02.png
 coverY: 279.30306505421186
