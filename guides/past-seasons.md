@@ -63,3 +63,15 @@ Click on each Season to download the world map.
 * 📖 24 chapters
 * 📍 Luminara
 * ✍️ _A group of mortals come to Luminara bound together by a magical sigil on their bodies._
+
+
+
+### The Chertia Wastes
+
+The Chertia Wastes is a series of mini-seasons with specific twists or mods intended to create a unique gameplay experience.&#x20;
+
+**🍻** [**The Chertia Wastes VIII**](https://drive.google.com/file/d/1R2LdrTgyeraI0epIx85D5ANgGhgvQILy/view?usp=share_link)
+
+* 📆 July 18, 2026 - September 26, 2026
+* 🧱 Create; Minecraft: Java Edition, 26.2
+
